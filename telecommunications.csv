@@ -286,7 +286,6 @@ android.pro,available,88,96%,7,"Entertainment,Technology,Telecommunications",,,
 telephone.dev,available,88,92%,9,"Technology,Telecommunications",,,
 firewall.us,resell,88,76%,8,"Technology,Telecommunications",24/04/2002 14:27,23/04/2026 23:59,"GoDaddy.com, LLC"
 disconnect.me,expiring,88,88%,10,"Media,Technology,Telecommunications",09/07/2008 17:03,09/07/2025 17:03,"GoDaddy.com, LLC"
-firewall.net,resell,88,76%,8,"Technology,Telecommunications",20/09/1995 04:00,19/09/2025 04:00,InterNetX GmbH
 decipher.ai,resell,87,80%,8,"Media,Technology,Telecommunications",15/12/2017 23:48,25/10/2025 04:00,Deep Vision Architects
 decipher.me,resell,87,80%,8,"Media,Technology,Telecommunications",10/10/2011 02:35,10/10/2025 02:35,Dynadot Inc
 decipher.io,resell,87,80%,8,"Media,Technology,Telecommunications",03/09/2018 10:18,03/09/2025 10:18,"GoDaddy.com, LLC"
@@ -858,7 +857,6 @@ fmt.pro,available,78,88%,3,"Media,Technology,Telecommunications",,,
 singleclick.space,available,78,76%,12,"Media,Technology,Telecommunications",,,
 radiobroadcast.co,available,78,76%,14,"Media,Technology,Telecommunications",,,
 intercept.zone,available,78,88%,9,"Military,Technology,Telecommunications",,,
-telecom.space,available,78,84%,7,"Business,Technology,Telecommunications",,,
 spamblock.expert,available,76,80%,9,"Technology,Telecommunications",,,
 putthrough.us,available,76,72%,11,"Business,Technology,Telecommunications",,,
 teletype.space,available,76,88%,8,"Media,Technology,Telecommunications",,,
@@ -4110,7 +4108,6 @@ plugged.cloud,available,62,84%,7,"Media,Technology,Telecommunications",,,
 telephonepole.net,expired,62,72%,14,Telecommunications,28/04/2016 02:04,28/04/2025 02:04,"GoDaddy.com, LLC"
 telephonekiosk.tech,available,62,72%,15,"Real Estate,Technology,Telecommunications",,,
 telephonepole.ai,available,62,72%,14,Telecommunications,,,
-telephonedirectory.com,resell,62,76%,19,"Business,Media,Telecommunications",14/02/1997 05:00,08/10/2025 17:37,"eNom, LLC"
 datatrack.ninja,available,61,88%,10,"Technology,Telecommunications,Transportation",,,
 datatrack.gg,available,61,88%,10,"Technology,Telecommunications,Transportation",,,
 datatrack.so,available,61,88%,10,"Technology,Telecommunications,Transportation",,,
@@ -5053,12 +5050,12 @@ clockgenerator.gg,available,58,72%,15,"Engineering,Technology,Telecommunications
 closedcaption.so,available,58,76%,14,"Media,Technology,Telecommunications",,,
 mousewheel.so,available,58,72%,11,"Media,Technology,Telecommunications",,,
 telegraphist.ai,available,58,72%,12,"Media,Technology,Telecommunications",,,
-addressed.space,available,58,72%,9,"Business,Technology,Telecommunications",,,
+addressed.space,available,58,16%,9,"Business,Technology,Telecommunications",,,
 hardwire.online,expired,58,84%,8,"Engineering,Technology,Telecommunications",03/06/2024 21:08,03/06/2025 23:59,One.com A/S
 closedcaption.gg,available,58,76%,14,"Media,Technology,Telecommunications",,,
 callnote.io,available,58,72%,9,"Media,Telecommunications",,,
 closedcaption.cloud,available,58,76%,14,"Media,Technology,Telecommunications",,,
-addressed.us,available,58,72%,9,"Business,Technology,Telecommunications",,,
+addressed.us,available,58,16%,9,"Business,Technology,Telecommunications",,,
 computerphone.gg,available,58,72%,13,"Retail,Technology,Telecommunications",,,
 autoreply.expert,available,58,84%,10,"General,Technology,Telecommunications",,,
 decibel.expert,available,58,84%,7,"Science,Technology,Telecommunications",,,
@@ -5133,7 +5130,7 @@ videophone.it,resell,58,72%,10,"Media,Technology,Telecommunications",09/10/2015 
 codespace.expert,available,58,92%,9,"Business,Technology,Telecommunications",,,
 wire.it,expired,58,88%,4,"Technology,Telecommunications",27/06/2007 10:01,27/06/2025 00:00,
 servlet.dev,available,58,68%,7,"Business,Technology,Telecommunications",,,
-addressed.gg,available,58,72%,9,"Business,Technology,Telecommunications",,,
+addressed.gg,available,58,16%,9,"Business,Technology,Telecommunications",,,
 NOTgate.gg,available,58,72%,8,"Engineering,Technology,Telecommunications",,,
 basestation.online,available,58,80%,12,"Technology,Telecommunications,Transportation",,,
 networksubsystem.net,available,58,72%,17,"Engineering,Technology,Telecommunications",,,
@@ -5300,7 +5297,7 @@ messageboard.gg,available,58,68%,13,"Media,Technology,Telecommunications",,,
 decoder.pro,resell,58,84%,7,"Media,Technology,Telecommunications",29/09/2019 10:08,29/09/2025 10:08,One.com A/S
 proxyserver.gg,available,58,80%,12,"Business,Technology,Telecommunications",,,
 swapfile.app,available,58,72%,9,"Business,Technology,Telecommunications",,,
-addressed.dev,available,58,72%,9,"Business,Technology,Telecommunications",,,
+addressed.dev,available,58,16%,9,"Business,Technology,Telecommunications",,,
 supermicrocomputer.so,available,58,72%,18,"Science,Technology,Telecommunications",,,
 wats.zone,available,58,88%,4,"Business,Technology,Telecommunications",,,
 clockgenerator.ninja,available,58,72%,15,"Engineering,Technology,Telecommunications",,,
@@ -5376,7 +5373,7 @@ hotpotatorouting.co,available,58,72%,18,"General,Technology,Telecommunications",
 localhost.space,available,58,88%,9,"Media,Technology,Telecommunications",,,
 UART.online,resell,58,76%,4,"Technology,Telecommunications",05/11/2024 12:52,05/11/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 cableguy.app,available,58,80%,9,"Media,Technology,Telecommunications",,,
-addressed.store,available,58,72%,9,"Business,Technology,Telecommunications",,,
+addressed.store,available,58,16%,9,"Business,Technology,Telecommunications",,,
 videophone.pro,available,58,72%,10,"Media,Technology,Telecommunications",,,
 morse.ninja,available,58,88%,5,"Technology,Telecommunications",,,
 swapfile.gg,available,58,72%,9,"Business,Technology,Telecommunications",,,
@@ -5393,7 +5390,7 @@ bubbler.gg,available,58,76%,7,"Media,Technology,Telecommunications",,,
 CONELRAD.online,available,58,76%,8,"General,Technology,Telecommunications",,,
 beacon.at,available,58,88%,6,"Technology,Telecommunications,Transportation",,,
 radioenergy.gg,available,58,80%,12,"Media,Science,Telecommunications",,,
-addressed.io,sold,58,72%,9,"Business,Technology,Telecommunications",10/09/2021 20:55,10/09/2025 20:55,"NameCheap, Inc."
+addressed.io,sold,58,16%,9,"Business,Technology,Telecommunications",10/09/2021 20:55,10/09/2025 20:55,"NameCheap, Inc."
 cableguy.dev,available,58,80%,9,"Media,Technology,Telecommunications",,,
 clockgenerator.ai,available,58,72%,15,"Engineering,Technology,Telecommunications",,,
 callnote.online,available,58,72%,9,"Media,Telecommunications",,,
@@ -5496,10 +5493,10 @@ decibel.co,expiring,58,84%,7,"Science,Technology,Telecommunications",21/07/2010 
 cabling.cloud,available,58,80%,7,Telecommunications,,,
 messageboard.tech,available,58,68%,13,"Media,Technology,Telecommunications",,,
 telegraphist.at,available,58,72%,12,"Media,Technology,Telecommunications",,,
-addressed.cloud,available,58,72%,9,"Business,Technology,Telecommunications",,,
+addressed.cloud,available,58,16%,9,"Business,Technology,Telecommunications",,,
 interlacing.net,available,58,72%,11,"Media,Technology,Telecommunications",,,
 proxyserver.ninja,available,58,80%,12,"Business,Technology,Telecommunications",,,
-addressed.ninja,available,58,72%,9,"Business,Technology,Telecommunications",,,
+addressed.ninja,available,58,16%,9,"Business,Technology,Telecommunications",,,
 datatransferrate.us,available,58,72%,18,"Finance,Technology,Telecommunications",,,
 decibel.xyz,expiring,58,84%,7,"Science,Technology,Telecommunications",22/07/2024 15:55,22/07/2025 23:59,"Spaceship, Inc."
 NORgate.online,available,58,80%,8,"Engineering,Technology,Telecommunications",,,
@@ -5580,9 +5577,10 @@ backplane.so,available,58,72%,9,"Engineering,Technology,Telecommunications",,,
 SCO.expert,available,58,88%,3,"Business,Technology,Telecommunications",,,
 codeword.zone,available,58,80%,8,"Media,Technology,Telecommunications",,,
 NORgate.co,expiring,58,80%,8,"Engineering,Technology,Telecommunications",23/07/2024 06:47,23/07/2025 06:47,Sav.com LLC
+addressed.ai,resell,58,16%,9,"Business,Technology,Telecommunications",09/03/2025 19:19,09/03/2027 19:19,"NameCheap, Inc."
 rotaryphone.ninja,available,58,72%,12,"Technology,Telecommunications",,,
 equivalencegate.gg,available,58,72%,16,"Engineering,Technology,Telecommunications",,,
-addressed.zone,available,58,72%,9,"Business,Technology,Telecommunications",,,
+addressed.zone,available,58,16%,9,"Business,Technology,Telecommunications",,,
 spacesatellite.store,available,58,72%,15,"Technology,Telecommunications",,,
 cisco.so,expired,58,92%,5,"Business,Technology,Telecommunications",06/05/2024 15:17,06/05/2025 15:17,Key-Systems
 mousewheel.co,available,58,72%,11,"Media,Technology,Telecommunications",,,
@@ -5658,6 +5656,7 @@ servicepack.at,available,58,84%,12,"Business,Technology,Telecommunications",,,
 datacentre.dev,available,58,88%,11,"Business,Technology,Telecommunications",,,
 interconnectivity.io,available,58,20%,17,"General,Technology,Telecommunications",,,
 callnote.org,available,58,72%,9,"Media,Telecommunications",,,
+addressed.org,resell,58,16%,9,"Business,Technology,Telecommunications",02/06/2017 14:40,02/06/2026 14:40,"GoDaddy.com, LLC"
 dotdotslash.store,available,58,80%,13,"Business,Technology,Telecommunications",,,
 recontact.at,available,58,84%,9,"Business,Technology,Telecommunications",,,
 messageboard.it,resell,58,68%,13,"Media,Technology,Telecommunications",26/10/2023 09:00,26/10/2025 00:00,
@@ -5920,7 +5919,7 @@ subsignal.app,available,58,72%,9,"Engineering,Technology,Telecommunications",,,
 NORgate.tech,available,58,80%,8,"Engineering,Technology,Telecommunications",,,
 dialtone.it,resell,58,72%,9,"Media,Technology,Telecommunications",22/11/2013 16:00,08/12/2025 00:00,
 bubbler.io,resell,58,76%,7,"Media,Technology,Telecommunications",04/03/2025 15:16,04/03/2026 15:16,Edomains LLC
-addressed.me,resell,58,72%,9,"Business,Technology,Telecommunications",04/09/2024 08:31,04/09/2025 08:31,Realtime Register B.V.
+addressed.me,resell,58,16%,9,"Business,Technology,Telecommunications",04/09/2024 08:31,04/09/2025 08:31,Realtime Register B.V.
 telegrapher.so,available,58,76%,11,"Media,Technology,Telecommunications",,,
 netlayer.app,available,58,80%,8,"Business,Technology,Telecommunications",,,
 interconnectivity.tech,available,58,20%,17,"General,Technology,Telecommunications",,,
@@ -5936,7 +5935,7 @@ callbox.tech,available,58,76%,8,"Technology,Telecommunications,Transportation",,
 IRQ.xyz,available,58,84%,3,"Technology,Telecommunications",,,
 radioenergy.online,available,58,80%,12,"Media,Science,Telecommunications",,,
 windowmanager.xyz,available,58,72%,14,"Business,Technology,Telecommunications",,,
-addressed.site,available,58,72%,9,"Business,Technology,Telecommunications",,,
+addressed.site,available,58,16%,9,"Business,Technology,Telecommunications",,,
 NOTgate.zone,available,58,72%,8,"Engineering,Technology,Telecommunications",,,
 netlayer.zone,available,58,80%,8,"Business,Technology,Telecommunications",,,
 datarecorder.gg,available,58,72%,13,"Business,Technology,Telecommunications",,,
@@ -6034,6 +6033,7 @@ CONELRAD.ninja,available,58,76%,8,"General,Technology,Telecommunications",,,
 transmitter.online,expiring,58,76%,11,"Media,Technology,Telecommunications",16/07/2024 09:13,16/07/2025 23:59,West263 International Limited
 controlcharacter.net,available,58,72%,17,"Media,Technology,Telecommunications",,,
 autoreturn.cloud,available,58,32%,11,"General,Technology,Telecommunications",,,
+addressed.xyz,resell,58,16%,9,"Business,Technology,Telecommunications",18/12/2024 11:21,18/12/2025 23:59,Dynadot LLC
 differencegate.space,available,58,72%,15,"Engineering,Technology,Telecommunications",,,
 networksubsystem.io,available,58,72%,17,"Engineering,Technology,Telecommunications",,,
 gigahertz.expert,available,58,84%,9,"Engineering,Technology,Telecommunications",,,
