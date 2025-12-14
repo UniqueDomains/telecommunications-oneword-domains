@@ -21,6 +21,13 @@ If you want to search & filters the complete database of [Telecommunications one
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar                                                                | Created          | Expires          |
 | ------------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------------------------ | ---------------- | ---------------- |
+| service.win         | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.world       | resell    | 70       | 34%    | 7      | Chengdu West Dimension Digital Technology Co., Ltd.                      | 03/04/2017 16:12 | 03/04/2026 16:12 |
+| service.xyz         | resell    | 70       | 34%    | 7      | Sav.com, LLC                                                             | 05/09/2021 18:02 | 05/09/2026 23:59 |
+| service.yachts      | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.yoga        | available | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.you         | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
+| service.zip         | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
 | service.academy     | resell    | 70       | 34%    | 7      | Spaceship, Inc.                                                          | 07/07/2022 13:15 | 07/07/2026 13:15 |
 | service.accountant  | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
 | service.accountants | available | 70       | 34%    | 7      |                                                                          |                  |                  |
@@ -44,13 +51,6 @@ If you want to search & filters the complete database of [Telecommunications one
 | service.bio         | resell    | 70       | 34%    | 7      | Spaceship, Inc.                                                          | 11/08/2022 13:15 | 11/08/2026 13:15 |
 | service.black       | resell    | 70       | 34%    | 7      | Xiamen ChinaSource Internet Service Co., Ltd                             | 05/08/2025 15:15 | 05/08/2026 15:15 |
 | service.blackfriday | available | 70       | 34%    | 7      |                                                                          |                  |                  |
-| service.blog        | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
-| service.blue        | resell    | 70       | 34%    | 7      | Spaceship, Inc.                                                          | 17/04/2021 14:30 | 17/04/2026 14:30 |
-| service.boats       | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
-| service.bond        | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
-| service.boo         | premium   | 70       | 34%    | 7      |                                                                          |                  |                  |
-| service.boston      | expired   | 70       | 34%    | 7      | GoDaddy.com, LLC                                                         | 10/10/2017 16:00 | 10/10/2025 16:00 |
-| service.boutique    | sold      | 70       | 34%    | 7      | Spaceship, Inc.                                                          | 10/10/2025 08:39 | 10/10/2026 08:39 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Telecommunications-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,6 +90,7 @@ If you want to search & filters the complete database of [Telecommunications one
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,537       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 61,582       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,156,621    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

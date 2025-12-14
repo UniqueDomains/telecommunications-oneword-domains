@@ -1,4 +1,11 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+6692012e-bc6e-4bcc-ad89-7dbebbd8437b,service.win,premium,70,34,7,,,
+688058a5-72d6-4f88-9cf3-51b3a86d5b7d,service.world,resell,70,34,7,"Chengdu West Dimension Digital Technology Co., Ltd.",03/04/2017 16:12,03/04/2026 16:12
+1d554f41-695b-4530-83c9-f697181880a2,service.xyz,resell,70,34,7,"Sav.com, LLC",05/09/2021 18:02,05/09/2026 23:59
+5467a60b-6ae1-48e5-bbd9-d058dcd181a5,service.yachts,premium,70,34,7,,,
+3caf5b79-141f-40e9-8dd1-d141db87ff3a,service.yoga,available,70,34,7,,,
+7cd2027b-0995-4ec5-a43c-2067872ebbf6,service.you,premium,70,34,7,,,
+f9af8b1e-73c8-4d42-a9b9-f22dbb368b6a,service.zip,premium,70,34,7,,,
 4394f1ab-3f54-43bd-8cec-7b1c1dd3f19d,service.academy,resell,70,34,7,"Spaceship, Inc.",07/07/2022 13:15,07/07/2026 13:15
 c032f6e1-7002-4cbd-af74-0537b7f2f299,service.accountant,premium,70,34,7,,,
 f12f58b6-26e7-4f04-9d62-da26db34095f,service.accountants,available,70,34,7,,,
@@ -316,13 +323,6 @@ d6a2cff8-89fe-4a72-911a-e2916bd46db8,service.vote,available,70,34,7,,,
 562460d5-648b-4086-af7b-529c8a3edaf3,service.website,premium,70,34,7,,,
 605c2263-4305-47c0-9591-641c3056a63a,service.wedding,premium,70,34,7,,,
 7833488a-cf41-45cd-b894-a38485e11056,service.wiki,resell,70,34,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/08/2022 00:00,12/08/2026 00:00
-6692012e-bc6e-4bcc-ad89-7dbebbd8437b,service.win,premium,70,34,7,,,
-688058a5-72d6-4f88-9cf3-51b3a86d5b7d,service.world,resell,70,34,7,"Chengdu West Dimension Digital Technology Co., Ltd.",03/04/2017 16:12,03/04/2026 16:12
-1d554f41-695b-4530-83c9-f697181880a2,service.xyz,resell,70,34,7,"Sav.com, LLC",05/09/2021 18:02,05/09/2026 23:59
-5467a60b-6ae1-48e5-bbd9-d058dcd181a5,service.yachts,premium,70,34,7,,,
-3caf5b79-141f-40e9-8dd1-d141db87ff3a,service.yoga,available,70,34,7,,,
-7cd2027b-0995-4ec5-a43c-2067872ebbf6,service.you,premium,70,34,7,,,
-f9af8b1e-73c8-4d42-a9b9-f22dbb368b6a,service.zip,premium,70,34,7,,,
 b97d2d2d-0b4e-4704-bb34-340ae098ba80,internet.at,premium,64,88,8,,,
 1e0441e5-e071-488a-9e4e-7a4d3094443d,internet.cloud,resell,64,88,8,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:24
 5211447c-82a4-4517-8278-46ec1b539540,internet.co,resell,64,88,8,Dynadot Inc,24/02/2010 23:15,23/02/2027 23:59
