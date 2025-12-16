@@ -1,4 +1,46 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+e0f4a020-d271-4dbc-b15e-fb54a8958a66,service.online,premium,70,33,7,,,
+d758a545-b510-437e-9fbb-eb8f49be36d6,service.osaka,premium,70,33,7,,,
+b8736c37-f879-438c-9156-941ec38cf029,service.page,premium,70,33,7,,,
+d7309606-5d74-4ca7-98eb-ff88c63e0a47,service.party,premium,70,33,7,,,
+41a9ffc1-3350-4df9-89f6-8bd7d0022ea9,service.pet,premium,70,33,7,,,
+f0ad0d61-ab7e-49cf-8cd5-723ad81611c0,service.phd,premium,70,33,7,,,
+f2dfcb20-7366-44fe-a4b2-246829f2eefb,service.photo,premium,70,33,7,,,
+b9d50752-6994-4e4a-a81a-35f81b77ef66,service.photography,available,70,33,7,,,
+634c24c3-fc4f-483f-9aa3-08297f71c645,service.pics,available,70,33,7,,,
+96204220-b4e4-4f3c-8f54-92d2c3895beb,service.pictures,available,70,33,7,,,
+ef71ce46-0def-4cb8-b6b0-295aee4ad156,service.plumbing,premium,70,33,7,,,
+e354c1a3-69a3-418b-8600-ce99fa2e6103,service.porn,premium,70,33,7,,,
+0480c357-f8c2-4341-a648-a4e559c7f5d3,service.press,premium,70,33,7,,,
+451eb6d8-afa6-4523-9ef4-39a0db180044,service.productions,premium,70,33,7,,,
+c964c599-7578-4ffc-bf01-b805527b1e09,service.prof,premium,70,33,7,,,
+314e60a1-fdb4-4236-8389-566633b51f37,service.promo,premium,70,33,7,,,
+9f3f81ee-9517-4f14-9d4c-34a5ce75d8f8,service.properties,available,70,33,7,,,
+559778bd-5be1-403c-8010-2aceac8686ec,service.property,premium,70,33,7,,,
+f1ca4c2f-613b-4b23-aca3-1a5093858d42,service.protection,available,70,33,7,,,
+60df281c-037c-4c2c-9ffd-f3efe3850ddf,service.pub,resell,70,33,7,"DNSPod, Inc.",15/04/2019 10:49,15/04/2026 10:49
+804ad06e-5e4c-48ef-bcf8-857f274b59b5,service.pw,premium,70,33,7,,,
+f2bcab8c-9d28-4671-ac60-12f1b4513384,service.qpon,premium,70,33,7,,,
+3b71110a-55f3-4a95-b198-124080ad41ce,service.quest,premium,70,33,7,,,
+cf944c3b-17bd-432c-babf-c60040154206,service.racing,premium,70,33,7,,,
+203756da-f786-4a6d-9cf3-3de6a300f248,service.realty,available,70,33,7,,,
+a167d9ba-a4e1-40b7-a81a-268867c2d95b,service.recipes,available,70,33,7,,,
+362822f5-d695-4f84-a9ea-2ba86e18dc6d,service.red,resell,70,33,7,"Spaceship, Inc.",24/04/2019 11:04,24/04/2026 11:04
+40e75149-27c0-4119-b1b1-d7c08aaea94c,service.rehab,premium,70,33,7,,,
+a0267fb3-3a37-4cdf-8db4-2f95f4a6273c,service.reise,available,70,33,7,,,
+8e10767a-d08b-421c-9a18-ccbc4ec05730,service.rent,premium,70,33,7,,,
+1407936c-3bb0-47fe-b36a-7ec53e1e6f62,service.repair,expired,70,33,7,"GoDaddy.com, LLC",07/12/2016 07:48,07/12/2025 07:48
+d05fa476-7cc2-458e-8069-9e7e953b01d9,service.republican,available,70,33,7,,,
+c9b57df9-f514-422a-a1ff-4c0610e6a5a7,service.rest,premium,70,33,7,,,
+a67b18c7-d541-4e91-a69b-cd6f88407dfb,service.review,resell,70,33,7,"GoDaddy.com, LLC",01/11/2017 18:28,01/11/2026 18:28
+cad80b1f-271e-4ed7-8929-dc7099e758cf,service.reviews,premium,70,33,7,,,
+1d7b251e-ce05-4966-9348-3d93f2d1a3d7,service.rich,available,70,33,7,,,
+ebb75543-e531-4875-b138-e96dbdf2d426,service.rodeo,sold,70,33,7,Tucows Domains Inc.,11/12/2025 17:59,11/12/2026 17:59
+a0227a6c-5055-4691-a6b8-f45162d80a4c,service.rsvp,premium,70,33,7,,,
+966993af-323e-4786-a544-bdcb31131a91,service.run,resell,70,33,7,Xin Net Technology Corporation,07/03/2019 08:20,07/03/2026 08:20
+f0cc4f78-0b8e-4965-b29a-f14fe52afc6e,service.sale,premium,70,33,7,,,
+93fd2fe5-2e26-445d-90bf-fd517a1dc5ae,service.sarl,premium,70,33,7,,,
+36c0e0b4-dcbf-4f73-9f0b-517987e59473,service.sbs,premium,70,33,7,,,
 40fcffa9-4356-498e-8375-e1145cdabfc6,service.school,sold,70,33,7,"GoDaddy.com, LLC",30/09/2020 19:27,30/09/2026 19:27
 55cc1eef-732c-4de7-bb77-28e439e83999,service.science,premium,70,33,7,,,
 6482db59-2382-4e49-a0fc-d5a98ac96602,service.security,available,70,33,7,,,
@@ -286,48 +328,6 @@ ee57d340-b80e-4235-b605-31f1545cdfe6,service.network,sold,70,33,7,Dynadot Inc,21
 5e1eedcd-97a0-41bb-8ed5-b6342a633b02,service.news,premium,70,33,7,,,
 946aa8b8-f390-46b0-b7e5-a18bb90351bc,service.nexus,premium,70,33,7,,,
 b4eedfa0-a8b5-487d-9587-52346c2917d3,service.observer,premium,70,33,7,,,
-e0f4a020-d271-4dbc-b15e-fb54a8958a66,service.online,premium,70,33,7,,,
-d758a545-b510-437e-9fbb-eb8f49be36d6,service.osaka,premium,70,33,7,,,
-b8736c37-f879-438c-9156-941ec38cf029,service.page,premium,70,33,7,,,
-d7309606-5d74-4ca7-98eb-ff88c63e0a47,service.party,premium,70,33,7,,,
-41a9ffc1-3350-4df9-89f6-8bd7d0022ea9,service.pet,premium,70,33,7,,,
-f0ad0d61-ab7e-49cf-8cd5-723ad81611c0,service.phd,premium,70,33,7,,,
-f2dfcb20-7366-44fe-a4b2-246829f2eefb,service.photo,premium,70,33,7,,,
-b9d50752-6994-4e4a-a81a-35f81b77ef66,service.photography,available,70,33,7,,,
-634c24c3-fc4f-483f-9aa3-08297f71c645,service.pics,available,70,33,7,,,
-96204220-b4e4-4f3c-8f54-92d2c3895beb,service.pictures,available,70,33,7,,,
-ef71ce46-0def-4cb8-b6b0-295aee4ad156,service.plumbing,premium,70,33,7,,,
-e354c1a3-69a3-418b-8600-ce99fa2e6103,service.porn,premium,70,33,7,,,
-0480c357-f8c2-4341-a648-a4e559c7f5d3,service.press,premium,70,33,7,,,
-451eb6d8-afa6-4523-9ef4-39a0db180044,service.productions,premium,70,33,7,,,
-c964c599-7578-4ffc-bf01-b805527b1e09,service.prof,premium,70,33,7,,,
-314e60a1-fdb4-4236-8389-566633b51f37,service.promo,premium,70,33,7,,,
-9f3f81ee-9517-4f14-9d4c-34a5ce75d8f8,service.properties,available,70,33,7,,,
-559778bd-5be1-403c-8010-2aceac8686ec,service.property,premium,70,33,7,,,
-f1ca4c2f-613b-4b23-aca3-1a5093858d42,service.protection,available,70,33,7,,,
-60df281c-037c-4c2c-9ffd-f3efe3850ddf,service.pub,resell,70,33,7,"DNSPod, Inc.",15/04/2019 10:49,15/04/2026 10:49
-804ad06e-5e4c-48ef-bcf8-857f274b59b5,service.pw,premium,70,33,7,,,
-f2bcab8c-9d28-4671-ac60-12f1b4513384,service.qpon,premium,70,33,7,,,
-3b71110a-55f3-4a95-b198-124080ad41ce,service.quest,premium,70,33,7,,,
-cf944c3b-17bd-432c-babf-c60040154206,service.racing,premium,70,33,7,,,
-203756da-f786-4a6d-9cf3-3de6a300f248,service.realty,available,70,33,7,,,
-a167d9ba-a4e1-40b7-a81a-268867c2d95b,service.recipes,available,70,33,7,,,
-362822f5-d695-4f84-a9ea-2ba86e18dc6d,service.red,resell,70,33,7,"Spaceship, Inc.",24/04/2019 11:04,24/04/2026 11:04
-40e75149-27c0-4119-b1b1-d7c08aaea94c,service.rehab,premium,70,33,7,,,
-a0267fb3-3a37-4cdf-8db4-2f95f4a6273c,service.reise,available,70,33,7,,,
-8e10767a-d08b-421c-9a18-ccbc4ec05730,service.rent,premium,70,33,7,,,
-1407936c-3bb0-47fe-b36a-7ec53e1e6f62,service.repair,expired,70,33,7,"GoDaddy.com, LLC",07/12/2016 07:48,07/12/2025 07:48
-d05fa476-7cc2-458e-8069-9e7e953b01d9,service.republican,available,70,33,7,,,
-c9b57df9-f514-422a-a1ff-4c0610e6a5a7,service.rest,premium,70,33,7,,,
-a67b18c7-d541-4e91-a69b-cd6f88407dfb,service.review,resell,70,33,7,"GoDaddy.com, LLC",01/11/2017 18:28,01/11/2026 18:28
-cad80b1f-271e-4ed7-8929-dc7099e758cf,service.reviews,premium,70,33,7,,,
-1d7b251e-ce05-4966-9348-3d93f2d1a3d7,service.rich,available,70,33,7,,,
-ebb75543-e531-4875-b138-e96dbdf2d426,service.rodeo,sold,70,33,7,Tucows Domains Inc.,11/12/2025 17:59,11/12/2026 17:59
-a0227a6c-5055-4691-a6b8-f45162d80a4c,service.rsvp,premium,70,33,7,,,
-966993af-323e-4786-a544-bdcb31131a91,service.run,resell,70,33,7,Xin Net Technology Corporation,07/03/2019 08:20,07/03/2026 08:20
-f0cc4f78-0b8e-4965-b29a-f14fe52afc6e,service.sale,premium,70,33,7,,,
-93fd2fe5-2e26-445d-90bf-fd517a1dc5ae,service.sarl,premium,70,33,7,,,
-36c0e0b4-dcbf-4f73-9f0b-517987e59473,service.sbs,premium,70,33,7,,,
 b97d2d2d-0b4e-4704-bb34-340ae098ba80,internet.at,premium,64,88,8,,,
 1e0441e5-e071-488a-9e4e-7a4d3094443d,internet.cloud,resell,64,88,8,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:24
 5211447c-82a4-4517-8278-46ec1b539540,internet.co,resell,64,88,8,Dynadot Inc,24/02/2010 23:15,23/02/2027 23:59
@@ -798,7 +798,6 @@ c0dfb676-0fd7-496a-8bdb-7abf882f6c7a,services.wtf,premium,72,24,8,,,
 53e05ad9-e12a-4de7-8d46-f0602468093e,services.you,premium,72,24,8,,,
 c4445b4f-e4cc-4759-bfb2-3325b4f493e8,services.zip,premium,72,24,8,,,
 c8b82e69-2f69-440e-abff-c44b69e17f02,services.zone,resell,72,24,8,"DNSPod, Inc.",18/08/2020 03:13,18/08/2026 03:13
-726cddb4-2fb4-42b6-ace6-a0c7534da2aa,connectivity.ai,resell,64,80,12,"NameCheap, Inc.",28/04/2025 07:01,28/04/2027 07:01
 454bf579-7d0a-46e6-87d9-7e60b4c101bb,connectivity.app,premium,64,80,12,,,
 ac9587f5-8067-4bc8-a951-7ffb30d2faaa,connectivity.at,available,64,80,12,,,
 ca4dc895-dd97-4da3-83ac-84a84fdab523,connectivity.co,expiring,64,80,12,Tucows Domains Inc.,20/07/2010 22:07,19/07/2025 23:59
@@ -810,6 +809,7 @@ dde5b636-0559-4fb5-aa32-db979bf2cefa,connectivity.dev,premium,64,80,12,,,
 acde1f80-6c6f-4386-b337-18e7dbdba5d1,connectivity.so,available,64,80,12,,,
 7f2747e7-41c6-44df-bbd8-a5f6778c837d,connectivity.store,resell,64,80,12,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/12/2020 07:15,03/12/2030 23:59
 e1a6b06f-41a1-4647-82ec-aeb77a7dd05f,connectivity.us,expired,64,80,12,Key-Systems GmbH,24/04/2002 15:03,23/04/2025 23:59
+726cddb4-2fb4-42b6-ace6-a0c7534da2aa,connectivity.ai,resell,64,80,12,"NameCheap, Inc.",28/04/2025 07:01,28/04/2027 07:01
 25add693-b083-46df-b9a3-b13e2e36f45d,calling.at,available,74,84,7,,,
 f0b54677-f6f4-4889-96c7-c0576825ad9e,calling.cloud,premium,74,84,7,,,
 3b50ac04-827f-4299-b5ab-36911a903f64,calling.co,resell,74,84,7,Hello Internet Corp.,24/02/2010 23:14,23/02/2026 23:59
@@ -862,7 +862,7 @@ cba17c5e-6bf8-4b97-83fe-1c3fe0cbcfc0,PBX.store,premium,,64,3,,,
 a9205aaa-1d4e-4342-adb8-a16ff70f0905,fiber.accountants,available,78,26,5,,,
 9a208732-d367-4af2-a01a-7e17ccffc971,fiber.actor,available,78,26,5,,,
 503675d1-e435-40f3-b9bd-709c4d216615,fiber.adult,available,78,26,5,,,
-d84a0cb1-2a88-4fec-9cec-4ec04dea9348,fiber.agency,expiring,78,26,5,"GoDaddy.com, LLC",09/12/2014 00:34,09/12/2025 00:34
+d84a0cb1-2a88-4fec-9cec-4ec04dea9348,fiber.agency,sold,78,26,5,"GoDaddy.com, LLC",09/12/2014 00:34,09/12/2026 00:34
 cc62d25f-074f-4272-a764-5d819d68f1cc,fiber.airforce,available,78,26,5,,,
 f361dfe1-ab46-4d10-974b-c6d249a91e26,fiber.archi,available,78,26,5,,,
 a02c8010-5a4c-4363-8e82-08d2e5eba6b7,fiber.army,available,78,26,5,,,
@@ -905,7 +905,7 @@ e3a11667-16d7-488b-9242-84cc9c18ddf3,fiber.center,resell,78,26,5,"Chengdu West D
 7aa27943-c680-4b8f-a699-6030d2623bb0,fiber.ceo,available,78,26,5,,,
 0aae4563-89d2-4b2f-82a7-13550f148990,fiber.cfd,premium,78,26,5,,,
 a902d63f-b3c5-42d1-8f3a-955ff6435afc,fiber.charity,available,78,26,5,,,
-d46f7445-e8e8-4547-96e0-198d8684d095,fiber.chat,resell,78,26,5,"Xiamen ChinaSource Internet Service Co., Ltd",14/01/2022 13:15,14/01/2026 13:15
+d46f7445-e8e8-4547-96e0-198d8684d095,fiber.chat,expiring,78,26,5,"Xiamen ChinaSource Internet Service Co., Ltd",14/01/2022 13:15,14/01/2026 13:15
 5a4ca5d2-0fdb-4549-b0d8-d84f81e7d49b,fiber.cheap,available,78,26,5,,,
 a0168811-d5ef-48de-903a-4abd2b81280c,fiber.christmas,available,78,26,5,,,
 bba1c1da-23d7-4bee-bccd-9f81313e2cdf,fiber.church,available,78,26,5,,,
@@ -940,7 +940,7 @@ b48c17aa-e21e-4d29-b1db-73dd2b3d4906,fiber.cv,premium,78,26,5,,,
 396e917a-fa13-4c97-9629-234291dff880,fiber.day,premium,78,26,5,,,
 b3a71124-847d-493d-9af6-4f903ae3c0c2,fiber.deal,available,78,26,5,,,
 50ed4285-7ac3-4e59-bff0-547fef964748,fiber.dealer,premium,78,26,5,,,
-89cbcb8e-1952-4252-b14c-3ce19904c41a,fiber.deals,expiring,78,26,5,"GoDaddy.com, LLC",09/12/2014 00:34,09/12/2025 00:34
+89cbcb8e-1952-4252-b14c-3ce19904c41a,fiber.deals,sold,78,26,5,"GoDaddy.com, LLC",09/12/2014 00:34,09/12/2026 00:34
 b0a1e8dc-065d-4d80-a344-fff2b13c9acd,fiber.degree,available,78,26,5,,,
 72cb1038-38f9-4733-a54c-5fbda3510182,fiber.delivery,available,78,26,5,,,
 72d5835a-7b5c-40f8-afb4-ff98af1d9a1f,fiber.democrat,available,78,26,5,,,

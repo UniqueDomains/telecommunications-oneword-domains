@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Telecommunications one
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar           | Created          | Expires          |
-| ----------------- | --------- | -------- | ------ | ------ | ------------------- | ---------------- | ---------------- |
-| service.school    | sold      | 70       | 33%    | 7      | GoDaddy.com, LLC    | 30/09/2020 19:27 | 30/09/2026 19:27 |
-| service.science   | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.security  | available | 70       | 33%    | 7      |                     |                  |                  |
-| service.services  | sold      | 70       | 33%    | 7      | 1API GmbH           | 05/03/2020 02:44 | 05/03/2026 02:44 |
-| service.sexy      | available | 70       | 33%    | 7      |                     |                  |                  |
-| service.shiksha   | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.shoes     | available | 70       | 33%    | 7      |                     |                  |                  |
-| service.shopping  | sold      | 70       | 33%    | 7      | united-domains GmbH | 30/09/2016 05:57 | 30/09/2026 05:57 |
-| service.show      | resell    | 70       | 33%    | 7      | DNSPod, Inc.        | 03/04/2018 05:13 | 03/04/2026 05:13 |
-| service.site      | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.ski       | expiring  | 70       | 33%    | 7      | InterNetX GmbH      | 11/01/2017 11:00 | 11/01/2026 11:00 |
-| service.skin      | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.soccer    | available | 70       | 33%    | 7      |                     |                  |                  |
-| service.social    | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.software  | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.solutions | resell    | 70       | 33%    | 7      | Sav.com, LLC        | 24/06/2015 16:01 | 24/06/2026 16:01 |
-| service.soy       | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.space     | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.spot      | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.srl       | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.storage   | available | 70       | 33%    | 7      |                     |                  |                  |
-| service.store     | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.stream    | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.study     | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.style     | available | 70       | 33%    | 7      |                     |                  |                  |
-| service.sucks     | premium   | 70       | 33%    | 7      |                     |                  |                  |
-| service.supplies  | resell    | 70       | 33%    | 7      | Sav.com, LLC        | 25/11/2019 15:10 | 25/11/2026 15:10 |
-| service.supply    | resell    | 70       | 33%    | 7      | Sav.com, LLC        | 26/11/2016 23:18 | 26/11/2026 23:18 |
-| service.surf      | available | 70       | 33%    | 7      |                     |                  |                  |
-| service.surgery   | available | 70       | 33%    | 7      |                     |                  |                  |
+| Domain              | Status    | Attract. | Demand | Length | Registrar       | Created          | Expires          |
+| ------------------- | --------- | -------- | ------ | ------ | --------------- | ---------------- | ---------------- |
+| service.online      | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.osaka       | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.page        | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.party       | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.pet         | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.phd         | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.photo       | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.photography | available | 70       | 33%    | 7      |                 |                  |                  |
+| service.pics        | available | 70       | 33%    | 7      |                 |                  |                  |
+| service.pictures    | available | 70       | 33%    | 7      |                 |                  |                  |
+| service.plumbing    | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.porn        | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.press       | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.productions | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.prof        | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.promo       | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.properties  | available | 70       | 33%    | 7      |                 |                  |                  |
+| service.property    | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.protection  | available | 70       | 33%    | 7      |                 |                  |                  |
+| service.pub         | resell    | 70       | 33%    | 7      | DNSPod, Inc.    | 15/04/2019 10:49 | 15/04/2026 10:49 |
+| service.pw          | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.qpon        | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.quest       | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.racing      | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.realty      | available | 70       | 33%    | 7      |                 |                  |                  |
+| service.recipes     | available | 70       | 33%    | 7      |                 |                  |                  |
+| service.red         | resell    | 70       | 33%    | 7      | Spaceship, Inc. | 24/04/2019 11:04 | 24/04/2026 11:04 |
+| service.rehab       | premium   | 70       | 33%    | 7      |                 |                  |                  |
+| service.reise       | available | 70       | 33%    | 7      |                 |                  |                  |
+| service.rent        | premium   | 70       | 33%    | 7      |                 |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Telecommunications-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Telecommunications one
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 62,232       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,157,142    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,157,759    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
