@@ -1,4 +1,13 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+bcd00324-ddd4-4134-a2e6-2b2b24992c7d,service.love,resell,70,33,7,"Spaceship, Inc.",05/10/2019 06:58,05/10/2026 23:59
+ec70549d-2afe-4f11-a3ae-960c3f8b299e,service.ltd,resell,70,33,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/06/2016 11:12,21/06/2026 11:12
+ee599850-935a-4b1c-a07f-69a86d184fd6,service.ltda,premium,70,33,7,,,
+83532900-3d57-4f76-ab09-2c14894e189f,service.luxe,resell,70,33,7,"GoDaddy.com, LLC",05/05/2021 13:05,05/05/2027 13:05
+1102b8bf-76a9-4dfb-9cfd-a61233372da3,service.luxury,premium,70,33,7,,,
+5f520ae6-c8a0-42ed-91bb-33f4273cb743,service.makeup,premium,70,33,7,,,
+bf37c229-8676-419c-8829-0b4b0968b405,service.market,premium,70,33,7,,,
+9d28d2e4-c880-423e-aae6-2f2f8458a724,service.marketing,resell,70,33,7,"GoDaddy.com, LLC",19/08/2015 16:11,19/08/2026 16:11
+80b46d0d-c04d-4e88-9695-9c1f6c954571,service.media,resell,70,33,7,"Chengdu West Dimension Digital Technology Co., Ltd.",08/09/2018 10:20,08/09/2026 10:20
 56447f5c-6b38-4e47-81b3-ffcc274c7ef5,service.melbourne,premium,70,33,7,,,
 e44c700d-a351-46ad-9376-e6168f7bb3f8,service.meme,premium,70,33,7,,,
 b67f66d3-eb56-4863-8284-69b9eb6df380,service.memorial,premium,70,33,7,,,
@@ -319,15 +328,6 @@ fc1b820e-346f-46d7-b7ec-511f3aae2918,service.io,resell,70,33,7,Key-Systems GmbH,
 4c88d51b-5f17-40ac-a99c-de8fd95c61f5,service.llc,premium,70,33,7,,,
 142f7417-40fe-43aa-9330-61cd6f994857,service.loan,premium,70,33,7,,,
 2c0c067b-2363-462b-a3a3-a3c4488927d7,service.locker,premium,70,33,7,,,
-bcd00324-ddd4-4134-a2e6-2b2b24992c7d,service.love,resell,70,33,7,"Spaceship, Inc.",05/10/2019 06:58,05/10/2026 23:59
-ec70549d-2afe-4f11-a3ae-960c3f8b299e,service.ltd,resell,70,33,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/06/2016 11:12,21/06/2026 11:12
-ee599850-935a-4b1c-a07f-69a86d184fd6,service.ltda,premium,70,33,7,,,
-83532900-3d57-4f76-ab09-2c14894e189f,service.luxe,resell,70,33,7,"GoDaddy.com, LLC",05/05/2021 13:05,05/05/2027 13:05
-1102b8bf-76a9-4dfb-9cfd-a61233372da3,service.luxury,premium,70,33,7,,,
-5f520ae6-c8a0-42ed-91bb-33f4273cb743,service.makeup,premium,70,33,7,,,
-bf37c229-8676-419c-8829-0b4b0968b405,service.market,premium,70,33,7,,,
-9d28d2e4-c880-423e-aae6-2f2f8458a724,service.marketing,resell,70,33,7,"GoDaddy.com, LLC",19/08/2015 16:11,19/08/2026 16:11
-80b46d0d-c04d-4e88-9695-9c1f6c954571,service.media,resell,70,33,7,"Chengdu West Dimension Digital Technology Co., Ltd.",08/09/2018 10:20,08/09/2026 10:20
 b97d2d2d-0b4e-4704-bb34-340ae098ba80,internet.at,premium,64,88,8,,,
 1e0441e5-e071-488a-9e4e-7a4d3094443d,internet.cloud,resell,64,88,8,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:24
 5211447c-82a4-4517-8278-46ec1b539540,internet.co,resell,64,88,8,Dynadot Inc,24/02/2010 23:15,23/02/2027 23:59
@@ -803,6 +803,7 @@ c0dfb676-0fd7-496a-8bdb-7abf882f6c7a,services.wtf,premium,72,23,8,,,
 53e05ad9-e12a-4de7-8d46-f0602468093e,services.you,premium,72,23,8,,,
 c4445b4f-e4cc-4759-bfb2-3325b4f493e8,services.zip,premium,72,23,8,,,
 c8b82e69-2f69-440e-abff-c44b69e17f02,services.zone,resell,72,23,8,"DNSPod, Inc.",18/08/2020 03:13,18/08/2026 03:13
+726cddb4-2fb4-42b6-ace6-a0c7534da2aa,connectivity.ai,resell,64,80,12,"NameCheap, Inc.",28/04/2025 07:01,28/04/2027 07:01
 454bf579-7d0a-46e6-87d9-7e60b4c101bb,connectivity.app,premium,64,80,12,,,
 ac9587f5-8067-4bc8-a951-7ffb30d2faaa,connectivity.at,available,64,80,12,,,
 ca4dc895-dd97-4da3-83ac-84a84fdab523,connectivity.co,expiring,64,80,12,Tucows Domains Inc.,20/07/2010 22:07,19/07/2025 23:59
@@ -814,7 +815,6 @@ dde5b636-0559-4fb5-aa32-db979bf2cefa,connectivity.dev,premium,64,80,12,,,
 acde1f80-6c6f-4386-b337-18e7dbdba5d1,connectivity.so,available,64,80,12,,,
 7f2747e7-41c6-44df-bbd8-a5f6778c837d,connectivity.store,resell,64,80,12,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/12/2020 07:15,03/12/2030 23:59
 e1a6b06f-41a1-4647-82ec-aeb77a7dd05f,connectivity.us,expired,64,80,12,Key-Systems GmbH,24/04/2002 15:03,23/04/2025 23:59
-726cddb4-2fb4-42b6-ace6-a0c7534da2aa,connectivity.ai,resell,64,80,12,"NameCheap, Inc.",28/04/2025 07:01,28/04/2027 07:01
 25add693-b083-46df-b9a3-b13e2e36f45d,calling.at,available,74,84,7,,,
 f0b54677-f6f4-4889-96c7-c0576825ad9e,calling.cloud,premium,74,84,7,,,
 3b50ac04-827f-4299-b5ab-36911a903f64,calling.co,resell,74,84,7,Hello Internet Corp.,24/02/2010 23:14,23/02/2026 23:59
