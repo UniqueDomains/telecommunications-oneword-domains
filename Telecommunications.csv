@@ -1,4 +1,15 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+93bf38df-ac26-46e1-9dea-6d2166fc1ea3,service.la,resell,70,33,7,LA Domain Names,14/12/2018 21:24,14/12/2026 23:59
+073e3992-8221-47fa-aaeb-2c7e8d9c9b27,service.lawyer,premium,70,33,7,,,
+0971ddc8-0796-442f-ac48-9fec687295db,service.lgbt,premium,70,33,7,,,
+251004e1-1ba8-4693-961e-3b04e83c987e,service.life,resell,70,33,7,"DNSPod, Inc.",17/09/2019 07:55,17/09/2026 07:55
+9215e7d2-8417-4062-831f-fdf181fa1961,service.lifestyle,premium,70,33,7,,,
+952fc31a-7f8d-4ba6-9abf-1cd443015aa8,service.lighting,available,70,33,7,,,
+67a7785c-2a27-4969-bdec-6fabaf9a4624,service.live,resell,70,33,7,Porkbun LLC,22/06/2024 20:21,22/06/2026 20:21
+4be31f00-e05e-471a-85f4-f52cac407dfb,service.living,premium,70,33,7,,,
+4c88d51b-5f17-40ac-a99c-de8fd95c61f5,service.llc,premium,70,33,7,,,
+142f7417-40fe-43aa-9330-61cd6f994857,service.loan,premium,70,33,7,,,
+2c0c067b-2363-462b-a3a3-a3c4488927d7,service.locker,premium,70,33,7,,,
 bcd00324-ddd4-4134-a2e6-2b2b24992c7d,service.love,resell,70,33,7,"Spaceship, Inc.",05/10/2019 06:58,05/10/2026 23:59
 ec70549d-2afe-4f11-a3ae-960c3f8b299e,service.ltd,resell,70,33,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/06/2016 11:12,21/06/2026 11:12
 ee599850-935a-4b1c-a07f-69a86d184fd6,service.ltda,premium,70,33,7,,,
@@ -317,17 +328,6 @@ fc1b820e-346f-46d7-b7ec-511f3aae2918,service.io,resell,70,33,7,Key-Systems GmbH,
 8d502cd1-94b8-4edf-ae8d-0826d0df218a,service.kaufen,sold,70,33,7,Cronon GmbH,11/09/2024 16:24,11/09/2026 16:24
 1e6a2a62-6b8c-41ee-84a9-8d05b95e71a3,service.kids,premium,70,33,7,,,
 3e9ce32d-0b65-4f4d-8eb6-9308e58631a1,service.kim,resell,70,33,7,"Sav.com, LLC - 10",28/08/2025 15:15,28/08/2026 15:15
-93bf38df-ac26-46e1-9dea-6d2166fc1ea3,service.la,resell,70,33,7,LA Domain Names,14/12/2018 21:24,14/12/2026 23:59
-073e3992-8221-47fa-aaeb-2c7e8d9c9b27,service.lawyer,premium,70,33,7,,,
-0971ddc8-0796-442f-ac48-9fec687295db,service.lgbt,premium,70,33,7,,,
-251004e1-1ba8-4693-961e-3b04e83c987e,service.life,resell,70,33,7,"DNSPod, Inc.",17/09/2019 07:55,17/09/2026 07:55
-9215e7d2-8417-4062-831f-fdf181fa1961,service.lifestyle,premium,70,33,7,,,
-952fc31a-7f8d-4ba6-9abf-1cd443015aa8,service.lighting,available,70,33,7,,,
-67a7785c-2a27-4969-bdec-6fabaf9a4624,service.live,resell,70,33,7,Porkbun LLC,22/06/2024 20:21,22/06/2026 20:21
-4be31f00-e05e-471a-85f4-f52cac407dfb,service.living,premium,70,33,7,,,
-4c88d51b-5f17-40ac-a99c-de8fd95c61f5,service.llc,premium,70,33,7,,,
-142f7417-40fe-43aa-9330-61cd6f994857,service.loan,premium,70,33,7,,,
-2c0c067b-2363-462b-a3a3-a3c4488927d7,service.locker,premium,70,33,7,,,
 b97d2d2d-0b4e-4704-bb34-340ae098ba80,internet.at,premium,64,88,8,,,
 1e0441e5-e071-488a-9e4e-7a4d3094443d,internet.cloud,resell,64,88,8,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:24
 5211447c-82a4-4517-8278-46ec1b539540,internet.co,resell,64,88,8,Dynadot Inc,24/02/2010 23:15,23/02/2027 23:59

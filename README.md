@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Telecommunications one
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain              | Status    | Attract. | Demand | Length | Registrar                                               | Created          | Expires          |
-| ------------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------- | ---------------- | ---------------- |
-| service.love        | resell    | 70       | 33%    | 7      | Spaceship, Inc.                                         | 05/10/2019 06:58 | 05/10/2026 23:59 |
-| service.ltd         | resell    | 70       | 33%    | 7      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) | 21/06/2016 11:12 | 21/06/2026 11:12 |
-| service.ltda        | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.luxe        | resell    | 70       | 33%    | 7      | GoDaddy.com, LLC                                        | 05/05/2021 13:05 | 05/05/2027 13:05 |
-| service.luxury      | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.makeup      | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.market      | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.marketing   | resell    | 70       | 33%    | 7      | GoDaddy.com, LLC                                        | 19/08/2015 16:11 | 19/08/2026 16:11 |
-| service.media       | resell    | 70       | 33%    | 7      | Chengdu West Dimension Digital Technology Co., Ltd.     | 08/09/2018 10:20 | 08/09/2026 10:20 |
-| service.melbourne   | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.meme        | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.memorial    | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.men         | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.menu        | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.miami       | expiring  | 70       | 33%    | 7      | GoDaddy.com, LLC                                        | 20/12/2021 13:55 | 20/12/2025 13:55 |
-| service.mobi        | resell    | 70       | 33%    | 7      | 1API GmbH                                               | 11/05/2006 22:16 | 11/05/2027 22:16 |
-| service.moda        | available | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.moe         | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.mom         | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.monster     | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.mortgage    | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.motorcycles | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.mov         | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.movie       | available | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.music       | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.navy        | available | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.network     | sold      | 70       | 33%    | 7      | Dynadot Inc                                             | 21/02/2019 06:14 | 21/02/2026 06:14 |
-| service.news        | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.nexus       | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
-| service.observer    | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| Domain            | Status    | Attract. | Demand | Length | Registrar                                               | Created          | Expires          |
+| ----------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------- | ---------------- | ---------------- |
+| service.la        | resell    | 70       | 33%    | 7      | LA Domain Names                                         | 14/12/2018 21:24 | 14/12/2026 23:59 |
+| service.lawyer    | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.lgbt      | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.life      | resell    | 70       | 33%    | 7      | DNSPod, Inc.                                            | 17/09/2019 07:55 | 17/09/2026 07:55 |
+| service.lifestyle | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.lighting  | available | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.live      | resell    | 70       | 33%    | 7      | Porkbun LLC                                             | 22/06/2024 20:21 | 22/06/2026 20:21 |
+| service.living    | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.llc       | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.loan      | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.locker    | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.love      | resell    | 70       | 33%    | 7      | Spaceship, Inc.                                         | 05/10/2019 06:58 | 05/10/2026 23:59 |
+| service.ltd       | resell    | 70       | 33%    | 7      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) | 21/06/2016 11:12 | 21/06/2026 11:12 |
+| service.ltda      | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.luxe      | resell    | 70       | 33%    | 7      | GoDaddy.com, LLC                                        | 05/05/2021 13:05 | 05/05/2027 13:05 |
+| service.luxury    | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.makeup    | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.market    | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.marketing | resell    | 70       | 33%    | 7      | GoDaddy.com, LLC                                        | 19/08/2015 16:11 | 19/08/2026 16:11 |
+| service.media     | resell    | 70       | 33%    | 7      | Chengdu West Dimension Digital Technology Co., Ltd.     | 08/09/2018 10:20 | 08/09/2026 10:20 |
+| service.melbourne | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.meme      | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.memorial  | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.men       | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.menu      | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.miami     | expiring  | 70       | 33%    | 7      | GoDaddy.com, LLC                                        | 20/12/2021 13:55 | 20/12/2025 13:55 |
+| service.mobi      | resell    | 70       | 33%    | 7      | 1API GmbH                                               | 11/05/2006 22:16 | 11/05/2027 22:16 |
+| service.moda      | available | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.moe       | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
+| service.mom       | premium   | 70       | 33%    | 7      |                                                         |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Telecommunications-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [Telecommunications one
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
