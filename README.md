@@ -21,6 +21,7 @@ If you want to search & filters the complete database of [Telecommunications one
 
 | Domain             | Status    | Attract. | Demand | Length | Registrar                                           | Created          | Expires          |
 | ------------------ | --------- | -------- | ------ | ------ | --------------------------------------------------- | ---------------- | ---------------- |
+| service.forum      | premium   | 70       | 32%    | 7      |                                                     |                  |                  |
 | service.foundation | resell    | 70       | 32%    | 7      | Dynadot Inc                                         | 29/08/2025 19:46 | 29/08/2026 19:46 |
 | service.fun        | premium   | 70       | 32%    | 7      |                                                     |                  |                  |
 | service.fund       | resell    | 70       | 32%    | 7      | DNSPod, Inc.                                        | 06/11/2024 15:15 | 06/11/2026 15:15 |
@@ -50,7 +51,6 @@ If you want to search & filters the complete database of [Telecommunications one
 | service.health     | premium   | 70       | 32%    | 7      |                                                     |                  |                  |
 | service.healthcare | premium   | 70       | 32%    | 7      |                                                     |                  |                  |
 | service.hiphop     | premium   | 70       | 32%    | 7      |                                                     |                  |                  |
-| service.hiv        | premium   | 70       | 32%    | 7      |                                                     |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Telecommunications-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Telecommunications one
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,896       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 64,845       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,711    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,598,419    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
