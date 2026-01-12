@@ -1,4 +1,6 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+5203454b-544f-4655-9c6c-f84eb43bbf16,service.football,available,70,32,7,,,
+d3bc51a7-2852-44a7-868c-6be85796bebc,service.forsale,premium,70,32,7,,,
 f45ef0e4-a542-48d0-ab83-18c9bd645865,service.forum,premium,70,32,7,,,
 b4e15a9c-0bda-4a45-8364-e261b7254144,service.foundation,resell,70,32,7,Dynadot Inc,29/08/2025 19:46,29/08/2026 19:46
 c00f78b3-5019-4af9-afc7-2ddfba29f9fa,service.fun,premium,70,32,7,,,
@@ -328,8 +330,6 @@ e42928a9-d4b9-4469-a6af-4158bbc8d3b0,service.flights,premium,70,32,7,,,
 ab55691a-872f-44e6-bf7a-fae32a400db2,service.flowers,available,70,32,7,,,
 fdd973f9-a2ed-4910-82dc-a79d53e8f52f,service.foo,premium,70,32,7,,,
 929c43e2-58f8-491e-b9e8-800f90365b05,service.food,premium,70,32,7,,,
-5203454b-544f-4655-9c6c-f84eb43bbf16,service.football,available,70,32,7,,,
-d3bc51a7-2852-44a7-868c-6be85796bebc,service.forsale,premium,70,32,7,,,
 b97d2d2d-0b4e-4704-bb34-340ae098ba80,internet.at,premium,64,88,8,,,
 1e0441e5-e071-488a-9e4e-7a4d3094443d,internet.cloud,resell,64,88,8,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:24
 5211447c-82a4-4517-8278-46ec1b539540,internet.co,resell,64,88,8,Dynadot Inc,24/02/2010 23:15,23/02/2027 23:59
