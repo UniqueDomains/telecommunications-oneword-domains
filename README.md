@@ -1,29 +1,29 @@
-# Telecommunications One-Word Domains (17,737)
+# Telecommunications One-Word Domains (18,742)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C737%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C742%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of telecommunications one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **17,737 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **18,742 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 17,737 domains
+**Public extract:** 1,000 rows · **Live catalog:** 18,742 domains
 
-**Last updated:** 2026-04-13  
-**Canonical page:** `https://unique.domains/domains/sector/telecommunications`  
+**Last updated:** 2026-04-26  
+**Canonical page:** `https://unique.domains/domains/sector/Telecommunications`  
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/sector/telecommunications?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/sector/Telecommunications?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./telecommunications.csv">CSV</a> / <a href="./telecommunications.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,20 +31,20 @@ Daily-updated public extract of telecommunications one-word domains from Unique 
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/telecommunications?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/telecommunications?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/Telecommunications?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/Telecommunications?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/telecommunications`.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/Telecommunications`.
 
 ### Files
 
-- `telecommunications.csv` — public CSV extract (10,000 rows)
-- `telecommunications.json` — public JSON extract (10,000 rows)
+- `telecommunications.csv` — public CSV extract (1,000 rows)
+- `telecommunications.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                     |
-| ------------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| connectivity.ninja  | available | $42.98      | —             | 64             | 80     | 12     | namecheap                     |
-| signal.onl          | resell    | $4.99       | —             | 80             | 42     | 6      | Dynadot Inc                   |
-| transmission.tech   | premium   | $312.50     | $1,250        | —              | 96     | 12     | name.com                      |
-| connectivity.gg     | available | $82.98      | —             | 64             | 80     | 12     | namecheap                     |
-| service.pics        | resell    | $40.98      | —             | 70             | 41     | 7      | Porkbun, LLC                  |
-| transmission.store  | premium   | $312.50     | $1,250        | —              | 96     | 12     | name.com                      |
-| connectivity.expert | available | $82.48      | —             | 64             | 80     | 12     | namecheap                     |
-| service.io          | resell    | $740,720.75 | $59.99        | 70             | 41     | 7      | Key-Systems GmbH              |
-| transmission.space  | premium   | $325        | $1,300        | —              | 96     | 12     | namecheap                     |
-| communication.ninja | available | $42.98      | —             | 54             | 80     | 13     | namecheap                     |
-| service.fashion     | resell    | $44.98      | —             | 70             | 41     | 7      | West263 International Limited |
-| transmission.site   | premium   | $312.50     | $1,250        | —              | 96     | 12     | name.com                      |
-| web.realty          | available | $349.99     | —             | 72             | 61     | 3      | name.com                      |
-| technology.army     | resell    | $48.98      | —             | 88             | 35     | 10     | GoDaddy.com, LLC              |
-| transmission.online | premium   | $312.50     | $1,250        | —              | 96     | 12     | name.com                      |
-| web.desi            | available | $22.98      | —             | 72             | 61     | 3      | namecheap                     |
-| fiber.energy        | resell    | $155.98     | —             | 78             | 29     | 5      | GoDaddy.com, LLC              |
-| transmission.dev    | premium   | $198.75     | $198.75       | —              | 96     | 12     | name.com                      |
-| industry.new        | available | $549.99     | —             | 72             | 61     | 8      | name.com                      |
-| tower.paris         | resell    | $51.98      | —             | 72             | 29     | 5      | GoDaddy.com LLC               |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| communication.ninja | available | $42.98    | —             | 54             | 80     | 13     | namecheap                                               |
+| technology.army     | resell    | $48.98    | —             | 88             | 35     | 10     | GoDaddy.com, LLC                                        |
+| internet.tech       | premium   | $3,250    | $13,000       | 64             | 88     | 8      | namecheap                                               |
+| network.pictures    | available | $9.99     | —             | 72             | 47     | 7      | name.com                                                |
+| broadband.miami     | resell    | —         | —             | 92             | 98     | 9      | InternetX GmbH                                          |
+| internet.store      | premium   | $1,562.50 | $6,250        | 64             | 88     | 8      | name.com                                                |
+| network.paris       | available | $51.98    | —             | 72             | 47     | 7      | namecheap                                               |
+| broadband.club      | resell    | —         | —             | 92             | 98     | 9      | NameCheap, Inc.                                         |
+| internet.space      | premium   | $3,250    | $13,000       | 64             | 88     | 8      | namecheap                                               |
+| network.new         | available | $549.99   | —             | 72             | 47     | 7      | name.com                                                |
+| satellite.zone      | resell    | —         | —             | 90             | 92     | 9      | Automattic Inc.                                         |
+| internet.site       | premium   | $3,125    | $12,500       | 64             | 88     | 8      | name.com                                                |
+| network.desi        | available | $22.98    | —             | 72             | 47     | 7      | namecheap                                               |
+| satellite.us        | resell    | —         | —             | 90             | 92     | 9      | GoDaddy.com, LLC                                        |
+| internet.online     | premium   | $3,125    | $12,500       | 64             | 88     | 8      | name.com                                                |
+| technology.direct   | available | $53.98    | —             | 88             | 37     | 10     | namecheap                                               |
+| satellite.com       | resell    | —         | —             | 90             | 92     | 9      | eNom, LLC                                               |
+| communication.tech  | premium   | $312.50   | $1,250        | 54             | 80     | 13     | name.com                                                |
+| technology.ac       | available | $38.98    | —             | 88             | 37     | 10     | namecheap                                               |
+| satellite.at        | resell    | —         | —             | 90             | 92     | 9      | Realtime Register B.V. ( https://nic.at/registrar/423 ) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,17 +91,17 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 17,737 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 18,742 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/sector/telecommunications?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/telecommunications?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/sector/Telecommunications?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/Telecommunications?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -143,14 +143,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Telecommunications One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Telecommunications One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/sector/telecommunications?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/sector/Telecommunications?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_api_docs)

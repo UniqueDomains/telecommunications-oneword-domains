@@ -4,9 +4,9 @@ title: "Telecommunications One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-04-13"
-date-released: "2026-04-13"
-url: "https://unique.domains/domains/sector/telecommunications"
+version: "2026-04-26"
+date-released: "2026-04-26"
+url: "https://unique.domains/domains/sector/Telecommunications"
 repository-code: "https://github.com/UniqueDomains/telecommunications-oneword-domains"
 license: "See LICENSE"
 abstract: "Daily-updated public extract of telecommunications one-word domains from Unique Domains."
