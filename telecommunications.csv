@@ -13,7 +13,6 @@ fda15535-4db1-432d-9929-f66fe3ed9bdf,communication.tech,premium,312.5,1250,54,80
 d09c4e5f-59fb-4bdc-9e8d-8a2c7c894bd0,communication.xyz,resell,,,54,80,13,"Go Daddy, LLC",02/06/2014 16:34,02/06/2026 23:59
 221dd404-1bea-4977-8df4-e51b9211bca4,network.boutique,premium,,,90,50,7,,,
 eddb0f1a-a674-4f65-aca7-0c2e256731f2,network.lighting,premium,,,90,50,7,,,
-4313ab0e-a448-4854-88c8-51c2b84ab903,network.partners,resell,,,90,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",13/03/2025 15:15,13/03/2027 15:15
 34d99687-b58c-4f6f-9d95-4fac7bb1c364,network.sarl,premium,,,90,50,7,,,
 15c6f761-4b49-415f-8edf-bbe58a4f83a6,network.supplies,premium,,,90,50,7,,,
 726439f7-910f-49f2-878d-e4bdb3ce8995,network.wiki,premium,,,90,50,7,,,
@@ -74,6 +73,7 @@ e0fbbee5-428f-4f80-8952-4c876d3dcdb7,network.democrat,premium,,,90,47,7,,,
 ee21aeb9-9065-4b87-a28c-39f35dd4c6ae,network.diet,premium,,,90,47,7,,,
 f7063b34-70e4-4048-bb91-4a0e3759715c,network.digital,resell,,,90,47,7,"Sav.com, LLC",08/11/2019 09:34,08/11/2026 09:34
 58979e3b-67d1-4fdf-80ff-49a98031c2f8,network.diy,premium,,,90,47,7,,,
+b2304bf9-1419-4d36-b974-b00fa594c5c8,network.doctor,resell,,,90,47,7,"Sav.com, LLC - 29",26/04/2025 15:15,26/04/2027 15:15
 f53ef8ed-c67d-4326-ab79-7af2b723ed83,network.dog,premium,,,90,47,7,,,
 c7732b46-6302-4f1a-a930-f5823ef62ab5,network.domains,resell,,,90,47,7,Porkbun LLC,16/08/2025 13:38,16/08/2026 13:38
 3bff4f57-8b70-41c4-b17b-c3876a5d3012,network.download,premium,,,90,47,7,,,
@@ -81,6 +81,7 @@ ab1e2835-2e61-4bb1-bd7d-409e9237b765,network.email,resell,,,90,47,7,"DNSPod, Inc
 6f95306d-68c6-4936-850b-12dd34a44f0c,network.esq,premium,,,90,47,7,,,
 9246bd6c-298b-404f-8fd3-a95c91178735,network.eu,resell,,,90,47,7,"Name: Spaceship, Inc. Website: https://www.spaceship.com/",,
 49941734-8ece-46ec-ae80-22ccdaac8c4e,network.expert,resell,,,90,47,7,"Global Domains International, Inc. DBA DomainCostClub.com",15/07/2015 16:00,15/07/2027 16:00
+506c2c2e-bff2-42df-9193-812db7a81d06,network.express,resell,,,90,47,7,"Spaceship, Inc.",01/05/2021 04:52,01/05/2027 04:52
 5a2fb02d-3664-4500-8ba1-031bcd23bea4,network.faith,premium,,,90,47,7,,,
 e884d7ef-4cd4-44b7-92a8-f3bb1d923a2d,network.fan,premium,,,90,47,7,,,
 ff2d6d49-55fb-449b-b17a-5b802590bee0,network.fans,premium,,,90,47,7,,,
@@ -132,6 +133,7 @@ e4c2b16d-596e-43aa-9928-2b1b170c831b,network.lgbt,premium,,,90,47,7,,,
 d5091269-31c6-49be-893c-75a4b6d0af4e,network.lifestyle,premium,,,90,47,7,,,
 d3c9eb86-9b0d-4cb2-ae4e-e8c0d82a2add,network.limo,premium,,,90,47,7,,,
 ad130ce7-8a2a-47dd-bcf0-c13152215ed9,network.link,premium,,,90,47,7,,,
+e793fecc-6504-4e98-a3a4-375b97a3ec94,network.live,resell,,,90,47,7,"GoDaddy.com, LLC",24/04/2020 21:11,24/04/2027 21:11
 7a9eeb6f-6bc1-48bc-b061-b0f516fb3ba6,network.living,premium,,,90,47,7,,,
 943c8024-c306-45ae-b630-e286a2a888a7,network.llc,premium,,,90,47,7,,,
 75288369-f8b9-401a-aa16-90fa3fa39277,network.loan,premium,,,90,47,7,,,
@@ -143,7 +145,8 @@ b6ad8453-6ba1-4885-9c5e-3bdfa55200df,network.luxe,premium,,,90,47,7,,,
 a5a05f58-d6b8-458c-8ccc-3c441ca33434,network.maison,premium,,,90,47,7,,,
 7c65e9b8-0e2e-4582-90ee-49e8bbb2eb2d,network.makeup,premium,,,90,47,7,,,
 022c5362-8102-42b5-8827-69a286b74ac9,network.market,premium,,,90,47,7,,,
-af48d034-f794-4995-b414-4f505d4ff43f,network.marketing,resell,,,90,47,7,"GoDaddy.com, LLC",14/08/2015 16:00,14/08/2026 16:00
+af48d034-f794-4995-b414-4f505d4ff43f,network.marketing,resell,,,90,47,7,"GoDaddy.com, LLC",14/08/2015 16:00,14/08/2027 16:00
+5e1a3c7a-a132-41ba-980d-ea335182c549,network.me,resell,,,90,47,7,"Spaceship, Inc.",29/04/2008 18:01,29/04/2027 18:01
 87b59edc-0e94-4547-bdea-8f0816681aa8,network.melbourne,premium,,,90,47,7,,,
 8db0c1fc-146d-46c6-ac35-f4f89339bc12,network.meme,premium,,,90,47,7,,,
 f37575c0-69c4-40ea-8cc1-132b8ebc83c6,network.memorial,premium,,,90,47,7,,,
@@ -163,12 +166,12 @@ b199e5a6-be1a-4c73-a5c0-92a93b63d09e,network.pet,resell,,,90,47,7,"Xiamen ChinaS
 86591e13-0cd6-4a53-9092-ef27d48c4ea9,network.phd,premium,,,90,47,7,,,
 b2fc19b5-fb37-440f-9727-c8167652f000,network.photo,premium,,,90,47,7,,,
 f5a5f64b-9c0d-40e7-a032-cc8fb2f372a2,network.photography,premium,,,90,47,7,,,
+b9f7991c-6998-4d5e-a3b7-aba5c005f7a6,network.pink,premium,,,90,47,7,,,
 0198f96a-c5b5-4c9b-b2a6-73b18dd91188,network.pizza,premium,,,90,47,7,,,
 98bbdc42-c8d1-44e1-a3c0-ff82cacad404,network.place,resell,,,90,47,7,"Sav.com, LLC",09/02/2026 18:35,09/02/2027 18:35
 5b0caf79-5197-4a98-9bd6-3706bf6f129b,network.plumbing,premium,,,90,47,7,,,
 db3d8f65-d42a-44b1-921a-2d5d2765a128,network.plus,resell,,,90,47,7,"Sav.com, LLC - 4",27/09/2022 13:15,27/09/2026 13:15
 e2722c6e-e7d4-496f-a50b-30281a4e9d7e,network.prof,premium,,,90,47,7,,,
-32f0995f-4016-47a7-a1c1-409a0bd95059,network.promo,resell,,,90,47,7,"Go Canada Domains, LLC",23/05/2016 16:00,23/05/2026 16:00
 68733702-6a49-4dfa-8da7-778ca0a7bafe,network.protection,premium,,,90,47,7,,,
 2dfbfd76-516f-4e41-8412-757389fde617,network.pw,resell,,,90,47,7,"Chengdu West Dimension Digital Technology Co., Ltd.",26/01/2024 17:18,26/01/2027 23:59
 cf7a99ea-aabe-419f-91c5-9b666079e1a9,network.quest,premium,,,90,47,7,,,
@@ -178,6 +181,7 @@ f7c0af81-eccb-4cb2-9b0e-eb56fdf49750,network.recipes,premium,,,90,47,7,,,
 1001b7b3-f443-4fe6-9513-401f1e235af1,network.rehab,premium,,,90,47,7,,,
 af9b2d67-e1aa-4ae6-9be8-9d1139a9ab04,network.reise,premium,,,90,47,7,,,
 4a3e4ab6-c0ed-4ea1-bb39-547cb8e6fc18,network.reisen,premium,,,90,47,7,,,
+24229c5b-3ae1-444d-97a5-73dc35f49c66,network.rent,resell,,,90,47,7,"Go Daddy, LLC",19/04/2026 18:06,19/04/2027 23:59
 da0e316f-5f0c-41b1-b74e-ea98d1c938c6,network.rentals,premium,,,90,47,7,,,
 b5026195-0ba3-42b7-aa59-ff2070f9b92a,network.republican,premium,,,90,47,7,,,
 ae52e3df-615d-4f8c-9ac9-dd831118c6ed,network.rest,premium,,,90,47,7,,,
@@ -220,6 +224,7 @@ b6385383-ebbb-4556-a3c4-78b5b2192dec,network.trade,resell,,,90,47,7,Porkbun,29/0
 08fba6bb-4ba1-498d-9d55-da1c82dcdd5e,network.training,resell,,,90,47,7,"Spaceship, Inc.",15/12/2022 17:02,15/12/2026 17:02
 07d24435-490f-46bc-bfd8-36d243be7eae,network.tube,premium,,,90,47,7,,,
 5e16a016-ecb7-49bc-b6bd-cda878ed0b21,network.uno,premium,,,90,47,7,,,
+4f1e6758-cfbd-487c-99a0-3391ea464005,network.us,resell,,,90,47,7,"GoDaddy.com, LLC",24/04/2002 14:01,23/04/2027 23:59
 51f3861c-98a9-4558-939f-7e25a743322e,network.vacations,premium,,,90,47,7,,,
 6b391e1a-1bda-41bf-aa44-46565b9a93ed,network.vana,premium,,,90,47,7,,,
 c72fd5c6-6627-4fae-b8dc-2476faa7b002,network.viajes,premium,,,90,47,7,,,
@@ -275,7 +280,6 @@ a0231660-4402-4aca-8f2c-27ee9e2e8818,network.qpon,premium,,,90,38,7,,,
 99875df1-bdb7-4664-bbaa-57fec0e58288,network.social,premium,,,90,38,7,,,
 e78cc337-7279-4f97-92b4-5290f0ad4608,network.software,premium,,,90,38,7,,,
 1b00fdf0-2c08-44d0-9d98-2076840aa74d,network.stream,premium,,,90,38,7,,,
-dfde22f6-5c98-4c07-9d01-411b6f9c7489,network.to,resell,,,90,38,7,Government of Kingdom of Tonga,26/05/2015 03:28,26/05/2026 03:28
 6f48155c-c114-4678-b942-9b61bdc86d42,network.tours,resell,,,90,38,7,"Sav.com, LLC",11/12/2024 14:00,11/12/2026 14:00
 844fa3d4-4b28-4ee7-b989-187dff1c6540,network.travel,premium,,,90,38,7,,,
 32bfba38-abf9-4663-948f-3cda119795b3,network.ventures,resell,,,90,38,7,"Global Domains International, Inc. DBA DomainCostClub.com",20/02/2014 01:22,20/02/2026 01:22
@@ -288,6 +292,8 @@ b58db086-0520-45e4-8648-6f5b4ec14434,network.camera,resell,,,72,47,7,"GoDaddy.co
 461738a9-fcca-40db-bda0-1ee2d3d64100,network.channel,premium,623.75,,72,47,7,name.com,,
 0cf3be91-9168-4282-8caf-6ff9a4ba0f4c,network.chat,resell,,,72,47,7,"Spaceship, Inc.",06/09/2023 18:33,06/09/2026 18:33
 ffbbf8cf-b558-4ac5-a5ef-09cf2d55a9b4,network.claims,resell,,,72,47,7,Dynadot Inc,13/02/2026 17:00,13/02/2027 17:00
+439f6d60-fbc3-4f17-bfcc-d993cb5d748f,network.condos,premium,,,72,47,7,,,
+7c0304c5-2fb7-469c-b8a7-773088f4fcf2,network.coupons,premium,,,72,47,7,,,
 a1184578-4fbd-4f74-b63e-4646f83c4af7,network.delivery,resell,,,72,47,7,Squarespace Domains II LLC,02/07/2021 12:21,02/07/2028 12:21
 599d20d2-f2fc-4209-ac76-3dbc7d7a4025,network.desi,available,22.98,,72,47,7,namecheap,,
 19206876-e148-46ec-a133-6c16866d9617,network.direct,resell,,,72,47,7,Porkbun LLC,21/10/2017 20:02,21/10/2026 20:02
@@ -299,6 +305,7 @@ dab59d85-0168-409c-98b7-ab08a5e22950,network.media,resell,,,72,47,7,"Chengdu Wes
 7347414a-da74-4efd-a135-df6f9e5d9793,network.paris,available,51.98,,72,47,7,namecheap,,
 4ed8ebfa-cf13-4190-831f-9d2f915f1981,network.pictures,available,9.99,,72,47,7,name.com,,
 c528a81b-597f-4ce0-bf1e-c90214e60f26,network.shop,premium,6250,,72,47,7,name.com,,
+29f46335-c3fb-4bfb-b34a-7956a360301f,network.top,premium,,,72,47,7,,,
 b97d2d2d-0b4e-4704-bb34-340ae098ba80,internet.at,premium,,,64,88,8,,,
 1e0441e5-e071-488a-9e4e-7a4d3094443d,internet.cloud,resell,,,64,88,8,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:24
 5211447c-82a4-4517-8278-46ec1b539540,internet.co,resell,,,64,88,8,Dynadot Inc,24/02/2010 23:15,23/02/2027 23:59
@@ -992,10 +999,3 @@ a83b06ba-749b-47a6-8d4b-678f421c7dab,wireless.software,premium,520,520,106,24,8,
 7ccadc97-9b83-48ca-b953-857c853dd7f6,wireless.store,premium,781.25,3125,106,24,8,name.com,,
 662a2350-9ae0-4270-a93d-b38a199b464d,wireless.stream,premium,3250,130,106,24,8,namecheap,,
 b8958999-f054-4f5a-8ad3-a98040614ca8,wireless.studio,premium,520,520,106,24,8,namecheap,,
-76ec4dbd-48b3-423e-b1ff-9ba264e12fbe,wireless.study,premium,130,130,106,24,8,namecheap,,
-fb7566a2-9952-4375-8b22-9493d9e95008,wireless.style,available,49.98,,106,24,8,namecheap,,
-239754b9-52cf-4da6-9759-3737fd3ec437,wireless.sucks,premium,2728.7,2728.7,106,24,8,namecheap,,
-21d55dfe-0467-44cf-9562-3b63840cf6e5,wireless.supplies,premium,85.8,85.8,106,24,8,namecheap,,
-ca5da52d-b0d5-491e-a886-968c5ee2381f,wireless.support,resell,,,106,24,8,"Blue Razor Domains, LLC",15/07/2015 16:00,15/07/2026 16:00
-84add7b4-9504-4854-a090-ab1432960ccc,wireless.surf,available,41.98,,106,24,8,namecheap,,
-f4faebe9-52e0-4eca-9ed6-c32d8eb0766b,wireless.surgery,available,68.98,,106,24,8,namecheap,,
