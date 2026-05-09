@@ -14,9 +14,9 @@ This selection contains 15,979 domain names tied to telecommunications keywords 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **15,998 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,998 domains · **Median ask:** $817.62 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 15,998 domains · **Median ask:** $818.68 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-08  
+**Last updated:** 2026-05-09  
 **Canonical page:** `https://unique.domains/domains/sector/Telecommunications`  
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Telecommunications Keyword Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Telecommunications Keyword Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
