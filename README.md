@@ -1,10 +1,10 @@
-# One-Word Telecommunications Domains Across 506 TLDs (85,360)
+# One-Word Telecommunications Domains Across 506 TLDs (87,068)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-85%2C360%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-87%2C068%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 83,416 one-word telecommunications domain names across 506 TLDs, with a median asking price near $872. Names skew single-word and industry-adjacent rather than tied to one extension. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **85,360 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **87,068 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 85,360 domains · **Median ask:** $842.85 · **High-demand under $2,500:** 254
+**Public extract:** 1,000 rows · **Live catalog:** 87,068 domains · **Median ask:** $826.06 · **High-demand under $2,500:** 247
 
-**Last updated:** 2026-08-11
+**Last updated:** 2026-08-13
 **Canonical page:** `https://unique.domains/domains/sector/telecommunications`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| cells.tel      | available | $10.99    | —             | medium         | low    | 5      | name.com                                                  |
-| phone.ag       | resell    | $89       | —             | high           | low    | 5      | Dynadot Inc                                               |
-| call.online    | premium   | $1,562.50 | —             | high           | low    | 4      | name.com                                                  |
-| fiber.contact  | available | $14.99    | $14.99        | high           | low    | 5      | namesilo                                                  |
-| radio.talk     | resell    | $150      | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| cell.cloud     | premium   | $6,500    | $6,500        | high           | low    | 4      | namecheap                                                 |
-| modem.ag       | available | $89       | —             | high           | low    | 5      | name.com                                                  |
-| wireless.autos | resell    | $1.99     | —             | high           | low    | 8      | Dynadot LLC                                               |
-| cell.nexus     | premium   | $623.75   | —             | high           | low    | 4      | name.com                                                  |
-| modem.airforce | available | $134.98   | —             | high           | low    | 5      | namecheap                                                 |
-| wireless.me    | resell    | $51,750   | $27.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
-| cell.onl       | premium   | $53.92    | $116          | high           | low    | 4      | namesilo                                                  |
-| modem.auto     | available | $2,950    | —             | high           | low    | 5      | namecheap                                                 |
-| wireless.org   | resell    | $431,250  | $21.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
-| cell.online    | premium   | $781.25   | $3,125        | high           | low    | 4      | name.com                                                  |
-| modem.autos    | available | $1.99     | —             | high           | low    | 5      | name.com                                                  |
-| web.archi      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
-| cell.site      | premium   | $1,562.50 | $6,250        | high           | low    | 4      | name.com                                                  |
-| modem.business | available | $3.99     | —             | high           | low    | 5      | name.com                                                  |
-| web.exchange   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| fiber.contact    | available | $14.99    | $14.99        | high           | low    | 5      | namesilo                                                  |
+| phone.ag         | resell    | $89       | —             | high           | low    | 5      | Dynadot Inc                                               |
+| call.online      | premium   | $1,562.50 | —             | high           | low    | 4      | name.com                                                  |
+| modem.ag         | available | $89       | —             | high           | low    | 5      | name.com                                                  |
+| radio.talk       | resell    | $150      | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| cell.cloud       | premium   | $6,500    | $6,500        | high           | low    | 4      | namecheap                                                 |
+| modem.airforce   | available | $134.98   | —             | high           | low    | 5      | namecheap                                                 |
+| wireless.autos   | resell    | $1.99     | —             | high           | low    | 8      | Dynadot LLC                                               |
+| cell.nexus       | premium   | $623.75   | —             | high           | low    | 4      | name.com                                                  |
+| modem.associates | available | $21.99    | —             | high           | low    | 5      | name.com                                                  |
+| wireless.me      | resell    | $51,750   | $27.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
+| cell.onl         | premium   | $53.92    | $116          | high           | low    | 4      | namesilo                                                  |
+| modem.auto       | available | $2,950    | —             | high           | low    | 5      | namecheap                                                 |
+| wireless.org     | resell    | $431,250  | $21.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
+| cell.online      | premium   | $781.25   | $3,125        | high           | low    | 4      | name.com                                                  |
+| modem.autos      | available | $1.99     | —             | high           | low    | 5      | name.com                                                  |
+| cell.express     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 5                                          |
+| cell.site        | premium   | $1,562.50 | $6,250        | high           | low    | 4      | name.com                                                  |
+| modem.business   | available | $3.99     | —             | high           | low    | 5      | name.com                                                  |
+| cell.io          | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 85,360 live domains                        |
+| 1,000-row public sample | 87,068 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 254 high-demand names under $2,500         |
+| Basic exported fields   | 247 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Telecommunications Domains Across 506 TLDs*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Telecommunications Domains Across 506 TLDs*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
