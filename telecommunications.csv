@@ -1,29 +1,48 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
+882e5aef-d5bb-40b4-b90d-1c5fda51951e,mobilephone.mobile,available,26.98,,high,low,12,namecheap,,
 a6b43187-bc9e-46e0-993c-389eaa41cf30,cellular.net,resell,,,medium,low,8,"Gabia, Inc.",13/12/2000 11:35,13/12/2026 11:35
 07d98bdf-87b1-4442-9a09-7be38ce48f9d,information.net,resell,,,high,low,11,"GoDaddy.com, LLC",20/05/1997 04:00,21/05/2027 04:00
 14dd9d97-4806-4f9c-823f-e2eddbe779e0,information.mobile,premium,375,,high,low,11,name.com,,
+5b72d76c-4ecf-4a09-bc6d-feee7c033068,information.new,available,549.99,,high,low,11,name.com,,
 ac8796ee-9a95-4ff0-ac0c-4897ad2e046d,technology.net,resell,,,high,low,10,"NameSilo, LLC",30/07/1997 04:00,29/07/2026 04:00
 f2d19245-a998-464a-9b44-a1b4e9bc2150,center.solutions,resell,,,high,low,6,"Sav.com, LLC - 11",25/11/2025 15:15,25/11/2026 15:15
 b6f88189-6c07-4e0a-9c9b-156b04bde816,information.kiwi,premium,55.83,,high,low,11,name.com,,
 2c300449-7003-4369-9df6-77dbc92bfd9f,message.support,resell,,,high,low,7,"Spaceship, Inc.",19/02/2026 17:09,19/02/2027 17:09
 909a616a-c911-48e4-8ead-dba543ae52f4,web.solutions,resell,,,high,medium,3,Porkbun LLC,10/09/2016 11:12,10/09/2026 11:12
+410a2f5e-20a4-4b39-959e-b75a485023b7,service.management,resell,,,high,medium,7,Porkbun LLC,22/06/2015 16:28,22/06/2026 16:28
 27c876be-7171-4558-a535-beae06ab4d39,service.club,resell,,,high,medium,7,"GoDaddy.com, LLC",09/03/2020 05:30,09/03/2030 05:30
 d9c97b1f-e279-414b-a727-f15c332bfe38,speed.digital,resell,,,high,low,5,Porkbun LLC,06/08/2020 10:48,06/08/2026 10:48
 70ef2f0f-acc7-4b7c-8841-3d1c32a332eb,technology.shop,premium,1250,,high,low,10,name.com,,
 540ed01a-9608-4260-9841-5965f4f7f5be,device.net,resell,,,high,low,6,"GoDaddy.com, LLC",04/01/2000 13:07,04/01/2027 13:07
 165f7e87-14a6-4daa-a9f3-95f0961e5812,speed.fun,premium,1562.5,,high,low,5,name.com,,
+f14397e6-3a8a-4ae4-99d1-9ec4fe4a8d1e,networks.car,available,2400,,medium,low,8,namecheap,,
 8226fe38-11bf-4f7d-b085-cade53ffb37f,smartphone.moi,available,25.99,25.99,high,low,10,namesilo,,
 066c154a-e594-40dd-bfa2-9286115e3a44,information.forex,available,19.99,,high,low,11,name.com,,
 0abd6c20-7c89-4e02-a8d3-5c1b8ca04fb6,information.paris,premium,366.82,,high,low,11,name.com,,
 265da6d0-c1b3-412b-a68f-bd811a85c69f,information.sex,available,154.98,,high,low,11,namecheap,,
+36ae09b7-6d6d-4544-8a7f-3e7f6eccd4cd,networks.singles,available,12.99,,medium,low,8,name.com,,
+61a22216-8262-47a7-a6bb-298b96327508,system.cyou,premium,384,768,medium,medium,6,namesilo,,
 19206876-e148-46ec-a133-6c16866d9617,network.direct,resell,,,high,medium,7,Porkbun LLC,21/10/2017 20:02,21/10/2026 20:02
 aa227b53-77fd-49dd-b3b2-cdc67d4bdc22,networks.inc,premium,2170,2800,medium,low,8,namecheap,,
+8068f316-7954-4aee-9097-556074da152f,networks.rsvp,premium,311.25,,medium,low,8,name.com,,
+5c83491e-b4e0-42e3-a00c-7a5514c81ca0,networks.cricket,premium,437.5,,medium,low,8,name.com,,
+5f8caa6e-2267-4f92-b0c8-d0b3da5dd097,networks.casa,premium,50,,medium,low,8,name.com,,
+363d493d-0696-4087-ab19-52849ca568e4,networks.video,premium,69.3,138.6,medium,low,8,namecheap,,
+615c64f9-b041-4797-8646-7fbff836e10a,networks.melbourne,available,53.98,,medium,low,8,namecheap,,
+7a9cf04b-1b16-4ffc-bd57-169ab7c1e926,networks.juegos,available,478.98,,medium,low,8,namecheap,,
+49f4c966-18dc-4a86-b75e-b11974b67b48,networks.boutique,available,6.99,,medium,low,8,name.com,,
 3b373029-c006-42e9-a802-a60333ec536d,data.marketing,resell,,,high,medium,4,Porkbun LLC,02/11/2019 10:10,02/11/2026 10:10
+29e23f08-c3a6-417d-abf4-ca395be4d3e7,networks.actor,premium,82.5,,medium,low,8,name.com,,
+e63b8385-77a3-4d13-8e3d-103bce5b1fb1,networks.schule,available,19.99,,medium,low,8,name.com,,
+7e2239d6-309c-42c1-898e-733ff33e9004,networks.courses,premium,125,,medium,low,8,name.com,,
 f8f9d965-9f0c-4059-9b70-2cf2a2220bcf,networks.date,premium,375,,medium,low,8,name.com,,
+3269e3c0-1455-42de-9711-9c12ddc01a03,data.republican,available,5.98,43.98,medium,medium,4,namecheap,,
 0fa1f70b-720b-4fdc-a3c5-f5dd107d6f17,information.ryukyu,available,22.98,,high,low,11,namecheap,,
 29caba67-e22f-43ca-b19e-8967da719256,data.computer,resell,,,medium,medium,4,Dynadot Inc,12/10/2019 10:46,12/10/2026 10:46
 1c83e047-dabe-4a5a-89c4-72193f9ddb5a,networks.vegas,available,29.99,,medium,low,8,name.com,,
+97126b5c-c02d-4203-885a-c4bc79daeb43,data.press,premium,937.5,1875,medium,medium,4,name.com,,
 33df7b75-c13c-4ab5-b149-1c8ff35cf6ed,data.zone,resell,,,high,medium,4,Porkbun LLC,19/09/2016 07:42,19/09/2026 07:42
+064b087f-7c61-450b-afd2-2acdc49df98f,networks.watch,available,4.99,,medium,low,8,name.com,,
 6a68f98d-889a-4c13-8e0d-d99ebe643905,information.moi,premium,93.75,,high,low,11,name.com,,
 6382e8bf-a31c-4daa-9e80-630e76971eef,networks.cc,resell,,,medium,low,8,Dynadot Inc,15/01/2009 17:19,15/01/2027 17:19
 654c3a55-91ca-4bb2-a858-f2de3ab087ca,networks.travel,available,39.99,,medium,low,8,name.com,,
@@ -65,6 +84,7 @@ f1ce9a56-4f9b-4394-90d6-9c703614c041,networks.spot,premium,125,,medium,low,8,nam
 cdd9ac08-0391-4038-9672-6abf49c387fa,mobile.land,resell,,,medium,medium,6,Porkbun LLC,21/10/2016 09:01,21/10/2026 09:01
 066663d4-d5e1-4a5c-806c-31b106454443,wireless.network,available,,,high,low,8,,,
 96879b23-caa4-4b60-8711-d895714682e9,optical.net,resell,,,high,high,7,"Domain.com, LLC",30/01/1997 05:00,31/01/2027 05:00
+f188016c-af31-4be2-9834-f213d6619184,cordless.city,available,5.98,37.98,low,low,8,namecheap,,
 bed3ee9a-0252-45e5-a140-ad7467ce9701,wireless.contact,premium,14.99,14.99,high,low,8,namesilo,,
 f6d267db-aeed-4756-8fd1-ca5d02b5211f,signal.tech,available,,,high,low,6,,,
 7633638e-4535-4850-ac56-28b955ff92ca,phone.online,premium,7812.5,,high,low,5,name.com,,
@@ -72,6 +92,7 @@ c4464737-3556-4a48-a65b-ef614f386440,modem.online,premium,78.12,,high,low,5,name
 44f82e10-c343-4d37-b45d-89a4755ab73d,contact.online,premium,3125,,high,medium,7,name.com,,
 20da32f4-deff-43d8-91b9-d8089386bade,radio.online,premium,7812.5,,high,medium,5,name.com,,
 26eea1ae-2ea5-4e70-b37d-a26f204dc5c0,data.ventures,resell,,,high,medium,4,Porkbun LLC,30/07/2020 12:06,30/07/2026 12:06
+941a0630-e895-4cb8-b55a-c9a5ec9ae74c,cordless.limited,available,14.99,52.99,low,low,8,name.com,,
 459a3701-3834-4a54-b5f8-097bf7fd8d5e,signal.chat,resell,,,high,medium,6,"Xiamen ChinaSource Internet Service Co., Ltd",18/07/2023 17:00,18/07/2026 17:00
 4d7039d7-8e38-40ae-abc1-10deccb9abd7,web.vision,resell,,,high,medium,3,Porkbun LLC,26/08/2015 16:01,26/08/2026 16:01
 935896ad-c039-421a-9883-59f7c3f07c26,networks.dad,premium,311.25,,medium,low,8,name.com,,
@@ -89,20 +110,27 @@ d777ddb2-c05b-4684-b8ca-d5c2d1ec067b,modem.contact,available,16.78,,high,low,5,n
 5b3271fc-0017-4a5b-9bb3-018b4991778b,contact.contact,premium,1107,1107,high,medium,7,namesilo,,
 511385e6-b49a-4c60-be7d-099da56c3ba4,phone.contact,resell,,,high,low,5,Porkbun LLC,09/12/2020 16:00,09/12/2026 16:00
 74967a35-705d-43db-871a-837888d82788,supplier.ryukyu,available,22.98,,high,low,8,namecheap,,
+4f89fea4-22b2-4cce-abe7-7ca11b595571,cellular.vin,available,6.98,75.98,medium,low,8,namecheap,,
+9dfe906c-d06d-4ded-aac5-ae6676fa0510,cellular.desi,available,19.98,22.98,medium,low,8,namecheap,,
 491fb218-032c-4dce-9449-dd100c4de301,cordless.sarl,available,6.98,8.98,low,low,8,namecheap,,
 1251f970-3574-4a4e-a9ef-cd69461ae4cf,networks.meme,premium,187.5,,medium,low,8,name.com,,
 2f142e32-fd25-45a0-b435-a0d286adf8b3,wireless.nexus,premium,167.7,167.7,high,low,8,namecheap,,
+f6b5a96e-8aaf-4705-a49f-3786376712b8,cordless.guitars,available,104.99,114.99,medium,low,8,namesilo,,
 eec3bb29-d1f3-431e-b337-e75606c9df93,wireless.io,resell,,,high,low,8,"humbly, LLC",09/09/2016 00:30,09/09/2026 00:30
 90869dcb-a672-4044-bb77-f6f68e9c110a,networks.voyage,available,9.99,,medium,low,8,name.com,,
+5fc8d0ea-5ec8-4229-8b22-ef20779ef53f,cellular.fans,premium,65,130,medium,low,8,namecheap,,
 b1a34b0a-00b9-4876-826d-83b41b7e90d1,networks.holdings,available,80.99,,medium,low,8,name.com,,
 97f461f5-4c19-4c4b-a17d-7c201f3f353a,cellular.page,premium,70.21,70.21,medium,low,8,namesilo,,
 d7a513ad-6a17-4a07-b79e-fe2e9c13de15,networks.mobile,premium,9375,,medium,low,8,name.com,,
 3281236e-8bf6-4e82-8e80-cb86d19fb2c8,networks.pics,available,1.99,,medium,low,8,name.com,,
 251916d6-3681-42f2-b253-71a5a5adef60,digital.contact,resell,,,high,medium,7,"Spaceship, Inc.",06/02/2025 15:15,06/02/2027 15:15
 1e168cbe-2a12-48f8-91d7-0bc88d11edcd,networks.cv,resell,,,medium,low,8,Spaceship,11/06/2025 01:01,11/06/2026 01:01
+db5a3899-b89e-422b-befe-844fe17d5d5c,cordless.fail,available,14.99,46.99,low,low,8,name.com,,
 4405e282-17cf-4268-93f0-210f525cd350,connect.barcelona,available,38.98,38.98,medium,medium,7,namecheap,,
+04993925-2faf-45dc-951b-adb4295730ef,cellular.ac,available,28.98,76.98,medium,low,8,namecheap,,
 80475d3f-bd7f-4f79-a0a5-d9d35e122653,networks.gifts,available,9.99,,medium,low,8,name.com,,
 46da6c59-84c6-41db-854d-28ee4c0035a6,networks.kim,available,14.99,,medium,low,8,name.com,,
+08f3d6f7-7d6b-474f-80dc-5d8480fe4b7f,cellular.gratis,available,23.99,23.99,medium,low,8,namesilo,,
 61657e6d-96c4-4592-a195-ee5bb132f266,networks.desi,available,22.98,,medium,low,8,namecheap,,
 26b23eb8-7383-411d-88e2-8161434bbb50,tower.ryukyu,available,22.98,,high,low,5,namecheap,,
 a225ba2d-c792-457d-9039-e103f7ea481f,connect.desi,available,19.98,22.98,medium,medium,7,namecheap,,
@@ -118,9 +146,11 @@ e41b3ffa-d57d-4a5a-b1dd-e81ec4c69f39,wireless.talk,premium,78,78,high,low,8,name
 adf4833a-e9c5-4537-9a53-293d3d860582,cellular.sydney,premium,58,58,medium,low,8,namesilo,,
 291b05f4-003f-4cad-b4a1-520888673903,wireless.chat,premium,128.7,128.7,high,low,8,namecheap,,
 b32e818d-b756-4d2e-b9f6-1f89ee0a28a0,networks.soccer,available,19.99,,medium,low,8,name.com,,
+bdf72002-ea56-4583-91db-e5e5fe562203,cordless.art,premium,291.2,83.3,low,low,8,namesilo,,
 c409b591-3f61-48ba-8751-dbe2a5271891,cellular.pet,available,6.98,35.98,medium,low,8,namecheap,,
 493e7ee9-1877-4795-80d3-f484adc59d47,signal.systems,resell,,,high,medium,6,"NameCheap, Inc.",26/02/2025 17:00,26/02/2027 17:00
 e108802f-9d6f-4bed-bac3-3740fc6334fc,cordless.town,available,6.98,47.48,low,low,8,namecheap,,
+3161f461-4ae4-4547-b988-f668b22cc61c,cordless.cruises,available,14.99,81.99,low,low,8,name.com,,
 56e62adf-26d8-446d-a48e-86dc7642bdeb,phone.nexus,premium,1248.75,,high,low,5,name.com,,
 09ab6034-41fa-44ba-a3c9-38cd8882cd17,modem.nexus,premium,73.75,,high,low,5,name.com,,
 d582adec-7269-4792-93d2-b93ba3bf2799,radio.nexus,premium,623.75,,high,medium,5,name.com,,
@@ -149,6 +179,7 @@ fb5eb368-3235-4cab-be23-a263ca93c8cb,contact.tech,premium,1562.5,,high,medium,7,
 852a13c7-f1a4-4630-af44-f1d5589f54dd,phone.tech,premium,7812.5,,high,low,5,name.com,,
 330e0794-6578-4463-89a3-a359fe8c2c0d,modem.tech,premium,312.5,,high,low,5,name.com,,
 910bd0eb-b7ac-4292-99a0-f69509d80f40,networks.top,resell,,,medium,low,8,"Spaceship, Inc.",10/02/2024 22:10,10/02/2027 22:10
+14e56838-f539-4f37-9a10-370c205e611d,cordless.now,available,38.98,49.98,low,low,8,namecheap,,
 7eadf5f7-35fa-4ac7-9b47-5a207f9d5550,signal.center,resell,,,high,medium,6,"Spaceship, Inc.",08/08/2025 12:22,08/08/2026 12:22
 085d0f0d-b0a1-4285-be27-37f95ab62af4,system.shop,premium,6250,6250,medium,medium,6,name.com,,
 e66b6a52-8c5e-46e5-9e39-23dc1fdf6124,cordless.boutique,available,2.98,41.98,medium,low,8,namecheap,,
@@ -430,6 +461,7 @@ ce323c85-cb04-4bc0-bb1d-99b5c867b876,signal.claims,available,19.99,,high,medium,
 8f52d54f-7e76-4449-a2a9-a52dd023b265,signal.limo,available,19.99,,high,medium,6,name.com,,
 a3de4e0e-6b30-407a-aaa3-a2ef6efa615d,modem.mobile,premium,750,,high,low,5,name.com,,
 07d534a2-ae9b-485c-90c3-e26238638bd4,contact.mobile,premium,1250,,high,medium,7,name.com,,
+e5aa1df3-8e76-4d46-b2b9-ed36736e8d49,carrying.trading,available,19.99,,high,low,8,name.com,,
 6b805000-d437-4e06-8b9f-e2a234925741,exchange.nexus,premium,161.25,,high,low,8,name.com,,
 5011e8d9-50a3-49a8-9598-95d220a51602,phone.shop,premium,3125,,high,low,5,name.com,,
 4dbe5b55-8d5b-4b83-879c-8e8bebfbbbcc,signal.lighting,available,14.99,,high,medium,6,name.com,,
@@ -651,6 +683,7 @@ bf9b406b-66a4-4d7d-bf4a-7742f910566e,message.hosting,available,398,,high,low,7,n
 8655462b-ad54-43f1-95b2-f755afa63bad,signal.juegos,available,478.98,,high,medium,6,namecheap,,
 a407d75b-3758-4cc1-b02e-34903cbae83d,signal.games,resell,,,high,medium,6,"Chengdu West Dimension Digital Technology Co., Ltd.",07/02/2022 13:15,07/02/2027 13:15
 3ef5bd5a-c9fd-486b-b670-fe20a31cc966,signal.game,available,309.99,329.99,high,medium,6,namesilo,,
+39f5eaad-9511-4f39-9579-bf4986ba4d19,text.delivery,resell,,,high,medium,4,"Spaceship, Inc.",01/03/2026 13:50,01/03/2027 13:50
 6cb381e9-2cd3-4bfa-b082-e7fa067c2da6,signal.pink,available,14.99,,high,medium,6,name.com,,
 3907fa37-022e-4a47-93b4-488d6e290fbb,signal.ventures,resell,,,high,medium,6,"Spaceship, Inc.",05/02/2014 16:14,05/02/2027 16:14
 b7177e2c-37e8-4d19-94de-673f66cb5f4a,signal.blackfriday,available,114.99,114.99,high,medium,6,namesilo,,
@@ -793,6 +826,7 @@ c06259e9-1bc5-475d-9af7-53f8f150573b,phone.ag,resell,89,,high,low,5,Dynadot Inc,
 8f8e1ebb-e7da-496b-b8d7-76af8c863aa8,exchange.cloud,premium,1400,2800,high,low,8,namecheap,,
 204b7f31-63a4-4853-882a-ace0907568f3,networks.faith,available,16.98,,medium,low,8,namecheap,,
 fef6c6d6-31ae-4595-90d9-4ab80bed44ba,networks.trading,available,19.99,,medium,low,8,name.com,,
+17a17af3-b0fa-4fa5-bfc2-05ab27c40236,callcenter.solar,available,9.99,,high,low,11,name.com,,
 7b21967e-0be2-48d4-869e-330de0c053a7,wireless.boston,premium,260,19.5,high,low,8,namecheap,,
 4b50d659-caef-456f-a292-739a238276d0,wireless.catering,available,38.99,38.99,high,low,8,namesilo,,
 a8aaa4a8-f729-4d25-95b2-574bddfc049d,wireless.download,premium,455,65,high,low,8,namecheap,,
@@ -965,37 +999,3 @@ b7aa5293-0e7b-4a25-89ff-026c4d6dba29,contact.dealer,premium,2170,2800,high,mediu
 4da03c09-8f29-4b89-bc7b-6bb28654c5f2,cordless.vodka,available,32.49,32.49,low,low,8,namesilo,,
 56fc35ec-e381-4e08-88bd-7df3912dd09f,modem.at,available,,,high,low,5,,,
 8e3c5af2-f802-4532-b018-44cf3a77d153,phone.at,resell,,,high,low,5,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ),,
-c6da142a-a98c-42dd-b7d6-f62de4ac675d,radio.at,available,,,high,low,5,,,
-c93f2060-a8e9-49c2-b30c-79e207a2ab18,wireless.pet,available,19.99,,high,low,8,name.com,,
-f3cdc1f1-486b-4950-8239-d818f2fa230e,cell.social,resell,,,high,low,4,Squarespace Domains II LLC,25/01/2024 15:15,25/01/2027 15:15
-dcb7a3a3-83a1-4c66-bda1-41373c94e421,radio.london,premium,1348.92,,high,medium,5,name.com,,
-256609b9-e5bc-4ea0-a68f-3244ffd82869,modem.london,available,41.98,,high,low,5,namecheap,,
-8cc95eba-ef49-43b5-abf3-1fd13ef25627,phone.london,premium,133.38,,high,low,5,name.com,,
-efae7de4-2d47-4e66-ad0a-083661f87b55,fiber.so,resell,,,high,low,5,SOSTEC TECHNOLOGIES_LR,20/06/2024 04:25,20/06/2026 04:25
-f6291b96-9433-44d9-8251-847dc895ee56,telecom.so,resell,,,high,low,7,Dynadot LLC,21/09/2022 09:00,21/09/2025 09:00
-6cf53ef9-2de4-4532-bb2f-ed003165ea66,wireless.hiv,available,184.99,,high,low,8,name.com,,
-a1f23cf1-065f-4151-87e4-b205cf0f2dd4,message.ag,available,89,,high,low,7,name.com,,
-e01b4f9d-d214-46f4-8eeb-b764ebe19a87,networks.me,resell,,,medium,low,8,"NameCheap, Inc.",17/07/2008 15:00,17/07/2026 15:00
-6c284f14-69a8-422b-8855-abbf7f3349ef,radio.mba,available,19.99,,high,medium,5,name.com,,
-9fc75f0c-7e95-4bbb-8b4d-2fb4e683a45c,phone.mba,available,19.99,,high,low,5,name.com,,
-a8d65903-9a46-443b-a314-6606680a896b,modem.mba,available,19.99,,high,low,5,name.com,,
-78cc7083-193f-4665-a893-a18740ad0afc,phone.page,premium,1248.75,,high,low,5,name.com,,
-a73ff915-5955-426c-8403-9a01a055cabd,modem.page,premium,73.75,,high,low,5,name.com,,
-7f69a23c-8029-40c9-9f17-da9614cc6a27,radio.page,premium,623.75,,high,medium,5,name.com,,
-21d086f4-28fb-41dc-bfcd-483901a464aa,cordless.shoes,available,34.98,81.98,medium,low,8,namecheap,,
-532339b8-e63d-48df-ad59-f6f0b372cf29,wireless.football,available,19.99,,high,low,8,name.com,,
-1bb591f2-bd81-41e0-aea8-9f68d98a2a69,wireless.soccer,available,19.99,,high,low,8,name.com,,
-4ada0314-4d45-4a08-bfe0-ebc8eec9bed2,wireless.futbol,available,17.99,17.99,high,low,8,namesilo,,
-cd2c2215-cea0-4b6c-b2b1-dd0c3deca44e,wireless.solar,available,81.98,,high,low,8,namecheap,,
-c6b3cc89-4afd-4483-9592-ffe090a668cb,wireless.engineering,premium,260,260,high,low,8,namecheap,,
-73dad600-f7f3-41b2-a575-63f16229b0fe,wireless.claims,available,19.99,,high,low,8,name.com,,
-302e564a-a4c8-4510-91d8-f92d1f10183e,wireless.limo,available,19.99,,high,low,8,name.com,,
-d13c8324-f1ab-4c50-8114-5665793e4a39,center.mobile,premium,750,,high,low,6,name.com,,
-9f24a2fa-b508-4f40-8c13-682482b34b05,optics.net,resell,,,medium,high,6,"Spaceship, Inc.",29/08/1997 04:00,28/08/2027 04:00
-7329a523-da79-4eab-af44-5d5524bd31b0,station.online,available,,,high,high,7,,,
-3d1daf02-52a3-406b-a9ca-375e6da3d1ed,wireless.market,premium,128.7,128.7,high,low,8,namecheap,,
-464d09a7-ed61-454c-b25f-a7e2a831bd23,cordless.promo,available,11.98,33.48,medium,low,8,namecheap,,
-b22c8e1f-3125-48f5-9c35-ef62ac557dda,wireless.horse,available,32.49,32.49,high,low,8,namesilo,,
-6d7f30e7-bccb-47ca-af44-208050ccc765,wireless.dog,available,5.99,,high,low,8,name.com,,
-bf2347b3-dab8-4dbb-b9fd-64cf7a900c0b,wireless.vet,available,41.99,41.99,high,low,8,namesilo,,
-53113b53-d80a-49fa-b1c4-65bd174c648f,cellular.srl,available,31.99,31.99,medium,low,8,namesilo,,

@@ -16,7 +16,7 @@ This selection includes 83,416 one-word telecommunications domain names across 5
 
 **Public extract:** 1,000 rows · **Live catalog:** 89,212 domains · **Median ask:** $808.55 · **High-demand under $2,500:** 242
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/telecommunications`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| wave.ryukyu    | available | $22.98    | —             | high           | medium | 4      | namecheap                                                 |
-| phone.ag       | resell    | $89       | —             | high           | low    | 5      | Dynadot Inc                                               |
-| call.online    | premium   | $1,562.50 | —             | high           | low    | 4      | name.com                                                  |
-| cells.company  | available | $3.99     | —             | medium         | low    | 5      | name.com                                                  |
-| radio.talk     | resell    | $150      | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| cell.cloud     | premium   | $6,500    | $6,500        | high           | low    | 4      | namecheap                                                 |
-| cells.tel      | available | $10.99    | —             | medium         | low    | 5      | name.com                                                  |
-| wireless.autos | resell    | $1.99     | —             | high           | low    | 8      | Dynadot LLC                                               |
-| cell.nexus     | premium   | $623.75   | —             | high           | low    | 4      | name.com                                                  |
-| fiber.contact  | available | $14.99    | $14.99        | high           | low    | 5      | namesilo                                                  |
-| wireless.me    | resell    | $51,750   | $27.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
-| cell.online    | premium   | $781.25   | $3,125        | high           | low    | 4      | name.com                                                  |
-| modem.ag       | available | $89       | —             | high           | low    | 5      | name.com                                                  |
-| wireless.org   | resell    | $431,250  | $21.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
-| cell.site      | premium   | $1,562.50 | $6,250        | high           | low    | 4      | name.com                                                  |
-| modem.auto     | available | $2,950    | —             | high           | low    | 5      | namecheap                                                 |
-| web.archi      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
-| cell.talk      | premium   | $302.50   | $302.50       | high           | low    | 4      | namesilo                                                  |
-| modem.business | available | $3.99     | —             | high           | low    | 5      | name.com                                                  |
-| web.exchange   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| data.republican | available | $5.98     | $43.98        | medium         | medium | 4      | namecheap                                                 |
+| phone.ag        | resell    | $89       | —             | high           | low    | 5      | Dynadot Inc                                               |
+| call.online     | premium   | $1,562.50 | —             | high           | low    | 4      | name.com                                                  |
+| wave.ryukyu     | available | $22.98    | —             | high           | medium | 4      | namecheap                                                 |
+| radio.talk      | resell    | $150      | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| cell.cloud      | premium   | $6,500    | $6,500        | high           | low    | 4      | namecheap                                                 |
+| cells.company   | available | $3.99     | —             | medium         | low    | 5      | name.com                                                  |
+| wireless.autos  | resell    | $1.99     | —             | high           | low    | 8      | Dynadot LLC                                               |
+| cell.nexus      | premium   | $623.75   | —             | high           | low    | 4      | name.com                                                  |
+| cells.tel       | available | $10.99    | —             | medium         | low    | 5      | name.com                                                  |
+| wireless.me     | resell    | $51,750   | $27.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
+| cell.online     | premium   | $781.25   | $3,125        | high           | low    | 4      | name.com                                                  |
+| fiber.contact   | available | $14.99    | $14.99        | high           | low    | 5      | namesilo                                                  |
+| wireless.org    | resell    | $431,250  | $21.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
+| cell.site       | premium   | $1,562.50 | $6,250        | high           | low    | 4      | name.com                                                  |
+| modem.ag        | available | $89       | —             | high           | low    | 5      | name.com                                                  |
+| web.archi       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
+| cell.talk       | premium   | $302.50   | $302.50       | high           | low    | 4      | namesilo                                                  |
+| modem.auto      | available | $2,950    | —             | high           | low    | 5      | namecheap                                                 |
+| web.exchange    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Telecommunications Domains Across 506 TLDs*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Telecommunications Domains Across 506 TLDs*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
