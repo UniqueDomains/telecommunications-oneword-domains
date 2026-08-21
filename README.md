@@ -14,7 +14,7 @@ This selection includes 83,416 one-word telecommunications domain names across 5
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **89,223 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 89,223 domains · **Median ask:** $808.46 · **High-demand under $2,500:** 242
+**Public extract:** 1,000 rows · **Live catalog:** 89,223 domains · **Median ask:** $808.34 · **High-demand under $2,500:** 242
 
 **Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/sector/telecommunications`
