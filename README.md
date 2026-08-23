@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| cells.tel      | available | $10.99    | —             | medium         | low    | 5      | name.com                                                  |
-| phone.ag       | resell    | $89       | —             | high           | low    | 5      | Dynadot Inc                                               |
-| call.online    | premium   | $1,562.50 | —             | high           | low    | 4      | name.com                                                  |
-| fiber.contact  | available | $14.99    | $14.99        | high           | low    | 5      | namesilo                                                  |
-| radio.talk     | resell    | $150      | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| cell.cloud     | premium   | $6,500    | $6,500        | high           | low    | 4      | namecheap                                                 |
-| modem.ag       | available | $89       | —             | high           | low    | 5      | name.com                                                  |
-| wireless.autos | resell    | $1.99     | —             | high           | low    | 8      | Dynadot LLC                                               |
-| cell.nexus     | premium   | $623.75   | —             | high           | low    | 4      | name.com                                                  |
-| modem.auto     | available | $2,950    | —             | high           | low    | 5      | namecheap                                                 |
-| wireless.me    | resell    | $51,750   | $27.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
-| cell.onl       | premium   | $53.92    | $116          | high           | low    | 4      | namesilo                                                  |
-| modem.autos    | available | $1.99     | —             | high           | low    | 5      | name.com                                                  |
-| wireless.org   | resell    | $431,250  | $21.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
-| cell.online    | premium   | $781.25   | $3,125        | high           | low    | 4      | name.com                                                  |
-| modem.business | available | $3.99     | —             | high           | low    | 5      | name.com                                                  |
-| web.archi      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
-| cell.site      | premium   | $1,562.50 | $6,250        | high           | low    | 4      | name.com                                                  |
-| modem.bz       | available | $25       | —             | high           | low    | 5      | name.com                                                  |
-| web.exchange   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| fiber.contact    | available | $14.99    | $14.99        | high           | low    | 5      | namesilo                                                  |
+| phone.ag         | resell    | $89       | —             | high           | low    | 5      | Dynadot Inc                                               |
+| call.online      | premium   | $1,562.50 | —             | high           | low    | 4      | name.com                                                  |
+| modem.ag         | available | $89       | —             | high           | low    | 5      | name.com                                                  |
+| radio.talk       | resell    | $150      | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| cell.cloud       | premium   | $6,500    | $6,500        | high           | low    | 4      | namecheap                                                 |
+| modem.airforce   | available | $134.98   | —             | high           | low    | 5      | namecheap                                                 |
+| wireless.autos   | resell    | $1.99     | —             | high           | low    | 8      | Dynadot LLC                                               |
+| cell.nexus       | premium   | $623.75   | —             | high           | low    | 4      | name.com                                                  |
+| modem.associates | available | $21.99    | —             | high           | low    | 5      | name.com                                                  |
+| wireless.me      | resell    | $51,750   | $27.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
+| cell.onl         | premium   | $53.92    | $116          | high           | low    | 4      | namesilo                                                  |
+| modem.auto       | available | $2,950    | —             | high           | low    | 5      | namecheap                                                 |
+| wireless.org     | resell    | $431,250  | $21.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
+| cell.online      | premium   | $781.25   | $3,125        | high           | low    | 4      | name.com                                                  |
+| modem.autos      | available | $1.99     | —             | high           | low    | 5      | name.com                                                  |
+| cell.io          | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.                                            |
+| cell.site        | premium   | $1,562.50 | $6,250        | high           | low    | 4      | name.com                                                  |
+| modem.business   | available | $3.99     | —             | high           | low    | 5      | name.com                                                  |
+| cell.link        | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
