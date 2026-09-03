@@ -16,7 +16,7 @@ This selection includes 83,416 one-word telecommunications domain names across 5
 
 **Public extract:** 1,000 rows · **Live catalog:** 89,967 domains · **Median ask:** $802.11 · **High-demand under $2,500:** 242
 
-**Last updated:** 2026-08-25
+**Last updated:** 2026-09-03
 **Canonical page:** `https://unique.domains/domains/sector/telecommunications`
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | wireless.org     | resell    | $431,250  | $21.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
 | cell.online      | premium   | $781.25   | $3,125        | high           | low    | 4      | name.com                                                  |
 | modem.autos      | available | $1.99     | —             | high           | low    | 5      | name.com                                                  |
-| cell.io          | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.                                            |
+| cell.express     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 5                                          |
 | cell.site        | premium   | $1,562.50 | $6,250        | high           | low    | 4      | name.com                                                  |
 | modem.business   | available | $3.99     | —             | high           | low    | 5      | name.com                                                  |
-| cell.link        | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC                                              |
+| cell.io          | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Telecommunications Domains Across 506 TLDs*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Telecommunications Domains Across 506 TLDs*. Version 2026-09-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
