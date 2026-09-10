@@ -1,10 +1,10 @@
-# One-Word Telecommunications Domains Across 506 TLDs (92,696)
+# One-Word Telecommunications Domains Across 506 TLDs (93,402)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-92%2C696%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-93%2C402%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 83,416 one-word telecommunications domain names across 506 TLDs, with a median asking price near $872. Names skew single-word and industry-adjacent rather than tied to one extension. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **92,696 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **93,402 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 92,696 domains · **Median ask:** $787.74 · **High-demand under $2,500:** 241
+**Public extract:** 1,000 rows · **Live catalog:** 93,402 domains · **Median ask:** $783.89 · **High-demand under $2,500:** 238
 
 **Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/sector/telecommunications`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| hub.hamburg     | available | $59.99    | —             | high           | medium | 3      | name.com                                                  |
-| radio.talk      | resell    | $150      | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| the.live        | premium   | $700      | $1,400        | high           | medium | 3      | namecheap                                                 |
-| data.new        | available | $488.98   | $601.98       | medium         | medium | 4      | namecheap                                                 |
-| wireless.me     | resell    | $51,750   | $27.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
-| cell.cloud      | premium   | $6,500    | $6,500        | high           | low    | 4      | namecheap                                                 |
-| data.republican | available | $5.98     | $43.98        | medium         | medium | 4      | namecheap                                                 |
-| wireless.org    | resell    | $431,250  | $21.99        | high           | low    | 8      | GoDaddy.com, LLC                                          |
-| cell.nexus      | premium   | $623.75   | —             | high           | low    | 4      | name.com                                                  |
-| wave.ryukyu     | available | $22.98    | —             | high           | medium | 4      | namecheap                                                 |
-| web.archi       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
-| cell.online     | premium   | $781.25   | $3,125        | high           | low    | 4      | name.com                                                  |
-| cells.actor     | available | $19.99    | —             | medium         | low    | 5      | name.com                                                  |
-| web.exchange    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
-| cell.talk       | premium   | $302.50   | $302.50       | high           | low    | 4      | namesilo                                                  |
-| cells.ag        | available | $89       | —             | medium         | low    | 5      | name.com                                                  |
-| web.solutions   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
-| data.press      | premium   | $937.50   | $1,875        | medium         | medium | 4      | name.com                                                  |
-| cells.agency    | available | $7.99     | —             | medium         | low    | 5      | name.com                                                  |
-| web.vision      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| hub.hamburg      | available | $59.99    | —             | high           | medium | 3      | name.com        |
+| hub.ceo          | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| ship.meme        | premium   | $187.50   | —             | high           | low    | 4      | name.com        |
+| call.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap       |
+| web.berlin       | resell    | —         | —             | high           | medium | 3      | —               |
+| cells.accountant | premium   | $437.50   | —             | medium         | low    | 5      | name.com        |
+| cells.adult      | available | $166.98   | —             | medium         | low    | 5      | namecheap       |
+| web.camp         | resell    | —         | —             | high           | medium | 3      | Porkbun LLC     |
+| cells.art        | premium   | $153.75   | —             | medium         | low    | 5      | name.com        |
+| cells.airforce   | available | $134.98   | —             | medium         | low    | 5      | namecheap       |
+| web.engineering  | resell    | —         | —             | high           | medium | 3      | Porkbun LLC     |
+| cells.bar        | premium   | $84.99    | —             | medium         | low    | 5      | name.com        |
+| cells.associates | available | $21.99    | —             | medium         | low    | 5      | name.com        |
+| web.finance      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC     |
+| cells.bond       | premium   | $420      | $840          | medium         | low    | 5      | namecheap       |
+| cells.band       | available | $29.99    | —             | medium         | low    | 5      | name.com        |
+| web.markets      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC     |
+| cells.boo        | premium   | $73.75    | —             | medium         | low    | 5      | name.com        |
+| cells.barcelona  | available | $38.98    | —             | medium         | low    | 5      | namecheap       |
+| call.cx          | resell    | —         | —             | high           | low    | 4      | CentralNic Ltd  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 92,696 live domains                        |
+| 1,000-row public sample | 93,402 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 241 high-demand names under $2,500         |
+| Basic exported fields   | 238 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
