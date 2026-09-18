@@ -28,7 +28,7 @@ f99c6aa3-2e90-4a89-856a-3ce2899a6f97,network.dealer,premium,2170,2800,high,mediu
 86a1f572-3bfd-4a2b-8d7d-8d4120746bea,network.car,available,1999.99,2199,high,medium,7,namesilo,,,
 799e5bd4-8839-4595-947d-5da1abf2f778,network.auto,available,1999.99,2199,high,medium,7,namesilo,,,
 17dd043b-b904-4946-8eb3-511df5bc088b,network.im,available,,,high,low,7,,,,
-e523c436-db29-4f1c-9283-f76e31a32b38,network.info,resell,,,high,medium,7,Hosting Concepts B.V. d/b/a Registrar.eu,13/07/2002 19:23,13/07/2026 19:23,
+e523c436-db29-4f1c-9283-f76e31a32b38,network.info,resell,,,high,medium,7,Hosting Concepts B.V. d/b/a Registrar.eu,13/07/2002 19:23,13/07/2027 19:23,18/09/2026 08:01
 393e0e2f-bd3a-4b41-ac59-306c3807f47b,network.cars,available,1999.99,2199,high,medium,7,namesilo,,,
 bd736e96-f22c-4746-84f9-ddd924eca90c,network.autos,premium,812.5,,high,medium,7,name.com,,,
 b4fce282-90a3-4ebb-9a38-ca62655ec820,network.motorcycles,premium,812.5,,high,medium,7,name.com,,,
@@ -723,7 +723,6 @@ cfdf6f76-e87d-4100-a776-ccec3db5e795,internet.group,resell,,,medium,medium,8,"Gl
 b2d269c8-db79-4f8e-a6f5-aa42bb227374,internet.memorial,resell,,,medium,medium,8,"GoDaddy.com, LLC",06/06/2015 07:59,06/06/2030 07:59,03/09/2026 15:53
 b6f88189-6c07-4e0a-9c9b-156b04bde816,information.kiwi,premium,55.83,,high,low,11,name.com,,,
 c5b450ba-9817-451e-8618-b1cea4ecf9de,internet.accountants,premium,854,854,medium,medium,8,namesilo,,,03/09/2026 15:53
-3b373029-c006-42e9-a802-a60333ec536d,data.marketing,resell,,,high,medium,4,Porkbun LLC,02/11/2019 10:10,02/11/2026 10:10,
 3269e3c0-1455-42de-9711-9c12ddc01a03,data.republican,available,5.98,43.98,medium,medium,4,namecheap,,,14/09/2026 02:20
 4dec0972-195d-432c-be64-04048bcc24b3,tower.digital,resell,,,high,low,5,"Global Domains International, Inc. DBA DomainCostClub.com",28/02/2023 18:55,28/02/2027 18:55,
 03df0fd7-b96c-4b8d-bedd-fc4bab580bab,internet.lawyer,premium,1107,1107,medium,medium,8,namesilo,,,03/09/2026 15:53
@@ -999,3 +998,4 @@ f6d267db-aeed-4756-8fd1-ca5d02b5211f,signal.tech,available,,,high,low,6,,,,
 0e1c0d64-3804-448e-aa7e-b1a8fa15078f,satellite.finance,premium,118.8,118.8,medium,low,9,namesilo,,,09/09/2026 21:34
 ca0477f7-d399-4d18-944a-33b05f7c33fe,internet.dental,premium,78.54,78.54,medium,medium,8,namesilo,,,03/09/2026 15:53
 ba68aaef-a63f-4455-9735-6a28ac4c84b1,mobile.shop,premium,12500,,medium,medium,6,name.com,,,
+459a3701-3834-4a54-b5f8-097bf7fd8d5e,signal.chat,resell,,,high,medium,6,"Xiamen ChinaSource Internet Service Co., Ltd",18/07/2023 17:00,18/07/2026 17:00,
