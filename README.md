@@ -1,10 +1,10 @@
-# One-Word Telecommunications Domains Across 506 TLDs (53,600)
+# One-Word Telecommunications Domains Across 506 TLDs (36,608)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-53%2C600%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C608%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 83,416 one-word telecommunications domain names across 506 TLDs, with a median asking price near $872. Names skew single-word and industry-adjacent rather than tied to one extension. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **53,600 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,608 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 53,600 domains · **Median ask:** $624.94 · **High-demand under $2,500:** 127
+**Public extract:** 1,000 rows · **Live catalog:** 36,608 domains · **Median ask:** $639.05 · **High-demand under $2,500:** 66
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/telecommunications`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| signal.guitars     | available | $104.99   | $114.99       | high           | medium | 6      | namesilo         |
-| signal.accountants | available | $43.99    | —             | high           | medium | 6      | name.com         |
-| telecom.chat       | resell    | $9.99     | —             | high           | low    | 7      | NameCheap, Inc.  |
-| signal.accountant  | premium   | $437.50   | —             | high           | medium | 6      | name.com         |
-| signal.actor       | available | $19.99    | —             | high           | medium | 6      | name.com         |
-| telecom.co         | resell    | $17.99    | —             | high           | low    | 7      | Dynadot Inc      |
-| signal.best        | premium   | $83.30    | $83.30        | high           | medium | 6      | namesilo         |
-| signal.adult       | available | $166.98   | —             | high           | medium | 6      | namecheap        |
-| wireless.autos     | resell    | $1.99     | —             | high           | low    | 8      | Dynadot LLC      |
-| signal.bid         | premium   | $3,125    | —             | high           | medium | 6      | name.com         |
-| signal.apartments  | available | $19.99    | —             | high           | medium | 6      | name.com         |
-| wireless.me        | resell    | $51,750   | $27.99        | high           | low    | 8      | GoDaddy.com, LLC |
-| signal.bond        | premium   | $376.96   | $753.92       | high           | medium | 6      | namesilo         |
-| signal.archi       | available | $24.99    | —             | high           | medium | 6      | name.com         |
-| wireless.org       | resell    | $431,250  | $21.99        | high           | low    | 8      | GoDaddy.com, LLC |
-| signal.boo         | premium   | $311.25   | —             | high           | medium | 6      | name.com         |
-| signal.associates  | available | $21.99    | —             | high           | medium | 6      | name.com         |
-| cell.express       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 5 |
-| signal.build       | premium   | $625      | —             | high           | medium | 6      | name.com         |
-| signal.attorney    | available | $62.99    | $62.99        | high           | medium | 6      | namesilo         |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| communication.ninja | available | $42.98    | —             | high           | high   | 13     | namecheap        |
+| signal.auto         | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo         |
+| signal.onl          | resell    | $4.99     | —             | high           | medium | 6      | Dynadot Inc      |
+| cell.cloud          | premium   | $6,500    | $6,500        | high           | low    | 4      | namecheap        |
+| signal.boston       | available | $23.49    | $23.49        | high           | medium | 6      | namesilo         |
+| telecom.chat        | resell    | $9.99     | —             | high           | low    | 7      | NameCheap, Inc.  |
+| cell.nexus          | premium   | $623.75   | —             | high           | low    | 4      | name.com         |
+| signal.cab          | available | $19.99    | —             | high           | medium | 6      | name.com         |
+| telecom.co          | resell    | $17.99    | —             | high           | low    | 7      | Dynadot Inc      |
+| cell.online         | premium   | $781.25   | $3,125        | high           | low    | 4      | name.com         |
+| signal.car          | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo         |
+| wireless.autos      | resell    | $1.99     | —             | high           | low    | 8      | Dynadot LLC      |
+| cell.site           | premium   | $1,562.50 | $6,250        | high           | low    | 4      | name.com         |
+| signal.cars         | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo         |
+| wireless.me         | resell    | $51,750   | $27.99        | high           | low    | 8      | GoDaddy.com, LLC |
+| cell.space          | premium   | $812.50   | $3,250        | high           | low    | 4      | namecheap        |
+| signal.catering     | available | $38.99    | $38.99        | high           | medium | 6      | namesilo         |
+| wireless.org        | resell    | $431,250  | $21.99        | high           | low    | 8      | GoDaddy.com, LLC |
+| mobile.online       | premium   | $7,812.50 | —             | high           | medium | 6      | name.com         |
+| signal.claims       | available | $19.99    | —             | high           | medium | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 53,600 live domains                        |
+| 1,000-row public sample | 36,608 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 127 high-demand names under $2,500         |
+| Basic exported fields   | 66 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Telecommunications Domains Across 506 TLDs*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Telecommunications Domains Across 506 TLDs*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
