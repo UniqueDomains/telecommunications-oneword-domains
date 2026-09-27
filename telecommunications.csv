@@ -742,7 +742,6 @@ e793fecc-6504-4e98-a3a4-375b97a3ec94,network.live,resell,,,high,medium,7,"GoDadd
 bd5ed275-5615-4610-8587-e9040819a4dd,network.deals,premium,38.94,38.94,high,medium,7,namesilo,,,27/09/2026 01:58
 a2cfa18c-1880-4f97-81bf-eae283eb3d51,telecom.dev,premium,811.25,811.25,high,low,7,name.com,,,
 509b3b2b-b5be-406a-adc3-405fe8b54625,internet.gripe,premium,78.54,78.54,high,medium,8,namesilo,,,25/09/2026 03:19
-6aeb6244-0ce3-480d-9f61-ef5d5d19484a,networking.cloud,available,,,high,high,10,,,,
 7347414a-da74-4efd-a135-df6f9e5d9793,network.paris,available,66.98,66.98,high,medium,7,namecheap,,,27/09/2026 01:58
 4b33018a-83d9-4dae-9bc5-9bf24cb998b4,telecom.lighting,available,14.99,,high,low,7,name.com,,,
 2e1f2c47-778b-468a-b2fc-a6d9629bfc03,telecom.bayern,available,47.99,,high,low,7,name.com,,,
@@ -843,13 +842,12 @@ ea6f3fd7-bf00-4d9b-9b21-419141a1374c,internet.gmbh,resell,,,high,medium,8,"GoDad
 8798abfe-cef8-469d-a6ad-e7b32b31cf76,communication.rest,available,1.8,41.98,high,low,13,namecheap,,,25/09/2026 03:16
 e9f6fee7-f4f5-4ee7-983c-d01c05bad73b,internet.lease,resell,,,high,medium,8,"Global Domains International, Inc. DBA DomainCostClub.com",29/03/2026 15:15,29/03/2027 15:15,26/09/2026 06:55
 38f8ed39-e9ce-41a8-a264-9d81e350559c,communication.talk,premium,71.4,71.4,high,low,13,namesilo,,,25/09/2026 03:16
-bbf68e19-6653-455d-bbe7-c50a0a6a8853,networking.ninja,available,,,high,high,10,,,,
+bbf68e19-6653-455d-bbe7-c50a0a6a8853,networking.ninja,premium,118.8,118.8,high,high,10,namesilo,,,27/09/2026 06:26
 fd662446-ff5e-455c-aca4-1a257e06a0d0,telecom.airforce,available,134.98,,high,low,7,namecheap,,,
 977d4765-48cd-4891-a683-3f0605e92022,telecom.hospital,available,71.98,,high,low,7,namecheap,,,
 d4258e4a-a3ab-4612-886c-240f96d08d3f,telecom.sarl,available,8.98,,high,low,7,namecheap,,,
 34ba3f8e-3ddd-4f14-a1d6-10c69fa8e296,telecom.film,available,89.99,,high,low,7,name.com,,,
 0c6b7fa5-35ca-4fa6-b0f0-379f99b78d12,telecom.legal,available,9.99,,high,low,7,name.com,,,
-ac65f9b0-896f-4123-945c-cf0774a3dfab,wireless.tech,premium,3125,12500,high,low,8,name.com,,,
 05a342c6-7e93-44c4-ad71-4bd6f15df5d2,communication.vegas,available,12.99,43.99,high,low,13,namesilo,,,25/09/2026 03:16
 a552bb71-8dbf-43f9-81b8-8f88a9db6ef4,telecom.day,premium,161.25,,high,low,7,name.com,,,
 a0ee3eb5-dd78-4c6c-8fa9-5fe32ef024ca,telecom.dance,available,17.99,,high,low,7,name.com,,,
@@ -863,10 +861,10 @@ a5a8d48c-84c5-4f4d-bb81-cf0cb82ee953,communication.actor,available,16.99,44.49,h
 118ef134-40c5-451a-9742-f7eacee1858f,broadband.online,premium,13800,13800,high,low,9,namesilo,,,23/09/2026 09:40
 903369ad-8d58-4926-9981-966a9a414341,communication.shoes,available,34.98,81.98,high,low,13,namecheap,,,25/09/2026 03:16
 3107fecd-4a2b-4078-a40f-77937f403e3d,communication.travel,available,27.99,149.99,high,low,13,namesilo,,,25/09/2026 03:16
+ac65f9b0-896f-4123-945c-cf0774a3dfab,wireless.tech,premium,3250,13000,high,low,8,namecheap,,,27/09/2026 09:37
 b0eff8fd-d4b1-4d41-8451-82cf9e1fbcab,communication.autos,available,1.99,17.29,high,low,13,namesilo,,,25/09/2026 03:16
 79c251e4-ad1d-499b-b16b-a884879d9345,telecom.juegos,available,478.98,,high,low,7,namecheap,,,
 e616bb0e-3d8e-41a8-96be-f010146a599a,communication.cv,premium,649.6,80.33,high,low,13,namesilo,,,25/09/2026 03:16
-42ec57ab-e379-4a53-a9a6-012f366e8ef2,networking.site,available,,,high,high,10,,,,
 658a924a-08c8-4b31-86da-346567da2be9,telecom.markets,premium,500,,high,low,7,name.com,,,
 55a4e8e1-04d0-4eb9-a77c-5bf8a82cb59c,internet.expert,resell,,,high,medium,8,"Global Domains International, Inc. DBA DomainCostClub.com",15/07/2015 16:00,15/07/2028 16:00,26/09/2026 06:55
 1ca508cf-423b-45a1-87d3-d619052e6978,communication.glass,available,72.99,72.99,high,low,13,namesilo,,,25/09/2026 03:16
@@ -928,13 +926,13 @@ d3673181-a092-48f1-821c-e6dcfd0ac53c,communication.sydney,available,58,58,high,l
 1f26b632-629d-4592-988c-b758957a6aca,communication.host,premium,640,640,high,low,13,namesilo,,,25/09/2026 03:16
 e2178e6f-e3ef-444a-9f8a-7bbd909b9fda,communication.press,premium,1107,1107,high,low,13,namesilo,,,25/09/2026 03:16
 848b99c7-1ea4-4254-abdf-2ce027361824,communication.new,available,488.98,601.98,high,low,13,namecheap,,,25/09/2026 03:16
-71f1e422-44ab-4475-9189-687566de190e,wireless.org,resell,431250,21.99,high,low,8,"GoDaddy.com, LLC",17/03/1999 05:00,17/03/2027 05:00,26/09/2026 10:11
+71f1e422-44ab-4475-9189-687566de190e,wireless.org,resell,431250,21.99,high,low,8,"GoDaddy.com, LLC",17/03/1999 05:00,17/03/2027 05:00,27/09/2026 09:37
 2898d814-d95c-4ff8-920f-c79e97fde01c,communication.hockey,available,59.99,59.99,high,low,13,namesilo,,,25/09/2026 03:16
 7ead9566-5628-4090-8f61-d35b51df05d8,communication.money,available,16.99,35.99,high,low,13,namesilo,,,25/09/2026 03:16
 5a8a9fb6-6266-4f83-b893-6cd633f5c4b9,communication.irish,available,7.49,22.49,high,low,13,namesilo,,,25/09/2026 03:16
 c3dbdb73-a304-42ff-a7b3-f838e44c3789,communication.pink,premium,640,640,high,low,13,namesilo,,,25/09/2026 03:16
 a0f34d0a-5fba-45f3-b21f-637908d29f54,communication.consulting,premium,242,242,high,low,13,namesilo,,,25/09/2026 03:16
-9d846c17-3bea-4b7f-b282-b6d087fe0d2f,networking.dev,available,,,high,high,10,,,,
+9d846c17-3bea-4b7f-b282-b6d087fe0d2f,networking.dev,premium,843.7,843.7,high,high,10,namecheap,,,27/09/2026 06:23
 eb74b6bf-0234-4e1a-8b18-fdceb2923966,communication.reise,available,27.89,97.99,high,low,13,namesilo,,,25/09/2026 03:16
 a2ca2bd0-4b58-4b54-9e29-6465a09ee1a3,communication.adult,available,69.98,166.98,high,low,13,namecheap,,,25/09/2026 03:16
 fc639ee5-8892-42e2-a6e7-a401f96860fd,communication.voting,available,1398,1448,high,low,13,namecheap,,,25/09/2026 03:16
@@ -949,7 +947,6 @@ b6c6a467-67ca-4545-bb51-0a244ee70ce7,telecom.meme,premium,187.5,,high,low,7,name
 93a3c015-6618-426b-93b5-d82f1495d932,communication.desi,available,19.98,22.98,high,low,13,namecheap,,,25/09/2026 03:16
 4d4592d3-7571-4a11-9c0f-65548d505628,telecom.software,premium,500,,high,low,7,name.com,,,
 b02d1b87-318f-4f47-a90b-b43e8fadf373,communication.repair,available,12.99,36.99,high,low,13,namesilo,,,25/09/2026 03:16
-617fd669-21cb-441e-9a97-30abb8b3f54d,wireless.gg,premium,82.98,,high,low,8,namecheap,,,
 d3e6a6cb-ed04-4d8f-87d4-68316b6d2f18,telecom.gift,available,23.98,,high,low,7,namecheap,,,
 227027ba-5220-468a-85e4-708768f6ff4f,telecom.games,available,19.99,,high,low,7,name.com,,,
 8c3c86dc-6322-49c6-9381-eb1b35e4923b,telecom.study,available,50.98,,high,low,7,namecheap,,,
@@ -981,21 +978,24 @@ da0cc5a7-67b1-4a96-9379-228d198d183b,telecom.eco,available,64.99,,high,low,7,nam
 9b7243de-e825-4334-add8-f8eda07199a0,internet.hair,premium,2660,2660,high,medium,8,namesilo,,,25/09/2026 03:19
 1a522bed-ea65-41c7-8f13-6bf047a4280f,internet.mortgage,premium,512,512,high,medium,8,namesilo,,,25/09/2026 03:19
 678629d8-a41a-4708-bc55-ae7f44563e3a,telecom.foo,premium,161.25,,high,low,7,name.com,,,
-1e71d65d-b47d-4657-9204-9f0f3c6bb4ae,wireless.rsvp,premium,323.7,323.7,high,low,8,namecheap,,,
-886bb7ee-da82-4113-83c4-4b02061d60f9,wireless.navy,available,41.99,41.99,high,low,8,namesilo,,,
+886bb7ee-da82-4113-83c4-4b02061d60f9,wireless.navy,available,42.99,52.99,high,low,8,name.com,,,27/09/2026 09:37
 4edda2d1-c7f2-4986-896f-c3ce65280689,communication.cheap,available,8.99,36.49,high,low,13,namesilo,,,25/09/2026 03:16
 d1f71148-a7fe-4307-bed0-80149aa5666f,internet.engineering,resell,,,high,medium,8,"Sav.com, LLC",06/06/2026 18:52,06/06/2027 18:52,26/09/2026 06:55
 fb649eeb-1836-4a52-b196-2d037e991752,communication.condos,available,58.99,58.99,high,low,13,namesilo,,,25/09/2026 03:16
 d4fc006a-ca85-4329-b799-a12e1d21ba3c,communication.juegos,available,368.98,478.98,high,low,13,namecheap,,,25/09/2026 03:16
 357a0fd0-7f0e-4a3f-a51b-f8c71ad4c93d,communication.cloud,premium,520,650,high,low,13,namecheap,,,25/09/2026 03:16
 a882474c-8ae3-4e34-a2f7-7dd286678933,internet.reise,premium,260,260,high,medium,8,namecheap,,,25/09/2026 03:19
-c64c7be9-bdfc-4e06-bfc6-cee6519c2a50,wireless.site,premium,312.5,1250,high,low,8,name.com,,,
 e2be708b-30c0-4ab6-abaf-079bb051e434,communication.giving,available,7.48,35.98,high,low,13,namecheap,,,25/09/2026 03:16
 f9395037-7ae4-4cb3-a0e2-355e3388ea9f,communication.guitars,available,104.99,114.99,high,low,13,namesilo,,,25/09/2026 03:16
 e7916e1a-39c2-4784-973b-5f9111d55835,communication.villas,available,62.98,74.98,high,low,13,namecheap,,,25/09/2026 03:16
 1ee20407-b58e-4a75-95d9-9d4bc854e019,communication.nexus,premium,76.7,76.7,high,low,13,namecheap,,,25/09/2026 03:16
 8f242f27-55f5-4907-9836-fc3f52c279b8,communication.vip,premium,227.5,19.5,high,low,13,namecheap,,,25/09/2026 03:16
-6b7f83df-87a1-4192-9d53-aca2d334b07f,wireless.tax,available,14.99,,high,low,8,name.com,,,
+6b7f83df-87a1-4192-9d53-aca2d334b07f,wireless.tax,available,14.99,67.49,high,low,8,namesilo,,,27/09/2026 09:37
 24b4d2e2-a2e6-48c4-8c9f-8af6057904d7,telecom.cooking,available,43.98,,high,low,7,namecheap,,,
 b2d250d1-272b-4800-917a-f9546a50d58d,communication.channel,premium,167.7,167.7,high,low,13,namecheap,,,25/09/2026 03:16
-08ba0576-958c-4389-8663-954b00104ebf,wireless.channel,premium,311.25,,high,low,8,name.com,,,
+08ba0576-958c-4389-8663-954b00104ebf,wireless.channel,premium,323.7,323.7,high,low,8,namecheap,,,27/09/2026 09:37
+609b5c2b-44a8-4a26-a6ab-6bd50f0f9dc7,signal.tickets,available,359.99,389.99,high,medium,6,namesilo,,,
+1e71d65d-b47d-4657-9204-9f0f3c6bb4ae,wireless.rsvp,premium,323.7,323.7,high,low,8,namecheap,,,27/09/2026 09:37
+69d42198-42e2-4e92-a340-0b55ea784ae9,signal.racing,premium,116,192,high,medium,6,namesilo,,,
+9db32ff5-9138-48d7-a43f-e4db797715ff,telecom.properties,available,10.99,,high,low,7,name.com,,,
+c64c7be9-bdfc-4e06-bfc6-cee6519c2a50,wireless.site,premium,1107,1107,high,low,8,namesilo,,,27/09/2026 09:37
