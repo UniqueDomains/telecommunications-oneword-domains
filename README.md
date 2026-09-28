@@ -1,10 +1,10 @@
-# One-Word Telecommunications Domains Across 506 TLDs (64,030)
+# One-Word Telecommunications Domains Across 506 TLDs (66,647)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-64%2C030%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-66%2C647%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 83,416 one-word telecommunications domain names across 506 TLDs, with a median asking price near $872. Names skew single-word and industry-adjacent rather than tied to one extension. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **64,030 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **66,647 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 64,030 domains · **Median ask:** $626.82 · **High-demand under $2,500:** 269
+**Public extract:** 1,000 rows · **Live catalog:** 66,647 domains · **Median ask:** $600.70 · **High-demand under $2,500:** 262
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/sector/telecommunications`
@@ -65,12 +65,9 @@ print(df.head())
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | network.fyi         | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC - 13                            |
-| signal.tickets      | available | $359.99   | $389.99       | high           | medium | 6      | namesilo                                     |
-| telecom.co          | resell    | $17.99    | —             | high           | low    | 7      | Dynadot Inc                                  |
-| signal.forex        | premium   | $1,250    | —             | high           | medium | 6      | name.com                                     |
 | network.accountants | available | $122.98   | $145.98       | high           | medium | 7      | namecheap                                    |
-| wireless.org        | resell    | $431,250  | $21.99        | high           | low    | 8      | GoDaddy.com, LLC                             |
-| signal.racing       | premium   | $116      | $192          | high           | medium | 6      | namesilo                                     |
+| telecom.co          | resell    | $17.99    | —             | high           | low    | 7      | Dynadot Inc                                  |
+| signal.icu          | premium   | $390      | $780          | high           | medium | 6      | namecheap                                    |
 | network.airforce    | available | $109.98   | $134.98       | high           | medium | 7      | namecheap                                    |
 | network.black       | resell    | —         | —             | high           | medium | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
 | network.accountant  | premium   | $116      | $29.50        | high           | medium | 7      | namesilo                                     |
@@ -84,6 +81,9 @@ print(df.head())
 | network.cash        | resell    | —         | —             | high           | medium | 7      | DNSPod, Inc.                                 |
 | network.band        | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo                                     |
 | network.bargains    | available | $17.99    | $26.49        | high           | medium | 7      | namesilo                                     |
+| network.casino      | resell    | —         | —             | high           | medium | 7      | Dynadot Inc                                  |
+| network.bar         | premium   | $1,152    | $1,152        | high           | medium | 7      | namesilo                                     |
+| network.bingo       | available | $53.99    | $53.99        | high           | medium | 7      | namesilo                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 64,030 live domains                        |
+| 1,000-row public sample | 66,647 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 269 high-demand names under $2,500         |
+| Basic exported fields   | 262 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
