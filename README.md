@@ -1,10 +1,10 @@
-# One-Word Telecommunications Domains Across 506 TLDs (87,040)
+# One-Word Telecommunications Domains Across 506 TLDs (88,790)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-87%2C040%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-88%2C790%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 83,416 one-word telecommunications domain names across 506 TLDs, with a median asking price near $872. Names skew single-word and industry-adjacent rather than tied to one extension. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **87,040 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **88,790 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 87,040 domains · **Median ask:** $450.61 · **High-demand under $2,500:** 253
+**Public extract:** 1,000 rows · **Live catalog:** 88,790 domains · **Median ask:** $446.57 · **High-demand under $2,500:** 240
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/telecommunications`
@@ -25,7 +25,7 @@ This selection includes 83,416 one-word telecommunications domain names across 5
 <p align="center">
   <a href="https://unique.domains/domains/sector/telecommunications?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./telecommunications.csv">CSV</a> / <a href="./telecommunications.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| signal.sexy         | available | $2,749.99 | $2,749.99     | high           | medium | 6      | namesilo                                     |
-| telecom.bio         | resell    | $9.99     | —             | high           | low    | 7      | name.com                                     |
-| cell.space          | premium   | $3,450    | $3,450        | high           | low    | 4      | namesilo                                     |
-| network.accountants | available | $117.99   | $117.99       | high           | medium | 7      | namesilo                                     |
-| telecom.co          | resell    | $17.99    | —             | high           | low    | 7      | Dynadot Inc                                  |
-| signal.lifestyle    | premium   | $640      | $640          | high           | medium | 6      | namesilo                                     |
-| network.airforce    | available | $103.99   | $103.99       | high           | medium | 7      | namesilo                                     |
-| telecom.health      | resell    | $19.99    | —             | high           | low    | 7      | name.com                                     |
-| signal.page         | premium   | $257.92   | $257.92       | high           | medium | 6      | spaceship                                    |
-| network.apartments  | available | $57.99    | $57.99        | high           | medium | 7      | namesilo                                     |
-| telecom.love        | resell    | $38.98    | —             | high           | low    | 7      | namecheap                                    |
-| signal.rsvp         | premium   | $311.25   | —             | high           | medium | 6      | name.com                                     |
-| network.archi       | available | $19.99    | $103.99       | high           | medium | 7      | namesilo                                     |
-| telecom.works       | resell    | $7.99     | —             | high           | low    | 7      | name.com                                     |
-| network.accountant  | premium   | $130      | $32.50        | high           | medium | 7      | namecheap                                    |
-| network.auto        | available | $2,060.25 | $2,064.19     | high           | medium | 7      | porkbun                                      |
-| signal.finance      | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                  |
-| network.attorney    | premium   | $4,140    | $4,140        | high           | medium | 7      | namesilo                                     |
-| network.bargains    | available | $17.99    | $26.49        | high           | medium | 7      | namesilo                                     |
-| signal.mobi         | resell    | —         | —             | high           | medium | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| signal.cars         | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo         |
+| telecom.bio         | resell    | $9.99     | —             | high           | low    | 7      | name.com         |
+| signal.accountant   | premium   | $385      | $55           | high           | medium | 6      | dynadot          |
+| signal.holiday      | available | $50.20    | $50.20        | high           | medium | 6      | cloudflare       |
+| telecom.co          | resell    | $17.99    | —             | high           | low    | 7      | Dynadot Inc      |
+| signal.forex        | premium   | $1,250    | —             | high           | medium | 6      | name.com         |
+| signal.jetzt        | available | $18.20    | $18.20        | high           | medium | 6      | cloudflare       |
+| telecom.health      | resell    | $19.99    | —             | high           | low    | 7      | name.com         |
+| signal.my           | premium   | $391.30   | $559          | high           | medium | 6      | spaceship        |
+| signal.ryukyu       | available | $17.98    | $22.98        | high           | medium | 6      | namecheap        |
+| telecom.love        | resell    | $38.98    | —             | high           | low    | 7      | namecheap        |
+| signal.racing       | premium   | $103.70   | $155.45       | high           | medium | 6      | spaceship        |
+| signal.theatre      | available | $509.99   | $529.99       | high           | medium | 6      | namesilo         |
+| telecom.works       | resell    | $7.99     | —             | high           | low    | 7      | name.com         |
+| network.accountant  | premium   | $130      | $32.50        | high           | medium | 7      | namecheap        |
+| signal.tickets      | available | $401.47   | $401.47       | high           | medium | 6      | dynadot          |
+| wireless.org        | resell    | $431,250  | $21.99        | high           | low    | 8      | GoDaddy.com, LLC |
+| network.attorney    | premium   | $4,140    | $4,140        | high           | medium | 7      | namesilo         |
+| network.accountants | available | $117.99   | $117.99       | high           | medium | 7      | namesilo         |
+| cell.network        | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 87,040 live domains                                  |
+| 1,000-row public sample | 88,790 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 253 high-demand names under $2,500                   |
+| Basic exported fields   | 240 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/telecommunications?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_telecommunications_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
