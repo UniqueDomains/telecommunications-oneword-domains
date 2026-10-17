@@ -1,10 +1,10 @@
-# One-Word Telecommunications Domains Across 506 TLDs (103,600)
+# One-Word Telecommunications Domains Across 506 TLDs (104,212)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-103%2C600%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-104%2C212%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 83,416 one-word telecommunications domain names across 506 TLDs, with a median asking price near $872. Names skew single-word and industry-adjacent rather than tied to one extension. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **103,600 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **104,212 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 103,600 domains · **Median ask:** $383.86 · **High-demand under $2,500:** 349
+**Public extract:** 1,000 rows · **Live catalog:** 104,212 domains · **Median ask:** $383.29 · **High-demand under $2,500:** 349
 
 **Last updated:** 2026-10-16
 **Canonical page:** `https://unique.domains/domains/sector/telecommunications`
@@ -64,24 +64,24 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| signal.equipment    | available | $29.98    | $32.98        | high           | medium | 6      | namecheap                                    |
+| signal.desi         | available | $19.98    | $22.98        | high           | medium | 6      | namecheap                                    |
 | telecom.bio         | resell    | $9.99     | —             | high           | low    | 7      | Sav.com, LLC                                 |
-| signal.space        | premium   | $647.08   | $2,587.70     | high           | medium | 6      | spaceship                                    |
-| signal.maison       | available | $57.99    | $57.99        | high           | medium | 6      | namesilo                                     |
+| cell.cloud          | premium   | $6,900    | $6,900        | high           | low    | 4      | namesilo                                     |
+| signal.ltda         | available | $30.18    | $30.18        | high           | medium | 6      | dynadot                                      |
 | telecom.co          | resell    | $17.99    | —             | high           | low    | 7      | Dynadot Inc                                  |
-| network.accountant  | premium   | $130      | $32.50        | high           | medium | 7      | namecheap                                    |
-| network.accountants | available | $23.76    | $106.15       | high           | medium | 7      | dynadot                                      |
+| signal.icu          | premium   | $390      | $780          | high           | medium | 6      | namecheap                                    |
+| network.accountants | available | $117.99   | $117.99       | high           | medium | 7      | namesilo                                     |
 | telecom.health      | resell    | $19.99    | —             | high           | low    | 7      | name.com                                     |
-| network.attorney    | premium   | $3,105.20 | $3,105.20     | high           | medium | 7      | spaceship                                    |
-| network.airforce    | available | $80.20    | $80.20        | high           | medium | 7      | cloudflare                                   |
+| network.accountant  | premium   | $116      | $29.50        | high           | medium | 7      | namesilo                                     |
+| network.airforce    | available | $103.99   | $103.99       | high           | medium | 7      | namesilo                                     |
 | telecom.love        | resell    | $38.98    | —             | high           | low    | 7      | namecheap                                    |
-| network.auction     | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo                                     |
-| network.apartments  | available | $44.20    | $44.20        | high           | medium | 7      | cloudflare                                   |
+| network.attorney    | premium   | $3,105.20 | $3,105.20     | high           | medium | 7      | spaceship                                    |
+| network.apartments  | available | $57.99    | $57.99        | high           | medium | 7      | namesilo                                     |
 | telecom.works       | resell    | $7.99     | —             | high           | low    | 7      | Sav.com, LLC                                 |
-| network.band        | premium   | $108.90   | $108.90       | high           | medium | 7      | dynadot                                      |
-| network.archi       | available | $18.50    | $103.99       | high           | medium | 7      | unstoppable                                  |
-| signal.world        | resell    | —         | —             | high           | medium | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| network.bar         | premium   | $990      | $990          | high           | medium | 7      | dynadot                                      |
+| network.auction     | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo                                     |
+| network.archi       | available | $13.14    | $83           | high           | medium | 7      | spaceship                                    |
+| data.it             | resell    | —         | —             | high           | medium | 4      | —                                            |
+| network.band        | premium   | $102.67   | $102.67       | high           | medium | 7      | spaceship                                    |
 | network.auto        | available | $1,863.20 | $2,064.20     | high           | medium | 7      | spaceship                                    |
 | network.black       | resell    | —         | —             | high           | medium | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 103,600 live domains                                 |
+| 1,000-row public sample | 104,212 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 349 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
