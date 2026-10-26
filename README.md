@@ -1,10 +1,10 @@
-# One-Word Telecommunications Domains Across 506 TLDs (103,070)
+# One-Word Telecommunications Domains Across 506 TLDs (102,841)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-103%2C070%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-102%2C841%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 83,416 one-word telecommunications domain names across 506 TLDs, with a median asking price near $872. Names skew single-word and industry-adjacent rather than tied to one extension. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **103,070 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **102,841 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 103,070 domains · **Median ask:** $374.01 · **High-demand under $2,500:** 2,958
+**Public extract:** 1,000 rows · **Live catalog:** 102,841 domains · **Median ask:** $365.98 · **High-demand under $2,500:** 3,342
 
 **Last updated:** 2026-10-25
 **Canonical page:** `https://unique.domains/domains/sector/telecommunications`
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 103,070 live domains                                 |
+| 1,000-row public sample | 102,841 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 2,958 high-demand names under $2,500                 |
+| Basic exported fields   | 3,342 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
