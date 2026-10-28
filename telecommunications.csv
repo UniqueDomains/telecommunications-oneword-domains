@@ -1,17 +1,35 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+4be7765e-9e22-4d0a-bafe-6bfd103849f9,network.talk,premium,550,550,high,medium,7,dynadot,,,22/10/2026 18:00
 d67285cf-c64e-4788-85e5-a79d8fab2f84,network.tech,premium,10000.2,13000,high,medium,7,unstoppable,,,22/10/2026 18:00
 311d8361-ebde-4de6-85c3-d42f4fbc9468,network.cloud,available,,,high,medium,7,,,,23/10/2026 09:49
 16d4ded1-0ccf-4ead-bd32-d6c5a6217826,network.co,resell,,,high,medium,7,Hello Internet Corp.,25/02/2010 00:21,24/02/2027 23:59,22/10/2026 18:00
+f99c6aa3-2e90-4a89-856a-3ce2899a6f97,network.dealer,premium,4278,2660,high,medium,7,namesilo,,,22/10/2026 18:00
 99875df1-bdb7-4664-bbaa-57fec0e58288,network.social,available,,,high,medium,7,,,,23/10/2026 09:49
+1eaf2209-b1f0-414a-9d7b-2cef6cb8f7a5,network.healthcare,premium,512,512,high,medium,7,namesilo,,,22/10/2026 18:00
+e320fe85-95ec-43c7-ae51-88c3b0c0fa51,network.beer,premium,41.6,26.08,high,medium,7,spaceship,,,22/10/2026 18:00
 4f1e6758-cfbd-487c-99a0-3391ea464005,network.us,resell,,,high,medium,7,"GoDaddy.com, LLC",24/04/2002 14:01,23/04/2027 23:59,22/10/2026 18:00
 0cf3be91-9168-4282-8caf-6ff9a4ba0f4c,network.chat,resell,,,high,medium,7,"Spaceship, Inc.",06/09/2023 18:33,06/09/2027 18:33,22/10/2026 18:00
+dd008389-4d9a-4c0c-b052-48bc6e0e3a4b,network.broker,premium,5175.2,5175.2,high,medium,7,spaceship,,,22/10/2026 18:00
 731cc9aa-ee2f-4d38-837e-d5113e6ac0fc,network.you,premium,517.7,517.7,high,medium,7,spaceship,,,22/10/2026 18:00
+3400e83d-87ba-4c53-863b-6cecce2522d8,network.win,premium,455,65,high,medium,7,namecheap,,,22/10/2026 18:00
+c1fe5c77-93c0-4769-a510-ff432fe9ac2a,network.courses,premium,116,116,high,medium,7,namesilo,,,22/10/2026 18:00
 f6291b96-9433-44d9-8251-847dc895ee56,telecom.so,resell,,,high,low,7,Dynadot LLC,21/09/2022 09:00,21/09/2025 09:00,
+af9cbe5d-6e2e-4ae4-b2cd-f7ac544b396c,network.voyage,available,61.98,73.98,high,medium,7,namecheap,,,22/10/2026 18:00
+4a3e4ab6-c0ed-4ea1-bb39-547cb8e6fc18,network.reisen,available,16.76,16.76,high,medium,7,spaceship,,,22/10/2026 18:00
+1c8650fa-37e8-4d4a-86cb-2027d7157fc1,network.casino,resell,,,high,medium,7,Dynadot Inc,23/09/2026 22:27,23/09/2027 22:27,22/10/2026 18:00
+be7a98ab-39d7-474a-8561-72b3284ca5ac,network.money,available,,,high,medium,7,,,,23/10/2026 09:49
+cca7a8b6-878e-4b05-8b16-f99a1e240d82,network.gifts,available,29.18,29.18,high,medium,7,spaceship,,,22/10/2026 18:00
+f5a5f64b-9c0d-40e7-a032-cc8fb2f372a2,network.photography,available,13.5,29.18,high,medium,7,unstoppable,,,22/10/2026 18:00
+b0ba0e38-1950-43c6-8858-d5af4a6c545a,network.college,premium,517.7,517.7,high,medium,7,spaceship,,,22/10/2026 18:00
+08fba6bb-4ba1-498d-9d55-da1c82dcdd5e,network.training,resell,,,high,medium,7,"Spaceship, Inc.",15/12/2022 17:02,15/12/2026 17:02,22/10/2026 18:00
+e2722c6e-e7d4-496f-a50b-30281a4e9d7e,network.prof,premium,709.01,709.01,high,medium,7,porkbun,,,22/10/2026 18:00
 b6385383-ebbb-4556-a3c4-78b5b2192dec,network.trade,resell,,,high,medium,7,"Spaceship, Inc.",29/07/2019 12:55,29/07/2027 12:55,22/10/2026 18:00
 f96a2248-2b11-4143-ac7e-dc3a18f5373e,network.irish,available,7,17.2,high,medium,7,unstoppable,,,22/10/2026 18:00
+868b49c0-557d-4ee3-be2e-ebcfea892ef2,network.eco,premium,3622.7,59.71,high,medium,7,spaceship,,,22/10/2026 18:00
 5d619794-489a-4a51-81cc-efc0f395950c,network.land,resell,,,high,medium,7,"Global Domains International, Inc. DBA DomainCostClub.com",04/03/2026 15:15,04/03/2027 15:15,22/10/2026 18:00
 7c0304c5-2fb7-469c-b8a7-773088f4fcf2,network.coupons,available,5.5,42.2,high,medium,7,unstoppable,,,22/10/2026 18:00
 1a944b59-6a70-42f8-8146-6c6bc9674e67,network.storage,available,509.99,529.99,high,medium,7,namesilo,,,22/10/2026 18:00
+c44b4dec-af28-4e5a-9565-84fdc3d97414,network.osaka,available,,,high,medium,7,,,,23/10/2026 09:49
 5ab33072-0693-48db-ae5f-482c2954aa41,network.date,premium,390,65,high,medium,7,namecheap,,,22/10/2026 18:00
 3bff4f57-8b70-41c4-b17b-c3876a5d3012,network.download,premium,116,29.5,high,medium,7,namesilo,,,22/10/2026 18:00
 d843bb08-cf86-4992-a6bc-7b7456198753,network.mov,premium,249.2,257.92,high,medium,7,unstoppable,,,22/10/2026 18:00
@@ -19,10 +37,12 @@ d843bb08-cf86-4992-a6bc-7b7456198753,network.mov,premium,249.2,257.92,high,mediu
 5a2fb02d-3664-4500-8ba1-031bcd23bea4,network.faith,premium,110,27.5,high,medium,7,dynadot,,,22/10/2026 18:00
 9cdae536-6602-4eaa-b65d-4730fab9e886,network.voto,available,10.55,55.93,high,medium,7,spaceship,,,22/10/2026 18:00
 58979e3b-67d1-4fdf-80ff-49a98031c2f8,network.diy,premium,455,650,high,medium,7,namecheap,,,22/10/2026 18:00
+2f33ed84-1e96-4cde-9dd4-f40075b9b58c,network.nyc,available,,,high,medium,7,,,,23/10/2026 09:49
 65149cd8-7a5e-403d-8756-ee86b5b45189,network.florist,available,31.98,41.98,high,medium,7,namecheap,,,22/10/2026 18:00
 f7c0af81-eccb-4cb2-9b0e-eb56fdf49750,network.recipes,available,8.5,77.99,high,medium,7,unstoppable,,,22/10/2026 18:00
 ad130ce7-8a2a-47dd-bcf0-c13152215ed9,network.link,premium,3500.2,4830,high,medium,7,unstoppable,,,22/10/2026 18:00
 9fc768e6-9107-4d2b-bc45-b7ad4c8a59fa,network.theatre,available,538.98,620,high,medium,7,namecheap,,,22/10/2026 18:00
+07d24435-490f-46bc-bfd8-36d243be7eae,network.tube,available,,,high,medium,7,,,,23/10/2026 09:49
 79f76852-aed6-441a-a6dd-68586b7d9143,network.kitchen,resell,,,high,medium,7,Hosting Concepts B.V. d/b/a Registrar.eu,16/12/2021 14:19,16/12/2026 14:19,22/10/2026 18:00
 62638c1a-ff56-4ef2-8ebc-3442a94aca2b,network.tax,resell,,,high,medium,7,"DNSPod, Inc.",05/03/2022 13:15,05/03/2027 13:15,22/10/2026 18:00
 501e73e0-f600-430e-827d-d1ebcd807586,network.spot,premium,517.7,517.7,high,medium,7,spaceship,,,22/10/2026 18:00
@@ -32,6 +52,7 @@ b2304bf9-1419-4d36-b974-b00fa594c5c8,network.doctor,resell,,,high,medium,7,"Spac
 01253a7f-b648-44d3-b0aa-90888f83753a,network.casa,resell,,,high,medium,7,"GoDaddy.com, LLC",20/10/2020 02:01,20/10/2027 02:01,22/10/2026 18:00
 d7357f12-a403-46b4-b43f-d30f223962b6,network.cruises,available,43.2,43.2,high,medium,7,cloudflare,,,22/10/2026 18:00
 c175865c-1838-4773-a07a-1370a1f04cda,network.services,resell,,,high,medium,7,NameWeb BVBA,21/06/2015 16:00,21/06/2027 16:00,22/10/2026 18:00
+1b872485-47df-4600-8fc6-04deb022dd17,telecom.site,premium,1293.95,5175.2,high,low,7,spaceship,,,30/09/2026 13:03
 c10f0041-3c26-415a-a581-a9e67e1e94ab,network.love,premium,4347.2,6210.2,high,medium,7,spaceship,,,22/10/2026 18:00
 33eb84c0-e9d0-4cc0-8f32-1274c226f631,network.soy,premium,548.9,548.9,high,medium,7,dynadot,,,22/10/2026 18:00
 a0231660-4402-4aca-8f2c-27ee9e2e8818,network.qpon,available,,,high,medium,7,,,,23/10/2026 09:49
@@ -60,6 +81,7 @@ dfa6cac9-75ef-4d15-b09b-6f2229483ee7,telecom.events,available,10.48,57.98,high,l
 51201f47-53d0-4dd3-8728-208c96a767c2,network.london,premium,5549.27,27.95,high,medium,7,spaceship,,,22/10/2026 18:00
 ddef42e4-23eb-46a2-b7b4-221bbc8bd9a2,network.observer,premium,854,854,high,medium,7,namesilo,,,22/10/2026 18:00
 943c8024-c306-45ae-b630-e286a2a888a7,network.llc,premium,2500.5,2587.7,high,medium,7,unstoppable,,,22/10/2026 18:00
+e506a148-91df-4ea9-8d0b-25c89eb4e516,telecom.energy,available,5.38,93.35,high,low,7,spaceship,,,30/09/2026 13:03
 ab70887f-f941-4675-b7b7-7c216e6661fa,network.schule,available,34.99,34.99,high,medium,7,namesilo,,,22/10/2026 18:00
 af9b2d67-e1aa-4ae6-9be8-9d1139a9ab04,network.reise,available,75.2,75.2,high,medium,7,cloudflare,,,22/10/2026 18:00
 3807c076-9d4b-46c5-9ce3-5f881d62621f,network.tienda,available,47.81,47.81,high,medium,7,spaceship,,,22/10/2026 18:00
@@ -68,43 +90,77 @@ af9b2d67-e1aa-4ae6-9be8-9d1139a9ab04,network.reise,available,75.2,75.2,high,medi
 26d3022c-791b-4f47-9317-be3b8b682c0d,network.juegos,available,,,high,medium,7,,,,23/10/2026 09:49
 e884d7ef-4cd4-44b7-92a8-f3bb1d923a2d,network.fan,premium,207.2,207.2,high,medium,7,spaceship,,,22/10/2026 18:00
 1de0e180-9ce4-469b-bf89-d61ccb1e41eb,network.surf,premium,414.2,26.08,high,medium,7,spaceship,,,22/10/2026 18:00
+293f846b-a0a6-488f-ab9f-303ea5fc1030,telecom.dad,premium,167.7,167.7,high,low,7,namecheap,,,30/09/2026 13:03
 0318339d-0a2d-4506-b16a-d4192d50033f,network.catering,available,45.48,53.98,high,medium,7,namecheap,,,22/10/2026 18:00
 b5026195-0ba3-42b7-aa59-ff2070f9b92a,network.republican,available,7.25,7.25,high,medium,7,namesilo,,,22/10/2026 18:00
 60f6e9b1-dd4a-4d83-a2fa-516e8edf5830,telecom.xyz,resell,,,high,low,7,"Spaceship, Inc.",02/06/2014 18:24,02/06/2027 23:59,30/09/2026 13:03
+d25cbd0e-b7cf-4e3f-a95b-162e5a3edb8e,telecom.tv,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",20/12/2014 11:06,20/12/2026 11:06,30/09/2026 13:03
 d5091269-31c6-49be-893c-75a4b6d0af4e,network.lifestyle,premium,362.45,517.7,high,medium,7,spaceship,,,22/10/2026 18:00
+f7130e0f-d676-446f-9f8f-66985e2f9107,telecom.xxx,premium,256.88,256.88,high,low,7,spaceship,,,30/09/2026 13:03
 4adf2771-c726-4f7a-a9d3-bfec093b4577,telecom.link,premium,1995,1995,high,low,7,namesilo,,,30/09/2026 13:03
+a69c4742-e014-4100-b749-5c80a60e7084,telecom.pictures,available,12.62,12.62,high,low,7,spaceship,,,30/09/2026 13:03
 36c1f968-07b7-47b9-9a99-a8253220270e,telecom.you,premium,51.95,51.95,high,low,7,spaceship,,,30/09/2026 13:03
 ef09f3f7-d164-40d5-b39b-534ab60b82b8,network.directory,premium,118.8,118.8,high,medium,7,namesilo,,,22/10/2026 18:00
 b58db086-0520-45e4-8648-6f5b4ec14434,network.camera,resell,,,high,medium,7,"GoDaddy.com, LLC",17/06/2015 16:00,17/06/2027 16:00,22/10/2026 18:00
+52e9b0b1-2d1d-4ba7-8b21-80e0b321f530,telecom.porn,available,69.98,154.98,high,low,7,namecheap,,,30/09/2026 13:03
 aaf9ed09-2fcd-499a-9365-2271ecc9e219,telecom.soy,premium,328.9,328.9,high,low,7,dynadot,,,30/09/2026 13:03
+fb8f9925-fb92-429b-a86c-785799f88f2d,telecom.page,premium,133.72,133.72,high,low,7,spaceship,,,30/09/2026 13:03
 844fa3d4-4b28-4ee7-b989-187dff1c6540,network.travel,available,,,high,medium,7,,,,23/10/2026 09:49
+556ef378-9cf5-4594-bbae-0f5fae98c8d8,telecom.news,premium,1107,1107,high,low,7,namesilo,,,30/09/2026 13:03
+7da96848-373b-4da9-96c2-f6e4a2089a0e,telecom.camera,available,58.99,58.99,high,low,7,namesilo,,,30/09/2026 13:03
+5dc04c7a-b291-4c34-bf93-26d0a841b704,telecom.vana,available,2070.2,2070.2,high,low,7,spaceship,,,30/09/2026 13:03
 0f84f194-57ff-4273-8f65-0ba1ec796313,network.shiksha,premium,2660,2660,high,medium,7,namesilo,,,22/10/2026 18:00
 b81ea70a-7660-4d4d-a2aa-26e9b9600287,network.click,resell,,,high,medium,7,"Spaceship, Inc.",05/07/2020 10:39,05/07/2027 10:39,22/10/2026 18:00
 3be51f62-b272-4e4f-923a-531b2fa217f7,network.toys,premium,512,512,high,medium,7,namesilo,,,22/10/2026 18:00
+ca4bb873-64da-473a-a594-18956fb2b281,telecom.travel,available,27.99,149.99,high,low,7,namesilo,,,30/09/2026 13:03
 ae52e3df-615d-4f8c-9ac9-dd831118c6ed,network.rest,premium,230.4,230.4,high,medium,7,namesilo,,,22/10/2026 18:00
+e60b3873-7626-49e9-af69-37401a037c88,telecom.rodeo,premium,250,,high,low,7,name.com,,,30/09/2026 13:03
+d5dbf14f-d587-44e8-b4a2-3be1b25fad54,telecom.movie,available,47.99,349.99,high,low,7,namesilo,,,30/09/2026 13:03
+b002b10a-ad4b-48f6-af04-48b9c2203d12,telecom.music,premium,75.9,39.81,high,low,7,dynadot,,,30/09/2026 13:03
+4b7ede71-7d21-493c-932a-ff85a9d9fb3f,telecom.clothing,available,26.08,26.08,high,low,7,spaceship,,,30/09/2026 13:03
+1a6b24a7-673e-4198-b127-c49a45185c51,telecom.baby,available,17.99,54.99,high,low,7,namesilo,,,30/09/2026 13:03
+562c4dd1-7cd3-4a14-a3f8-6c637d3626ec,telecom.skin,available,1.24,13.97,high,low,7,spaceship,,,30/09/2026 13:03
 1b00fdf0-2c08-44d0-9d98-2076840aa74d,network.stream,available,,,high,medium,7,,,,23/10/2026 09:49
 deba5fa5-3460-45d2-9860-280de04600f6,telecom.talk,premium,71.4,71.4,high,low,7,namesilo,,,30/09/2026 13:03
+37c6b867-b0b0-4832-a9d5-8c05e6319d8c,telecom.sex,available,101.87,101.87,high,low,7,dynadot,,,30/09/2026 13:03
 599d20d2-f2fc-4209-ac76-3dbc7d7a4025,network.desi,available,19.98,22.98,high,medium,7,namecheap,,,02/10/2026 16:02
+352d47b7-2db1-4f52-9cc6-e075315f704c,telecom.menu,available,27.99,27.99,high,low,7,namesilo,,,30/09/2026 13:03
+c6bec3bd-7658-4d1f-9d2b-c8d5452641f6,telecom.vacations,available,38.99,38.99,high,low,7,namesilo,,,30/09/2026 13:03
+14810baa-b44e-454e-adb2-26cfcd7b8d86,telecom.tires,available,72.44,72.44,high,low,7,spaceship,,,30/09/2026 13:03
+30e7d289-dd8b-44dd-848e-5ce2d9d23a8d,telecom.buzz,premium,109.69,55.11,high,low,7,porkbun,,,30/09/2026 13:03
+8c54ab4f-c0bc-4995-bd0d-2936d228e6b4,telecom.college,available,10.5,53.72,high,low,7,dynadot,,,30/09/2026 13:03
 29f46335-c3fb-4bfb-b34a-7956a360301f,network.top,premium,266.5,266.5,high,medium,7,namesilo,,,22/10/2026 18:00
+45d483c5-299f-4c08-b6fb-3f5595107272,telecom.photos,available,15.99,29.99,high,low,7,namesilo,,,30/09/2026 13:03
 9b730361-dc6c-4b42-8782-0edc31f7997d,network.consulting,available,,,high,medium,7,,,,23/10/2026 09:49
 a1277d90-0cd1-4698-97bb-89052fc7a435,network.taxi,resell,,,high,medium,7,Dynadot Inc,13/05/2026 17:00,13/05/2027 17:00,22/10/2026 18:00
 e793fecc-6504-4e98-a3a4-375b97a3ec94,network.live,resell,,,high,medium,7,"GoDaddy.com, LLC",24/04/2020 21:11,24/04/2027 21:11,22/10/2026 18:00
+4e43c671-4e49-43a4-b18f-a56037a86131,telecom.show,available,18.99,44.49,high,low,7,namesilo,,,30/09/2026 13:03
 ecd876c2-63ac-456b-8150-863e21ecc9ea,network.careers,premium,414.2,414.2,high,medium,7,spaceship,,,22/10/2026 18:00
+daf343c3-523d-4c62-b062-a2166bcebbcc,telecom.pizza,available,17.99,64.99,high,low,7,namesilo,,,30/09/2026 13:03
 551b54ff-aebe-4cac-a793-beae0ba8cd91,network.food,premium,455,650,high,medium,7,namecheap,,,22/10/2026 18:00
+f22be3b7-5982-456e-968f-452666d3da15,telecom.build,premium,546.35,546.35,high,low,7,porkbun,,,30/09/2026 13:03
 23df53e8-1172-4bc9-9c29-13831ff8515e,network.sbs,premium,328.02,655.52,high,medium,7,porkbun,,,22/10/2026 18:00
 e665a878-26b0-453f-8d63-0e85a703d1c0,telecom.cyou,premium,310.7,621.2,high,low,7,spaceship,,,30/09/2026 13:03
+a6f91052-7f80-4418-9a8a-a4f9d34c40f5,telecom.photography,available,28.2,28.2,high,low,7,cloudflare,,,30/09/2026 13:03
 c35d50c6-963a-47a7-9e46-a3fc32dcf4ef,network.airforce,available,103.99,103.99,high,medium,7,namesilo,,,22/10/2026 18:00
+b04bf3cb-2633-456c-89ea-f53bca45dbcd,telecom.democrat,available,7.25,32.99,high,low,7,namesilo,,,30/09/2026 13:03
 74678501-5d9d-43d9-bb3d-213edf945ccb,network.game,premium,1729,1729,high,medium,7,namesilo,,,22/10/2026 18:00
 899c8055-a3f8-4e67-b78f-6fd5093cd31d,network.gives,premium,72.6,72.6,high,medium,7,dynadot,,,22/10/2026 18:00
+07d048e3-e49f-4034-a0fd-cf81c45189a2,telecom.education,resell,,,high,low,7,"Network Solutions, LLC",31/03/2014 18:00,31/03/2027 18:00,30/09/2026 13:03
+268d7ce3-29cf-4177-bf7e-7649f5e3959b,telecom.fashion,available,26.08,26.08,high,low,7,spaceship,,,30/09/2026 13:03
 bd5ed275-5615-4610-8587-e9040819a4dd,network.deals,available,31.25,31.25,high,medium,7,spaceship,,,22/10/2026 18:00
 235e0002-cbad-4834-84aa-fbc1c67c5553,telecom.builders,available,28.15,28.15,high,low,7,spaceship,,,30/09/2026 13:03
 7347414a-da74-4efd-a135-df6f9e5d9793,network.paris,available,14.64,38.68,high,medium,7,dynadot,,,22/10/2026 18:00
+eb1752c3-a3fe-44fe-87aa-e6a9c55652c5,telecom.new,available,488.98,601.98,high,low,7,namecheap,,,30/09/2026 13:03
+dc074416-6a9e-4ff7-83f3-beab0ec4217e,telecom.university,available,62.99,62.99,high,low,7,namesilo,,,30/09/2026 13:03
 f28c882d-24ca-4153-921e-246c265373e0,telecom.bar,premium,230.4,230.4,high,low,7,namesilo,,,30/09/2026 13:03
+e69a7f4b-6e37-4657-a04e-b17e450d107b,telecom.theatre,available,509.99,529.99,high,low,7,namesilo,,,30/09/2026 13:03
 2027ee37-f293-4e7d-82aa-cad41b29bb11,network.christmas,available,1.24,31.16,high,medium,7,spaceship,,,22/10/2026 18:00
 393e0e2f-bd3a-4b41-ac59-306c3807f47b,network.cars,available,1863.2,2064.2,high,medium,7,spaceship,,,22/10/2026 18:00
 c2174d35-ae61-4904-8211-4a59a8e0acc9,network.organic,available,17.99,85.99,high,medium,7,namesilo,,,22/10/2026 18:00
 25485cb8-2de9-4277-aaa9-08460f8aebf8,network.family,available,,,high,medium,7,,,,23/10/2026 09:49
 fac68782-e6be-426f-9823-7dc899b39878,network.cv,premium,2077.76,69.86,high,medium,7,spaceship,,,22/10/2026 18:00
+8d3b32e5-ba7d-460e-8a47-d331bbbe2e15,telecom.moda,available,32.2,32.2,high,low,7,cloudflare,,,30/09/2026 13:03
 244e0c77-9317-4f00-840b-e9265c6b3868,telecom.fun,premium,129.58,517.7,high,low,7,spaceship,,,30/09/2026 13:03
 8fe75e27-4d5e-426d-bcab-21a22fdfb7d0,network.enterprises,resell,,,high,medium,7,Dynadot Inc,03/09/2026 22:08,03/09/2027 22:08,22/10/2026 18:00
 766e6991-e47e-484e-a68d-87dec94579fe,telecom.hosting,available,300.2,300.2,high,low,7,cloudflare,,,30/09/2026 13:03
@@ -172,9 +228,11 @@ a0942550-1d7b-4b7d-b09c-69643de4a40e,telecom.boston,premium,44.19,20.18,high,low
 1a8d8987-3258-42d9-8931-bc8e7454de8a,telecom.ninja,resell,,,high,low,7,"GoDaddy.com, LLC",14/06/2014 05:21,14/06/2027 05:21,30/09/2026 13:03
 c7fed22a-d8a1-4787-be59-787be48df614,telecom.diy,premium,1107,1107,high,low,7,namesilo,,,30/09/2026 13:03
 b150d6ac-7d00-4e84-94f7-8c36500b0a10,network.bar,premium,652.25,931.7,high,medium,7,spaceship,,,22/10/2026 18:00
+9b7f9943-ebcf-4c00-9293-ed964e1baa4a,communication.kiwi,available,31.98,35.68,high,low,13,namecheap,,,18/10/2026 02:18
 fe449d31-6f0f-42b6-b4b2-5961852f9056,telecom.homes,resell,,,high,low,7,Dynadot Inc,01/07/2026 14:32,01/07/2027 23:59,30/09/2026 13:03
 1f3101d2-8366-406a-83d2-c18963d004c2,telecom.dentist,available,65.99,65.99,high,low,7,namesilo,,,30/09/2026 13:03
 f2bbaca0-28fd-48cd-b5ac-fddeca6ff730,telecom.food,premium,724.7,1035.2,high,low,7,spaceship,,,30/09/2026 13:03
+6e54e856-1b1c-45f7-b745-47d1a2a7153f,communication.lat,available,1.24,26.08,high,low,13,spaceship,,,18/10/2026 02:18
 0198f96a-c5b5-4c9b-b2a6-73b18dd91188,network.pizza,available,17,51.95,high,medium,7,unstoppable,,,22/10/2026 18:00
 32bfba38-abf9-4663-948f-3cda119795b3,network.ventures,resell,,,high,medium,7,"Spaceship, Inc.",20/02/2014 01:22,20/02/2027 01:22,22/10/2026 18:00
 6052c334-4063-400d-8def-542197196cd0,network.navy,available,109.99,109.99,high,medium,7,namesilo,,,22/10/2026 18:00
@@ -209,14 +267,19 @@ af48d034-f794-4995-b414-4f505d4ff43f,network.marketing,resell,,,high,medium,7,"G
 38f8ed39-e9ce-41a8-a264-9d81e350559c,communication.talk,premium,78,78,high,low,13,namecheap,,,18/10/2026 02:18
 902abd03-93bb-4e20-b49b-975120a95f04,telecom.nexus,premium,161.25,,high,low,7,name.com,,,30/09/2026 13:03
 ca22100f-0064-4cd4-bd71-ba7c638f0f40,network.rich,available,94.99,1999,high,medium,7,namesilo,,,22/10/2026 18:00
+b6eff51e-b489-49c2-b266-c7fb1862467a,communication.onl,available,3.48,28.98,high,low,13,namecheap,,,18/10/2026 02:18
 658a924a-08c8-4b31-86da-346567da2be9,telecom.markets,premium,500,,high,low,7,name.com,,,30/09/2026 13:03
 9c715d64-dcc9-418d-b135-578f721617aa,network.blue,resell,,,high,medium,7,"Focus IP, Inc. dba Tracer",04/05/2015 01:34,04/05/2027 01:34,22/10/2026 18:00
+51a07907-c24d-41ae-9710-22579bcf332f,communication.sh,available,31.05,46.58,high,low,13,spaceship,,,18/10/2026 02:18
 6ed65295-14ef-4f68-984a-0485d401710e,telecom.sbs,premium,384,768,high,low,7,namesilo,,,30/09/2026 13:03
+b0eff8fd-d4b1-4d41-8451-82cf9e1fbcab,communication.autos,available,1.99,17.29,high,low,13,namesilo,,,18/10/2026 02:18
 024e6a1f-dfe2-4ea1-bdc5-6df4d75f4b5e,telecom.sale,premium,102.67,102.67,high,low,7,spaceship,,,30/09/2026 13:03
 2973cfa2-2d39-40f8-b881-8302355718af,telecom.gmbh,available,45.99,45.99,high,low,7,namesilo,,,30/09/2026 13:03
+66795000-b549-47ed-87ec-40b8dd0c56bc,communication.singles,available,9.49,33.99,high,low,13,namesilo,,,18/10/2026 02:18
 f1d0eca2-9d71-4ce1-b87c-710abb6ceda7,telecom.icu,premium,384,768,high,low,7,namesilo,,,30/09/2026 13:03
 2e54dcc5-ebc5-4db5-9991-66bde8ce44e4,telecom.consulting,premium,242,242,high,low,7,namesilo,,,30/09/2026 13:03
 93a3c015-6618-426b-93b5-d82f1495d932,communication.desi,available,19.98,22.98,high,low,13,namecheap,,,29/09/2026 06:08
+e616bb0e-3d8e-41a8-96be-f010146a599a,communication.cv,premium,649.6,80.33,high,low,13,namesilo,,,18/10/2026 02:18
 9f8db32b-ea62-4721-a5bc-4f3fa0f7db3b,telecom.marketing,available,5.57,34.46,high,low,7,dynadot,,,30/09/2026 13:03
 d347d04c-44dd-4d1f-9b21-2bf4711ab33a,network.equipment,resell,,,high,medium,7,"GoDaddy.com, LLC",06/09/2015 00:28,06/09/2027 00:28,22/10/2026 18:00
 638d9dec-c53f-46ae-9ef3-06900fa607b3,network.inc,premium,1604.45,2070.2,high,medium,7,spaceship,,,22/10/2026 18:00
@@ -224,6 +287,7 @@ d9a82889-a230-4edc-bbd9-d36968f62d54,telecom.band,available,20.99,31.49,high,low
 ca7f1118-eac9-4a59-9d44-d9cd53bbbde1,network.online,premium,1293.95,5175.2,high,medium,7,spaceship,,,22/10/2026 18:00
 8095dcbf-07df-437c-9355-63dae1205e89,telecom.science,premium,1107,116,high,low,7,namesilo,,,30/09/2026 13:03
 3ac4ee7d-cc62-4d99-9cf2-a34f5106ce9d,network.shopping,premium,512,512,high,medium,7,namesilo,,,22/10/2026 18:00
+92e0a923-1e6f-4399-80c1-ad80f1cc12a2,communication.loans,available,20,116.99,high,low,13,unstoppable,,,18/10/2026 02:18
 2dbb82a2-0551-4b18-9ebc-03f5f41ebfe9,telecom.army,available,15.73,31.25,high,low,7,spaceship,,,30/09/2026 13:03
 37f7262b-65f4-44fa-897f-bc8d2bffa208,network.racing,premium,103.7,103.7,high,medium,7,spaceship,,,22/10/2026 18:00
 175295f1-0ad6-4519-a1ed-ce2b4721b96d,telecom.catering,available,31.25,31.25,high,low,7,spaceship,,,30/09/2026 13:03
@@ -232,10 +296,12 @@ e3f2deef-bbac-45a3-998e-bec3ab380406,telecom.sucks,premium,2658.67,2658.67,high,
 a5a05f58-d6b8-458c-8ccc-3c441ca33434,network.maison,available,60.98,69.98,high,medium,7,namecheap,,,22/10/2026 18:00
 3db48413-74c7-47be-a93a-c7a7b6d657b3,telecom.auction,available,36.99,36.99,high,low,7,namesilo,,,30/09/2026 13:03
 9b918f7b-e194-46ce-a22b-b7099c0f4883,telecom.beauty,available,1.24,13.97,high,low,7,spaceship,,,30/09/2026 13:03
+32a28cd7-6c51-4182-9463-8ffe9551edb0,communication.catering,available,38.99,38.99,high,low,13,namesilo,,,18/10/2026 02:18
 640db8f6-e091-4158-934b-ce2165bfc3e4,network.buzz,available,,,high,medium,7,,,,23/10/2026 09:49
 9d724f8a-dc8c-4051-8fb9-8e92f87854be,telecom.date,premium,384,53.92,high,low,7,namesilo,,,30/09/2026 13:03
 504c3a8f-20e4-4140-900a-86f25bb0371f,telecom.kaufen,available,5.99,26.99,high,low,7,namesilo,,,30/09/2026 13:03
 da0819d7-0e4a-4fd1-8504-4306c6a1cc97,communication.careers,available,34.99,71.99,high,low,13,namesilo,,,18/10/2026 02:18
+be5a1759-ab9d-491b-9420-9e87293fa7d3,communication.qpon,available,2.19,11.49,high,low,13,namesilo,,,18/10/2026 02:18
 4bf905fe-b537-44e6-8f6f-cdd6f9ad4e09,network.rsvp,premium,516.67,516.67,high,medium,7,spaceship,,,22/10/2026 18:00
 eaf27499-b3b4-4779-b729-dcfad911edff,network.flowers,available,93.35,103.4,high,medium,7,spaceship,,,22/10/2026 18:00
 20f1ac60-456c-4bd7-9a8f-38ea9769abce,telecom.best,resell,,,high,low,7,Dynadot Inc,30/07/2026 00:05,30/07/2027 23:59,30/09/2026 13:03
@@ -243,21 +309,29 @@ eaf27499-b3b4-4779-b729-dcfad911edff,network.flowers,available,93.35,103.4,high,
 f73313ef-d523-491a-bbf7-76ce0eb5fc81,telecom.healthcare,available,70.58,70.58,high,low,7,spaceship,,,30/09/2026 13:03
 67f86e80-d359-4821-a525-b40ef54433f4,telecom.shiksha,available,14.99,51.99,high,low,7,namesilo,,,30/09/2026 13:03
 af5d0c74-f54b-4698-8a53-769c46bb9991,network.yoga,premium,437.19,27.82,high,medium,7,porkbun,,,22/10/2026 18:00
+c3f34f92-050d-4def-8487-aa983120f448,communication.living,available,30.2,30.2,high,low,13,cloudflare,,,18/10/2026 02:18
 ab3f0bf2-b75c-4434-ad54-e76a8ddfa493,network.properties,available,14.17,31.25,high,medium,7,spaceship,,,22/10/2026 18:00
 341876ac-dcf3-4095-af75-a6f1e06c0897,telecom.republican,available,5.66,26.26,high,low,7,porkbun,,,30/09/2026 13:03
 8f538fe4-c1c4-445e-8ef1-cee7a98d283c,communication.global,premium,1596,53.92,high,low,13,namesilo,,,18/10/2026 02:18
 636a98fb-3ea0-44be-b8ed-534407fef99a,network.adult,available,,,high,medium,7,,,,23/10/2026 09:49
 e52f32b4-6dcd-4f3a-9b2d-d8ff60f10dfd,telecom.finance,premium,102.67,102.67,high,low,7,spaceship,,,30/09/2026 13:03
+2c2f212b-2026-4f0a-802f-2a345db1f6c9,communication.engineering,available,16,79.99,high,low,13,unstoppable,,,18/10/2026 02:18
+86a92246-5821-4fa8-b7c0-199e17c841cb,communication.download,premium,640,77.35,high,low,13,namesilo,,,18/10/2026 02:18
+327572cd-f4ff-47ee-9601-4a08b8f6e821,communication.reviews,premium,242,242,high,low,13,namesilo,,,18/10/2026 02:18
 ad9198b2-6bdd-4d7f-95ec-a143fcc9bfe8,telecom.graphics,available,18.83,18.83,high,low,7,spaceship,,,30/09/2026 13:03
 7b846331-0e29-43cc-94a1-35a5579947c7,network.moi,premium,384,384,high,medium,7,namesilo,,,22/10/2026 18:00
 0387edc5-cf2c-48c4-b2d4-4eb799176b39,telecom.cloud,premium,2660,2660,high,low,7,namesilo,,,30/09/2026 13:03
 2c96d840-5d49-43b5-af5c-0f864c1d7d74,network.games,premium,200.5,260,high,medium,7,unstoppable,,,22/10/2026 18:00
 3a4813ef-0a4d-485b-8c6b-6b9332063b80,network.markets,resell,,,high,medium,7,DomainTact LLC,04/06/2026 15:15,04/06/2027 15:15,22/10/2026 18:00
 60f1c65a-0f29-4b33-9448-9c6d9a7d01e5,network.film,premium,1107,1107,high,medium,7,namesilo,,,22/10/2026 18:00
+cf188c46-05d0-4f1f-9e67-6d2bbb208c74,communication.institute,resell,,,high,low,13,Dynadot Inc,26/01/2026 17:00,26/01/2027 17:00,18/10/2026 02:18
 c528a81b-597f-4ce0-bf1e-c90214e60f26,network.shop,premium,6900,6900,high,medium,7,namesilo,,,22/10/2026 18:00
 519fec62-1a99-4521-9735-7588afe97f3b,telecom.host,premium,2587.7,5175.2,high,low,7,spaceship,,,30/09/2026 13:03
+a0f34d0a-5fba-45f3-b21f-637908d29f54,communication.consulting,premium,200.5,207.2,high,low,13,unstoppable,,,18/10/2026 02:18
+a48285a4-283d-41b0-a1fa-22c8e29d91b1,communication.film,available,65.99,65.99,high,low,13,namesilo,,,18/10/2026 02:18
 e0fbbee5-428f-4f80-8952-4c876d3dcdb7,network.democrat,available,7.25,7.25,high,medium,7,namesilo,,,22/10/2026 18:00
 9b8987b0-d632-4124-8612-35083e69545d,network.center,resell,,,high,medium,7,"GoDaddy.com, LLC",16/09/2018 09:41,16/09/2027 09:41,22/10/2026 18:00
+d3673181-a092-48f1-821c-e6dcfd0ac53c,communication.sydney,premium,180.93,180.93,high,low,13,namecheap,,,18/10/2026 02:18
 bebda3df-745d-4d9f-ad7e-66bbc911cae2,network.realty,premium,1107,1107,high,medium,7,namesilo,,,22/10/2026 18:00
 7ead9566-5628-4090-8f61-d35b51df05d8,communication.money,available,27.2,27.2,high,low,13,cloudflare,,,18/10/2026 02:18
 5a8a9fb6-6266-4f83-b893-6cd633f5c4b9,communication.irish,available,5.38,17.8,high,low,13,spaceship,,,18/10/2026 02:18
@@ -265,8 +339,11 @@ bebda3df-745d-4d9f-ad7e-66bbc911cae2,network.realty,premium,1107,1107,high,mediu
 1f26b632-629d-4592-988c-b758957a6aca,communication.host,premium,258.95,517.7,high,low,13,spaceship,,,18/10/2026 02:18
 e2178e6f-e3ef-444a-9f8a-7bbd909b9fda,communication.press,premium,550,1100,high,low,13,dynadot,,,18/10/2026 02:18
 5a024687-ca3b-4e17-bd18-449017527814,telecom.works,resell,7.99,,high,low,7,"Sav.com, LLC",29/12/2024 17:13,29/12/2025 17:13,30/09/2026 13:03
+848b99c7-1ea4-4254-abdf-2ce027361824,communication.new,available,412.2,412.2,high,low,13,spaceship,,,18/10/2026 02:18
 d3c9eb86-9b0d-4cb2-ae4e-e8c0d82a2add,network.limo,available,10.81,43.77,high,medium,7,porkbun,,,22/10/2026 18:00
 0c717a0d-6067-424b-80e3-79177e8f15ca,telecom.creditcard,available,129.2,129.2,high,low,7,spaceship,,,30/09/2026 13:03
+2898d814-d95c-4ff8-920f-c79e97fde01c,communication.hockey,available,59.99,59.99,high,low,13,namesilo,,,18/10/2026 02:18
+a2ca2bd0-4b58-4b54-9e29-6465a09ee1a3,communication.adult,available,51.95,98.53,high,low,13,spaceship,,,18/10/2026 02:18
 d3e6a6cb-ed04-4d8f-87d4-68316b6d2f18,telecom.gift,available,16.91,16.91,high,low,7,dynadot,,,30/09/2026 13:03
 227027ba-5220-468a-85e4-708768f6ff4f,telecom.games,available,10.55,27.11,high,low,7,spaceship,,,30/09/2026 13:03
 a5675ef8-f8bb-4bf3-a52d-57598f9ee374,network.sale,premium,242,242,high,medium,7,namesilo,,,22/10/2026 18:00
@@ -274,13 +351,17 @@ ced452e7-abfc-44ae-b5e0-c9b7485d01e9,telecom.my,premium,781.01,1115.73,high,low,
 03f24ed0-22dd-488d-aa7f-a5eee3ccbbc7,communication.bot,premium,1035.2,1035.2,high,low,13,spaceship,,,18/10/2026 02:18
 b6c6a467-67ca-4545-bb51-0a244ee70ce7,telecom.meme,premium,187.5,,high,low,7,name.com,,,30/09/2026 13:03
 f9b7b4d2-f444-4ab4-80c1-059ad6d513d5,telecom.living,premium,980,1400,high,low,7,namecheap,,,30/09/2026 13:03
+c3dbdb73-a304-42ff-a7b3-f838e44c3789,communication.pink,premium,500.5,640,high,low,13,unstoppable,,,18/10/2026 02:18
+eb74b6bf-0234-4e1a-8b18-fdceb2923966,communication.reise,available,77.83,77.83,high,low,13,spaceship,,,18/10/2026 02:18
 c48b0861-437d-42a9-98fe-67f144a43a9b,telecom.lifestyle,premium,1092.18,1092.18,high,low,7,porkbun,,,30/09/2026 13:03
 30b182f4-2ffd-4ea5-8f87-0456a60e9c72,telecom.support,available,8.99,26.99,high,low,7,namesilo,,,30/09/2026 13:03
 2014084b-2790-44bf-abfa-16a6438f0e5b,communication.store,premium,812.5,3250,high,low,13,namecheap,,,18/10/2026 02:18
+fc639ee5-8892-42e2-a6e7-a401f96860fd,communication.voting,available,978.6,978.6,high,low,13,dynadot,,,18/10/2026 02:18
 8c3c86dc-6322-49c6-9381-eb1b35e4923b,telecom.study,available,1.24,31.28,high,low,7,spaceship,,,30/09/2026 13:03
 e5442ed9-7806-44d7-9ad9-f99e09f2e5e0,network.lease,available,56.99,56.99,high,medium,7,namesilo,,,22/10/2026 18:00
 98279302-c64a-4a68-a1c6-84395e7920d4,network.gay,premium,715,715,high,medium,7,dynadot,,,22/10/2026 18:00
 b2fc19b5-fb37-440f-9727-c8167652f000,network.photo,premium,103.7,103.7,high,medium,7,spaceship,,,22/10/2026 18:00
+6cc78326-47ed-4cf7-9c86-6af0df893d0d,communication.gives,available,14.99,23.99,high,low,13,namesilo,,,18/10/2026 02:18
 ab653eae-4d56-48ac-bb60-95fc9908ce03,communication.exchange,premium,102.67,102.67,high,low,13,spaceship,,,18/10/2026 02:18
 075ce69e-3c6a-4233-ba21-fa418311d237,communication.sucks,available,218.99,218.99,high,low,13,namesilo,,,18/10/2026 02:18
 b02d1b87-318f-4f47-a90b-b43e8fadf373,communication.repair,available,12,29.18,high,low,13,unstoppable,,,18/10/2026 02:18
@@ -447,8 +528,6 @@ dd4639da-c66c-42d3-8b4e-0f3764dbc51c,communication.pictures,available,12.62,12.6
 ba215a08-32df-4bd0-b638-e5662c1758a9,telecom.promo,available,14.49,24.99,high,low,7,namesilo,,,30/09/2026 13:03
 a9f5f65d-380e-4b2f-8d17-4faaa6d42634,telecom.tickets,available,326.21,388.33,high,low,7,spaceship,,,30/09/2026 13:03
 9b9e2f32-cac2-40f3-ae7d-a99543a55de6,telecom.cricket,premium,448,53.92,high,low,7,namesilo,,,30/09/2026 13:03
-52dae3b2-5728-450c-9b05-8d517a0fc1ac,internet.tech,premium,2587.7,10350.2,high,high,8,spaceship,,,26/10/2026 12:25
-98042bcb-f25f-4397-9196-2f3e0ca8ae14,internet.rsvp,premium,,,high,high,8,Namecheap Inc.,19/12/2022 19:49,19/12/2026 19:49,26/10/2026 12:25
 68f5f089-10d6-4ac8-90bc-31932e9d7fa6,communication.organic,available,66.2,66.2,high,low,13,cloudflare,,,18/10/2026 02:18
 daa61785-fd68-4b39-a3c8-827adbfe9910,network.sydney,premium,911.55,911.55,high,medium,7,namecheap,,,22/10/2026 18:00
 793658f7-1207-4c53-86e8-316666a695fe,telecom.jewelry,available,50.2,50.2,high,low,7,cloudflare,,,30/09/2026 13:03
@@ -457,9 +536,11 @@ d2a7db34-da3a-4850-b803-b229a3d53794,communication.restaurant,available,11.98,91
 48ba7564-965a-4a47-bff9-9e7a3ab8647a,telecom.voting,available,1398,1448,high,low,7,namecheap,,,30/09/2026 13:03
 d6770550-580d-4208-8cd7-f45f5817c677,telecom.sexy,available,2587.7,2587.7,high,low,7,spaceship,,,30/09/2026 13:03
 8ffa3b12-36be-4bde-a1dd-a441e984ec23,telecom.loans,available,20.99,116.99,high,low,7,namesilo,,,30/09/2026 13:03
+757e0c4c-7761-45f6-b780-c33da0d4e808,internet.network,premium,,,high,high,8,101domain GRS Limited,12/12/2014 16:27,12/12/2027 16:27,27/10/2026 22:12
 fb3280a8-d942-47a7-9048-909884322e4a,communication.ltda,available,34.99,34.99,high,low,13,namesilo,,,18/10/2026 02:18
 49941734-8ece-46ec-ae80-22ccdaac8c4e,network.expert,resell,,,high,medium,7,"Global Domains International, Inc. DBA DomainCostClub.com",15/07/2015 16:00,15/07/2028 16:00,22/10/2026 18:00
 5c66805f-c60a-46e7-83b2-197734f7ef2b,communication.blackfriday,available,114.99,114.99,high,low,13,namesilo,,,18/10/2026 02:18
+52dae3b2-5728-450c-9b05-8d517a0fc1ac,internet.tech,premium,2587.7,10350.2,high,high,8,spaceship,,,27/10/2026 22:12
 7aeec970-b8be-4628-afc3-167dd952e082,communication.fast,premium,53.92,53.92,high,low,13,namesilo,,,18/10/2026 02:18
 9bb46757-80d6-40b1-b83d-c2d0a6fc000b,telecom.holdings,available,52.01,52.01,high,low,7,porkbun,,,30/09/2026 13:03
 87742421-5b7a-42a0-927b-ad17780febc3,telecom.football,available,10.92,21.62,high,low,7,dynadot,,,30/09/2026 13:03
@@ -469,6 +550,7 @@ c03028fd-2cdf-464b-a140-2176ca2f8ddb,communication.gmbh,available,59.99,59.99,hi
 cec5a817-2043-41fe-b660-e5caeeb50fb7,communication.cleaning,available,60.23,60.23,high,low,13,spaceship,,,18/10/2026 02:18
 e200884b-c87d-4159-afe5-39e1d44f62a5,network.cleaning,available,60.23,60.23,high,medium,7,spaceship,,,22/10/2026 18:00
 f6224600-79dd-4c39-a6e0-577111163ff5,network.cricket,premium,1107,116,high,medium,7,namesilo,,,22/10/2026 18:00
+5d965b75-a718-4a14-820b-7985b513838a,internet.icu,premium,384,768,high,high,8,namesilo,,,27/10/2026 22:12
 d06ffb5f-6b1f-4f0b-99c5-5dd011134c69,communication.lifestyle,available,1.24,31.25,high,low,13,spaceship,,,18/10/2026 02:18
 d2998a2a-171d-4dcc-8b03-4381b6625a11,network.shoes,available,64.99,64.99,high,medium,7,namesilo,,,22/10/2026 18:00
 058e65f1-e77b-4b6c-906e-da625d0cd1f2,telecom.barcelona,available,25.04,25.04,high,low,7,spaceship,,,30/09/2026 13:03
@@ -492,6 +574,7 @@ e747a94b-4c3c-4386-8232-61dfb5a1a36e,communication.studio,resell,,,high,low,13,S
 6f48155c-c114-4678-b942-9b61bdc86d42,network.tours,resell,,,high,medium,7,"Global Domains International, Inc. DBA DomainCostClub.com",14/03/2026 15:15,14/03/2027 15:15,22/10/2026 18:00
 10032b5e-9f56-4fcc-a526-b14b9d5cf797,communication.blog,premium,517.7,2070.2,high,low,13,spaceship,,,18/10/2026 02:18
 3c9b16d9-2248-45bb-8299-60fafe614c2b,network.bingo,available,53.99,53.99,high,medium,7,namesilo,,,22/10/2026 18:00
+f5f9c0ea-5550-40e8-ac7f-d57021958dba,internet.airforce,premium,,,high,high,8,"Spaceship, Inc.",28/12/2025 15:23,28/12/2026 15:23,27/10/2026 22:12
 e1031373-63dc-4b35-92a0-89bbe2518519,telecom.yachts,available,1.99,17.29,high,low,7,namesilo,,,30/09/2026 13:03
 6bb4dc11-d054-4e37-80ae-7ba2afb17ddd,communication.cool,available,5.57,41.95,high,low,13,dynadot,,,18/10/2026 02:18
 f56d78d8-2acb-4f0a-b7d6-5127b41a5059,telecom.cv,premium,1042.76,7.76,high,low,7,spaceship,,,30/09/2026 13:03
@@ -505,7 +588,7 @@ fd4e0b8f-e894-47fb-9495-6f3e7c818c3c,network.voting,available,1398,1448,high,med
 b8fe59ae-fd90-4d36-a1e5-19e7cf31f085,network.day,premium,516.67,516.67,high,medium,7,spaceship,,,22/10/2026 18:00
 ae4fdda8-93ff-4bc3-a935-8bbb7e80be8f,communication.barcelona,available,25.04,25.04,high,low,13,spaceship,,,18/10/2026 02:18
 3e5201ad-ad33-439a-8e2c-d22930ce0da0,communication.protection,available,2064.2,2064.2,high,low,13,spaceship,,,18/10/2026 02:18
-4be7765e-9e22-4d0a-bafe-6bfd103849f9,network.talk,premium,550,550,high,medium,7,dynadot,,,22/10/2026 18:00
+2c8b0751-7fa0-4835-a180-5c8b126f9e5a,internet.forex,premium,5175.2,5175.2,high,high,8,spaceship,,,27/10/2026 22:12
 27cd41fa-3d86-4ca5-a9ce-89582e977183,communication.bargains,available,13.14,23.94,high,low,13,spaceship,,,18/10/2026 02:18
 f8813d33-feb3-4a60-9cb6-9856e52a22bd,communication.ski,available,26.5,51.95,high,low,13,unstoppable,,,18/10/2026 02:18
 2246d23f-f100-4e38-aff6-2faad6fc8525,telecom.guide,available,41.49,41.49,high,low,7,namesilo,,,30/09/2026 13:03
@@ -515,8 +598,11 @@ f51a10a7-0598-43f5-8a09-c723cbe86fc0,communication.codes,available,3.31,57.13,hi
 80775be0-7a93-4831-af78-747d336da650,telecom.villas,available,62.98,74.98,high,low,7,namecheap,,,30/09/2026 13:03
 4697355c-2db4-43ce-a050-306d5c16e98f,telecom.horse,available,25.2,25.2,high,low,7,cloudflare,,,30/09/2026 13:03
 143e60d6-48a4-46d0-a30d-caf808613da1,network.finance,resell,,,high,medium,7,"Spaceship, Inc.",18/07/2025 15:15,18/07/2027 15:15,22/10/2026 18:00
+69122f96-aa43-4f6e-802c-0e4a61c2afa1,internet.uno,premium,6500,6500,high,high,8,namecheap,,,27/10/2026 22:12
 63c24a1e-e3d6-4ac7-89cc-9c1a022cc4e1,telecom.gifts,available,8.24,30.18,high,low,7,dynadot,,,30/09/2026 13:03
+d7b47bcf-e0e3-4a92-838f-70709184f176,internet.esq,premium,671.92,671.92,high,high,8,spaceship,,,27/10/2026 22:12
 73be2939-e446-4898-a7e5-de1c37e7797c,telecom.hiphop,available,23.99,23.99,high,low,7,namesilo,,,30/09/2026 13:03
+ca0477f7-d399-4d18-944a-33b05f7c33fe,internet.dental,available,78.99,78.99,high,high,8,namesilo,,,27/10/2026 22:12
 52d1b857-a098-47fb-be99-882c97d9bbcc,telecom.theater,available,51.95,51.95,high,low,7,spaceship,,,30/09/2026 13:03
 9a3cce5d-b252-4d1a-b698-52aa3fc70149,communication.flowers,available,64.99,114.99,high,low,13,namesilo,,,18/10/2026 02:18
 62facdb4-b4f4-4dd6-a56e-63954be2cf4d,communication.inc,premium,2061.5,2660,high,low,13,namesilo,,,18/10/2026 02:18
@@ -527,6 +613,7 @@ d3075bab-01ce-456b-b49e-48b89a44f511,telecom.supply,available,27.48,33.48,high,l
 46e5a8e1-047a-4b0d-b0f8-b876a3310408,telecom.clinic,available,20.99,64.99,high,low,7,namesilo,,,30/09/2026 13:03
 636479da-12de-4fea-953a-83bf250ed6e3,communication.ceo,available,9.19,103.7,high,low,13,spaceship,,,18/10/2026 02:18
 23bbfcf7-809a-47ea-b0fc-3885670dd7db,telecom.partners,available,9.52,57.13,high,low,7,spaceship,,,30/09/2026 13:03
+c381ae92-62c9-4d4d-8d1b-89f48f433e3f,internet.green,premium,1107,1107,high,high,8,namesilo,,,27/10/2026 22:12
 3eca1502-0f0a-4d07-8bbc-ee866e9a39be,communication.ryukyu,available,17.98,22.98,high,low,13,namecheap,,,18/10/2026 02:18
 414c27a1-e894-4384-95f1-a9de4db71518,communication.boutique,available,5.99,32.99,high,low,13,namesilo,,,18/10/2026 02:18
 f3072cd0-f9b0-47ea-bde6-38bd433ed6cb,communication.healthcare,available,70.58,70.58,high,low,13,spaceship,,,18/10/2026 02:18
@@ -534,13 +621,19 @@ dac69a15-2c56-4043-8dc9-d04424c6a16d,communication.fishing,available,32.49,32.49
 8ec7562e-3b4b-4379-9dec-1c1fd68862cd,communication.voto,available,10.55,55.93,high,low,13,spaceship,,,18/10/2026 02:18
 afe07626-57a5-4d15-9c76-2c4760b2344b,communication.cars,available,2070,2950,high,low,13,namecheap,,,18/10/2026 02:18
 d7cb394b-6c30-413d-9707-59cb5c96f3f7,telecom.golf,available,6.41,51.95,high,low,7,spaceship,,,30/09/2026 13:03
+efeea8a9-3702-44be-a710-568d1e1e14d4,internet.college,premium,10350.2,10350.2,high,high,8,spaceship,,,27/10/2026 22:12
+b6f2b5f8-a2e2-40ff-9fb5-909ed3321426,internet.reisen,premium,128.7,128.7,high,high,8,namecheap,,,27/10/2026 22:12
 b26fc57b-35c8-4f12-8e48-ae4c3c8514e6,network.codes,resell,,,high,medium,7,Dynadot Inc,27/01/2026 17:00,27/01/2027 17:00,22/10/2026 18:00
 48a51a44-710f-4e5e-84e8-a4b4401d3dbe,telecom.how,premium,423.75,,high,low,7,name.com,,,30/09/2026 13:03
 06400df1-70c5-4320-a4c5-78af2b8266a9,telecom.ceo,available,9.19,103.7,high,low,7,spaceship,,,30/09/2026 13:03
+3ef5dc79-2886-442e-b63b-ca073dbd951f,internet.ong,premium,2750,1375,high,high,8,dynadot,,,27/10/2026 22:12
+dfd06841-8702-4948-89e9-ad7c01edba55,internet.exposed,premium,102.67,102.67,high,high,8,spaceship,,,27/10/2026 22:12
 7b363634-c7a6-4d43-85f5-fd9addccba7a,communication.investments,available,12.99,129.99,high,low,13,namesilo,,,18/10/2026 02:18
 d8e96307-4a04-4dc7-8426-6f9237db2fb3,telecom.fitness,available,32.2,32.2,high,low,7,cloudflare,,,30/09/2026 13:03
 89961be8-e80f-48e6-9486-d179c8a688d0,communication.bio,available,56.2,56.2,high,low,13,cloudflare,,,18/10/2026 02:18
 8c67582e-0825-48ca-8996-541a186ff969,telecom.luxury,available,26.97,26.97,high,low,7,dynadot,,,30/09/2026 13:03
+e9341e13-6948-4443-8955-dbf681148cb1,internet.channel,premium,516.67,516.67,high,high,8,spaceship,,,27/10/2026 22:12
+cee6539b-c7ee-4d8d-9dc5-6cbd61c18c62,internet.salon,available,44.2,44.2,high,high,8,cloudflare,,,27/10/2026 22:12
 863a129e-cace-4d50-a2d3-d6ca46ca6317,telecom.pub,available,32.44,32.44,high,low,7,porkbun,,,30/09/2026 13:03
 9e7f4d5e-0ade-4718-9370-e7f4be42ae2d,communication.life,resell,,,high,low,13,"Spaceship, Inc.",30/08/2023 15:15,30/08/2027 15:15,18/10/2026 02:18
 3900617d-1a12-4a78-879a-b1f4b87a58a6,network.lawyer,premium,1639.13,3275.5,high,medium,7,porkbun,,,22/10/2026 18:00
@@ -554,9 +647,11 @@ c6b689fd-af9d-4eb9-8f2f-f0106e2f288d,communication.democrat,available,5.38,26.08
 7127fcd9-30b1-451b-865a-dd6526745529,telecom.gay,available,32.32,32.32,high,low,7,dynadot,,,30/09/2026 13:03
 c64bb248-b824-437e-9183-77c8ca81f713,communication.dentist,premium,207.2,207.2,high,low,13,spaceship,,,18/10/2026 02:18
 7814561c-da4b-419b-a5b8-f5f21fd43477,telecom.associates,available,18.99,38.99,high,low,7,namesilo,,,30/09/2026 13:03
+0ff5579e-0458-4f60-aedc-0ca38cf8f1d2,internet.fan,premium,260,260,high,high,8,namecheap,,,27/10/2026 22:12
 2da7a71e-5b81-4c9a-b1af-133b11e4b865,communication.apartments,available,45.74,45.74,high,low,13,spaceship,,,18/10/2026 02:18
 ed4bd495-9e97-43b2-938a-47d028f79aa5,telecom.fan,available,43.67,43.67,high,low,7,spaceship,,,30/09/2026 13:03
 5459e9a8-ea06-4fe8-882a-c3427ca71d0a,communication.deal,premium,103.7,103.7,high,low,13,spaceship,,,18/10/2026 02:18
+27d963f0-fe87-4c02-9a8c-5416b5e4dd56,internet.contractors,premium,34.36,34.36,high,high,8,spaceship,,,27/10/2026 22:12
 d083e346-cc00-4665-9e4e-8d6f0626c498,communication.health,premium,10350,71.4,high,low,13,namesilo,,,18/10/2026 02:18
 368b23fb-50be-4fc6-9bc8-31e9d14402eb,network.wine,resell,,,high,medium,7,Dynadot Inc,14/06/2026 17:00,14/06/2027 17:00,22/10/2026 18:00
 3feba519-2428-4227-8477-cf6937b9f243,network.investments,resell,,,high,medium,7,"GoDaddy.com, LLC",02/01/2026 20:43,02/01/2027 20:43,22/10/2026 18:00
@@ -566,16 +661,20 @@ fab239d8-c06e-428c-9093-d8aef2c37ca6,communication.ong,available,15.2,15.2,high,
 4cd073f5-fc7c-4c0e-8b4d-da6a1a07f568,telecom.boats,available,1.54,14.21,high,low,7,porkbun,,,30/09/2026 13:03
 51267b2c-5ae8-4e44-882a-6236cefe085f,communication.dealer,premium,1604.45,2070.2,high,low,13,spaceship,,,18/10/2026 02:18
 9441dfd5-ec0e-41a1-9d88-161753f3a67f,communication.industries,available,36.43,36.43,high,low,13,spaceship,,,18/10/2026 02:18
-af4d7930-5dd6-4bd3-8bf9-5a5407378854,internet.space,premium,2587.7,10350.2,high,high,8,spaceship,,,26/10/2026 12:25
+d649295b-d921-4f96-be39-d43219f55a08,internet.pub,premium,1035.2,1035.2,high,high,8,spaceship,,,27/10/2026 22:12
+2e32d9c1-79a4-4a23-b521-d7e5a0673815,internet.shiksha,premium,5520,5520,high,high,8,namesilo,,,27/10/2026 22:12
 6864f32c-77d1-4263-be50-a067cb9d07b7,telecom.glass,available,58.16,58.16,high,low,7,spaceship,,,30/09/2026 13:03
 e3fec585-ed4b-4f5b-ab57-5cd924f0939f,telecom.red,available,11.49,23.49,high,low,7,namesilo,,,30/09/2026 13:03
 16409fbe-5e6a-4f6d-a361-7cfe65ab6183,network.foo,premium,323.7,323.7,high,medium,7,namecheap,,,22/10/2026 18:00
 757cb136-57d4-4724-9761-a2e976794bfa,telecom.haus,available,14.99,33.99,high,low,7,namesilo,,,30/09/2026 13:03
+89b44d15-96fd-4343-9929-76a0846a26f1,internet.study,premium,1100,1100,high,high,8,dynadot,,,27/10/2026 22:12
 08b9e3cd-3782-486b-a15f-d4cdccfb1da8,telecom.fish,available,34.2,34.2,high,low,7,cloudflare,,,30/09/2026 13:03
 ddc7bbf7-3ec0-47b5-bb48-5f92385d2478,network.kaufen,available,5.99,26.99,high,medium,7,namesilo,,,22/10/2026 18:00
 461738a9-fcca-40db-bda0-1ee2d3d64100,network.channel,premium,648.7,648.7,high,medium,7,namecheap,,,22/10/2026 18:00
 98518819-fe11-4bdf-b38a-4066fdd1db3e,telecom.insure,available,72.99,72.99,high,low,7,namesilo,,,30/09/2026 13:03
+2cd0d54a-9d4a-4d19-96b4-2847388eb00d,internet.diy,premium,1100,1100,high,high,8,dynadot,,,27/10/2026 22:12
 ae4492e5-e10f-4fb0-8f68-4881bc4c16d3,communication.limited,available,29.18,29.18,high,low,13,spaceship,,,18/10/2026 02:18
+af4d7930-5dd6-4bd3-8bf9-5a5407378854,internet.space,premium,2729.67,10917.11,high,high,8,porkbun,,,27/10/2026 22:12
 584eac84-2ad4-4c56-b835-2f2c705e2547,telecom.tips,available,24.2,24.2,high,low,7,cloudflare,,,30/09/2026 13:03
 8b42d8ce-b165-4e71-9c58-8f0ccc80c89e,communication.run,resell,,,high,low,13,"Spaceship, Inc.",17/07/2026 13:10,17/07/2027 13:10,18/10/2026 02:18
 589cf88e-4fe3-44f8-8f11-e401bb5d43f1,network.miami,premium,2000.5,18.83,high,medium,7,unstoppable,,,22/10/2026 18:00
@@ -583,9 +682,7 @@ ae4492e5-e10f-4fb0-8f68-4881bc4c16d3,communication.limited,available,29.18,29.18
 d6b42819-056f-477a-9cd8-aaa7e23b72ad,telecom.immobilien,available,29.2,29.2,high,low,7,cloudflare,,,30/09/2026 13:03
 cb1f3688-fb8f-4636-a171-71b5b00929b4,communication.coffee,available,16.99,42.99,high,low,13,namesilo,,,18/10/2026 02:18
 f9fe712e-80ce-4a31-b071-851c2d9010b0,telecom.vote,available,34.99,90.99,high,low,7,namesilo,,,30/09/2026 13:03
-c797e7cf-ec00-47a9-ae3f-009d507545b2,internet.work,premium,2587.7,10.55,high,high,8,spaceship,,,26/10/2026 12:25
 7bc320c1-2dd4-4efa-9f9b-60aa114aa7d6,communication.cat,available,18.83,25.04,high,low,13,spaceship,,,18/10/2026 02:18
-183b69ae-318f-4052-a50c-43396ae43c3d,internet.dance,premium,38.94,38.94,high,high,8,namesilo,,,26/10/2026 12:25
 b82f14cf-12ed-437f-8eb8-874c98b1dcf5,network.blackfriday,available,107.22,107.22,high,medium,7,dynadot,,,22/10/2026 18:00
 d11db40a-a84a-4d5e-9715-f0d9f4d0b375,telecom.sydney,available,42.2,42.2,high,low,7,dynadot,,,30/09/2026 13:03
 508ea6e8-1859-4877-ad23-e97b6e355d81,communication.pub,available,39.99,39.99,high,low,13,namesilo,,,18/10/2026 02:18
@@ -595,28 +692,27 @@ a45c2e93-eb44-4e25-af35-fceea3ba4204,communication.agency,resell,,,high,low,13,"
 aacd723a-fd59-4f89-8fe8-ae8686ab8ba4,communication.im,resell,,,high,low,13,,,07/04/2027 00:59,18/10/2026 02:18
 799e5bd4-8839-4595-947d-5da1abf2f778,network.auto,available,1863.2,2064.2,high,medium,7,spaceship,,,22/10/2026 18:00
 e930e1f3-6e43-4afa-b699-21fe8d721759,telecom.dog,available,5.98,86.98,high,low,7,namecheap,,,30/09/2026 13:03
-e897933a-fed5-490a-aa01-2323c9c2ead8,internet.day,premium,516.67,516.67,high,high,8,spaceship,,,26/10/2026 12:25
 0dd2a0c6-ac09-4841-9199-5e19e66f1ec9,telecom.farm,available,30.2,30.2,high,low,7,cloudflare,,,30/09/2026 13:03
 6204b47c-1ed1-47b9-9e62-fcd18dfe142b,communication.rich,available,94.99,1999,high,low,13,namesilo,,,18/10/2026 02:18
-6a794340-490a-4645-98dc-b2c305d3884a,internet.money,premium,,,high,high,8,"NameCheap, Inc.",08/03/2015 16:23,08/03/2027 16:23,26/10/2026 12:25
+183b69ae-318f-4052-a50c-43396ae43c3d,internet.dance,premium,18.3,36.55,high,high,8,porkbun,,,27/10/2026 22:12
 4bc8a00f-53f4-4e28-8c00-0fb8475bfe8e,telecom.fans,premium,51.95,103.7,high,low,7,spaceship,,,30/09/2026 13:03
+98802845-d84f-4b0c-9af9-1c3879c66b9d,internet.luxe,premium,,,high,high,8,"GoDaddy.com, LLC",05/05/2021 13:45,05/05/2027 13:45,27/10/2026 22:12
 8cec0705-eb93-4b27-ab82-aa16ba364526,telecom.money,premium,102.67,102.67,high,low,7,spaceship,,,30/09/2026 13:03
 d0528370-22e0-44c7-974d-96520d02eca3,telecom.attorney,premium,3105.2,3105.2,high,low,7,spaceship,,,30/09/2026 13:03
 6fa15025-9afc-4892-882f-2f1b45d40bf6,telecom.doctor,available,14.49,116.99,high,low,7,namesilo,,,30/09/2026 13:03
 4d593bbe-785b-484b-9e01-a3c2bf2d0293,communication.forum,available,2.19,34.99,high,low,13,namesilo,,,18/10/2026 02:18
 1842263e-b154-475d-afad-5217742731d4,telecom.bio,resell,9.99,,high,low,7,"Sav.com, LLC",03/02/2025 17:08,03/02/2026 17:08,30/09/2026 13:03
 6ddd31d2-55e3-4643-ab3a-2110c4e1269a,communication.hair,available,1.99,17.29,high,low,13,namesilo,,,18/10/2026 02:18
-517e5ef0-f3fb-465e-ab34-ff3e01fced0a,internet.mov,premium,167.7,167.7,high,high,8,namecheap,,,26/10/2026 12:25
+517e5ef0-f3fb-465e-ab34-ff3e01fced0a,internet.mov,premium,133.72,133.72,high,high,8,spaceship,,,27/10/2026 22:12
 32b19f57-b831-4f54-a7a1-b13f851bc03a,network.apartments,available,67.98,81.48,high,medium,7,namecheap,,,22/10/2026 18:00
+e897933a-fed5-490a-aa01-2323c9c2ead8,internet.day,premium,516.67,516.67,high,high,8,spaceship,,,27/10/2026 22:12
 022c5362-8102-42b5-8827-69a286b74ac9,network.market,premium,242,242,high,medium,7,namesilo,,,22/10/2026 18:00
 9b718fbe-8866-433e-9ca9-3a1a0b78bf25,network.fashion,premium,,,high,medium,7,,,,22/10/2026 18:00
 8db0c1fc-146d-46c6-ac35-f4f89339bc12,network.meme,premium,362.45,362.45,high,medium,7,spaceship,,,22/10/2026 18:00
-f99c6aa3-2e90-4a89-856a-3ce2899a6f97,network.dealer,premium,4278,2660,high,medium,7,namesilo,,,22/10/2026 18:00
 a1f1d83d-634d-4f7d-a742-65f1649e9462,communication.jewelry,available,51.95,51.95,high,low,13,spaceship,,,18/10/2026 02:18
 4d39d58f-7e11-492b-8972-550b769e0d37,telecom.equipment,available,28.99,28.99,high,low,7,namesilo,,,30/09/2026 13:03
 93b1d0c6-bdc4-493d-a149-f821ea8a944e,communication.pizza,available,17.99,64.99,high,low,13,namesilo,,,18/10/2026 02:18
 ccc7ef1c-c0dc-4b51-b6d4-82348053f6b6,communication.soy,premium,79.2,107.9,high,low,13,unstoppable,,,18/10/2026 02:18
-bde67276-1ce6-4da8-9b6a-4edcc154dfe9,internet.photography,premium,118.8,118.8,high,high,8,namesilo,,,26/10/2026 12:25
 9a1167a4-7bfb-4ce9-be09-07b5732ebf2e,telecom.melbourne,available,58,58,high,low,7,namesilo,,,30/09/2026 13:03
 0757e55c-7a56-42d6-8a03-83ca76b729d2,communication.furniture,available,27.99,94.99,high,low,13,namesilo,,,18/10/2026 02:18
 4bc28d2c-09b4-4981-815d-64c70e437e8d,telecom.flights,available,31.41,46.86,high,low,7,porkbun,,,30/09/2026 13:03
@@ -624,24 +720,24 @@ ded91595-f84a-479b-aaee-dbaacffa48bb,communication.productions,available,10.99,4
 d876cff8-528c-447d-8853-5170aa599870,telecom.love,resell,38.98,,high,low,7,namecheap,,,30/09/2026 13:03
 6f95306d-68c6-4936-850b-12dd34a44f0c,network.esq,premium,709.01,709.01,high,medium,7,porkbun,,,22/10/2026 18:00
 4c91532e-8012-4d88-a0d4-88c582ea5f84,telecom.careers,available,28.98,89.98,high,low,7,namecheap,,,30/09/2026 13:03
-1eaf2209-b1f0-414a-9d7b-2cef6cb8f7a5,network.healthcare,premium,512,512,high,medium,7,namesilo,,,22/10/2026 18:00
 bc46385b-faf0-4583-83dd-591953129a8f,communication.sale,premium,102.67,102.67,high,low,13,spaceship,,,18/10/2026 02:18
 1eeccf56-376e-41e6-87da-956827180e74,communication.vacations,available,31.25,31.25,high,low,13,spaceship,,,18/10/2026 02:18
 a4591ea8-e3e1-4937-9e19-0c0694cba186,communication.study,premium,6900,6900,high,low,13,namesilo,,,18/10/2026 02:18
 6a34b9b5-7b6e-493a-a6d1-21ba6755efdc,communication.tires,available,5.99,78.99,high,low,13,namesilo,,,18/10/2026 02:18
 8f04dbf6-9ca0-481c-83bf-30062e904a6c,communication.love,resell,,,high,low,13,"Chengdu West Dimension Digital Technology Co., LTD",19/08/2026 05:39,19/08/2027 05:39,18/10/2026 02:18
+bde67276-1ce6-4da8-9b6a-4edcc154dfe9,internet.photography,premium,102.67,102.67,high,high,8,spaceship,,,27/10/2026 22:12
 19cd43d5-a5c4-4348-b1c7-adc0f51709a7,telecom.kitchen,available,7.96,51.95,high,low,7,spaceship,,,30/09/2026 13:03
-39384797-dde9-4375-b406-954b06bf7f9c,internet.dentist,premium,218.8,437.19,high,high,8,porkbun,,,26/10/2026 12:25
+39384797-dde9-4375-b406-954b06bf7f9c,internet.dentist,premium,414.2,414.2,high,high,8,spaceship,,,27/10/2026 22:12
 0e054636-c155-4374-b094-04fdd2db701a,telecom.me,premium,3528.51,16.47,high,low,7,spaceship,,,30/09/2026 13:03
-ca92b390-566c-4f6b-a425-5611b041bfe2,internet.deal,premium,103.7,103.7,high,high,8,spaceship,,,26/10/2026 12:25
+ca92b390-566c-4f6b-a425-5611b041bfe2,internet.deal,premium,116,116,high,high,8,namesilo,,,27/10/2026 22:12
 36d42315-7a51-46f4-bb1e-757161037aad,telecom.miami,premium,104,23.4,high,low,7,namecheap,,,30/09/2026 13:03
 ba0f041b-3053-4c3e-adc4-52235968d2b9,telecom.cab,available,32.99,32.99,high,low,7,namesilo,,,30/09/2026 13:03
-e320fe85-95ec-43c7-ae51-88c3b0c0fa51,network.beer,premium,41.6,26.08,high,medium,7,spaceship,,,22/10/2026 18:00
 a38eda38-7e89-4590-ac3b-a23df3088f63,telecom.ngo,available,15.2,15.2,high,low,7,cloudflare,,,30/09/2026 13:03
-60adba1d-058c-4f32-b929-f35bbd0c788b,internet.hospital,premium,102.67,102.67,high,high,8,spaceship,,,26/10/2026 12:25
+60adba1d-058c-4f32-b929-f35bbd0c788b,internet.hospital,premium,54.36,108.6,high,high,8,porkbun,,,27/10/2026 22:12
 129eaeb3-ae1e-45f0-89ff-39f249ad6723,network.wedding,available,,,high,medium,7,,,,23/10/2026 09:49
+ca598943-1e82-4d27-b684-8fc3f9cda39f,internet.singles,premium,34.36,34.36,high,high,8,spaceship,,,27/10/2026 22:12
 50ba61b3-b105-4a44-b837-8c19bcafa538,network.jewelry,available,50.2,50.2,high,medium,7,cloudflare,,,22/10/2026 18:00
-b8d0d834-920a-44ab-a7c6-ba04c3543a54,internet.giving,premium,207.2,207.2,high,high,8,spaceship,,,26/10/2026 12:25
+b8d0d834-920a-44ab-a7c6-ba04c3543a54,internet.giving,premium,207.2,207.2,high,high,8,spaceship,,,27/10/2026 22:12
 e1fae3ec-8d8c-40d0-8344-fc193f24d58d,telecom.dealer,premium,1692.6,2183.84,high,low,7,porkbun,,,30/09/2026 13:03
 44562f99-6b5c-46f1-aec8-112753bb000d,communication.trading,available,16.76,16.76,high,low,13,spaceship,,,18/10/2026 02:18
 2a0d5868-ce51-4c8a-a009-7d3bed8661dc,telecom.apartments,available,57.99,57.99,high,low,7,namesilo,,,30/09/2026 13:03
@@ -651,12 +747,11 @@ d2f39cc5-5386-4b27-9da9-a1a4e74a3630,communication.date,premium,310.7,51.95,high
 143fd169-7991-4b90-a8e4-dad68d0b2b03,telecom.cn,resell,,,high,low,7,厦门易名科技股份有限公司,,,30/09/2026 13:03
 b23d9f60-38a3-4b60-a6bc-1206a535edfc,communication.education,available,28.15,28.15,high,low,13,spaceship,,,18/10/2026 02:18
 270089f0-f10b-4ec4-a037-fb6a5dd5e42c,network.giving,available,,,high,medium,7,,,,23/10/2026 09:49
-613c311f-d43d-4a84-ac4c-18d1395a3cdf,internet.fishing,premium,242,29.5,high,high,8,namesilo,,,26/10/2026 12:25
+613c311f-d43d-4a84-ac4c-18d1395a3cdf,internet.fishing,premium,218.86,27.82,high,high,8,porkbun,,,27/10/2026 22:12
 9cd7347c-c02e-4f7c-bad3-3b77794b8dff,telecom.schule,available,28.99,28.99,high,low,7,namesilo,,,30/09/2026 13:03
 60588092-38c1-442f-a6cc-74fcc170534a,telecom.life,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",18/03/2024 15:15,18/03/2027 15:15,30/09/2026 13:03
 c461ce9d-611f-43af-b2c3-c3407a98974c,telecom.observer,premium,20.9,20.9,high,low,7,spaceship,,,30/09/2026 13:03
 520bee41-e11a-4513-8a72-6bde18e3cb0a,telecom.green,premium,108.9,108.9,high,low,7,dynadot,,,30/09/2026 13:03
-dd008389-4d9a-4c0c-b052-48bc6e0e3a4b,network.broker,premium,5175.2,5175.2,high,medium,7,spaceship,,,22/10/2026 18:00
 485b7882-254c-46ca-a8c3-532d36666637,telecom.ski,available,27.99,64.99,high,low,7,namesilo,,,30/09/2026 13:03
 3d915073-57dd-49e5-80ad-900b97aec20f,communication.clinic,available,10.55,51.95,high,low,13,spaceship,,,18/10/2026 02:18
 4e98458f-e767-4563-ac61-ec801fef6d7e,telecom.rehab,available,29.18,29.18,high,low,7,spaceship,,,30/09/2026 13:03
@@ -666,44 +761,34 @@ dd008389-4d9a-4c0c-b052-48bc6e0e3a4b,network.broker,premium,5175.2,5175.2,high,m
 b4b0e48e-4dfd-4cee-8cb9-9a0c504a05ea,network.party,available,,,high,medium,7,,,,23/10/2026 09:49
 fec654f9-e705-4155-a29b-d073a07c4d87,telecom.casino,available,6.41,129.58,high,low,7,spaceship,,,30/09/2026 13:03
 8df1215b-5976-43ff-82a6-ebebfa162afb,telecom.rent,available,10.3,52.01,high,low,7,porkbun,,,30/09/2026 13:03
-fb90e735-e760-47fe-a429-5e0c4c09ef93,internet.online,premium,13800,13800,high,high,8,namesilo,,,26/10/2026 12:25
-3400e83d-87ba-4c53-863b-6cecce2522d8,network.win,premium,455,65,high,medium,7,namecheap,,,22/10/2026 18:00
 6c03d814-a2d8-420f-84bb-debe69e4d23e,communication.makeup,available,1.24,13.97,high,low,13,spaceship,,,18/10/2026 02:18
-b5da4a67-8b3e-424f-baaf-95fa6db4d661,internet.charity,available,6.41,22.39,high,high,8,spaceship,,,26/10/2026 12:25
+b5da4a67-8b3e-424f-baaf-95fa6db4d661,internet.charity,available,14.99,23.99,high,high,8,namesilo,,,27/10/2026 22:12
 9ae0679b-a327-4651-ba25-df43b22cc43c,communication.id,resell,,,high,low,13,PT Core Mediatech,09/03/2016 17:29,09/03/2027 23:59,18/10/2026 02:18
 e78cc337-7279-4f97-92b4-5290f0ad4608,network.software,available,,,high,medium,7,,,,23/10/2026 09:49
-c1fe5c77-93c0-4769-a510-ff432fe9ac2a,network.courses,premium,116,116,high,medium,7,namesilo,,,22/10/2026 18:00
-f2db4d09-1ab5-4148-ba41-9df486e4f933,internet.engineer,premium,1107,1107,high,high,8,namesilo,,,26/10/2026 12:25
-21b057da-a6ab-412c-82cb-935d906d82a9,internet.press,premium,6900,6900,high,high,8,namesilo,,,26/10/2026 12:25
+fb90e735-e760-47fe-a429-5e0c4c09ef93,internet.online,premium,3250,13000,high,high,8,namecheap,,,27/10/2026 22:12
+21b057da-a6ab-412c-82cb-935d906d82a9,internet.press,premium,2587.7,5175.2,high,high,8,spaceship,,,27/10/2026 22:12
 1c7d1ec5-1402-4d7c-834e-764346f8ec3e,telecom.blog,premium,650,2600,high,low,7,namecheap,,,30/09/2026 13:03
 77fb8a44-c642-408d-aa04-bfe84003596d,telecom.adult,available,51.95,98.53,high,low,7,spaceship,,,30/09/2026 13:03
-af9cbe5d-6e2e-4ae4-b2cd-f7ac544b396c,network.voyage,available,61.98,73.98,high,medium,7,namecheap,,,22/10/2026 18:00
 d4c7d67b-c887-4863-adfd-7dc28969c8d8,communication.one,premium,517.7,517.7,high,low,13,spaceship,,,18/10/2026 02:18
 63c8ba34-d20b-43bb-92b3-ba8f24c7be4c,telecom.press,premium,325,650,high,low,7,namecheap,,,30/09/2026 13:03
 ea5ab15f-e5f6-4517-adad-d5d8c15a476e,telecom.gripe,available,5.2,5.2,high,low,7,cloudflare,,,30/09/2026 13:03
+f2db4d09-1ab5-4148-ba41-9df486e4f933,internet.engineer,premium,1100,1100,high,high,8,dynadot,,,27/10/2026 22:12
 5166d8b9-21ab-471d-986e-c8307cf7119c,communication.fail,available,45.48,56.48,high,low,13,namecheap,,,18/10/2026 02:18
 e6e3bc60-14cc-43cf-a4c9-85e8b2c43134,communication.bet,available,20.2,20.2,high,low,13,cloudflare,,,18/10/2026 02:18
-4a3e4ab6-c0ed-4ea1-bb39-547cb8e6fc18,network.reisen,available,16.76,16.76,high,medium,7,spaceship,,,22/10/2026 18:00
-1c8650fa-37e8-4d4a-86cb-2027d7157fc1,network.casino,resell,,,high,medium,7,Dynadot Inc,23/09/2026 22:27,23/09/2027 22:27,22/10/2026 18:00
+5301b4e6-8849-4e4e-9122-8c615282f54d,internet.site,premium,13800,13800,high,high,8,namesilo,,,27/10/2026 22:12
 752f3c88-0d86-4dfb-817f-1cc2c3100c8a,communication.cooking,available,32.49,32.49,high,low,13,namesilo,,,18/10/2026 02:18
 4a1a2a23-fd3d-424d-830c-3e3e52e2e6fd,telecom.pink,available,20.2,20.2,high,low,7,cloudflare,,,30/09/2026 13:03
-e32b12c1-4656-4d35-8621-c8e5793e7b73,internet.courses,premium,1035.2,1035.2,high,high,8,spaceship,,,26/10/2026 12:25
-1d0ba4b8-0e0c-4112-8b89-94f5b6ff1571,internet.diet,available,93.35,103.4,high,high,8,spaceship,,,26/10/2026 12:25
+1d0ba4b8-0e0c-4112-8b89-94f5b6ff1571,internet.diet,available,104.99,114.99,high,high,8,namesilo,,,27/10/2026 22:12
 547fae99-5696-4827-85d0-241656e385f4,communication.kaufen,available,5.99,26.99,high,low,13,namesilo,,,18/10/2026 02:18
 d09c4e5f-59fb-4bdc-9e8d-8a2c7c894bd0,communication.xyz,resell,,,high,low,13,"GoDaddy.com, LLC",02/06/2014 16:34,02/06/2027 23:59,18/10/2026 02:18
-be7a98ab-39d7-474a-8561-72b3284ca5ac,network.money,available,,,high,medium,7,,,,23/10/2026 09:49
-cca7a8b6-878e-4b05-8b16-f99a1e240d82,network.gifts,available,29.18,29.18,high,medium,7,spaceship,,,22/10/2026 18:00
-f5a5f64b-9c0d-40e7-a032-cc8fb2f372a2,network.photography,available,13.5,29.18,high,medium,7,unstoppable,,,22/10/2026 18:00
-22ce25aa-6a39-4a2b-b61a-29b24e4049db,internet.london,premium,1164.96,29.64,high,high,8,porkbun,,,26/10/2026 12:25
+e32b12c1-4656-4d35-8621-c8e5793e7b73,internet.courses,premium,1092.18,1092.18,high,high,8,porkbun,,,27/10/2026 22:12
+22ce25aa-6a39-4a2b-b61a-29b24e4049db,internet.london,premium,1419.85,31.49,high,high,8,namesilo,,,27/10/2026 22:12
 8c9bfed9-d315-4e3b-a712-d24af76c6c00,communication.direct,premium,102.67,102.67,high,low,13,spaceship,,,18/10/2026 02:18
 ae67064e-1096-44f6-84bc-c2f778cec09a,telecom.loan,premium,116,29.5,high,low,7,namesilo,,,30/09/2026 13:03
 02998eb6-4eff-416a-9c20-954078064aba,telecom.osaka,available,32.98,41.98,high,low,7,namecheap,,,30/09/2026 13:03
 7249973c-b26d-40ae-91af-1ed4ec190ba6,communication.maison,available,44.2,44.2,high,low,13,cloudflare,,,18/10/2026 02:18
 a450ece1-b163-44f3-b452-234cb7d5a506,communication.flights,available,58.99,58.99,high,low,13,namesilo,,,18/10/2026 02:18
-b0ba0e38-1950-43c6-8858-d5af4a6c545a,network.college,premium,517.7,517.7,high,medium,7,spaceship,,,22/10/2026 18:00
-08fba6bb-4ba1-498d-9d55-da1c82dcdd5e,network.training,resell,,,high,medium,7,"Spaceship, Inc.",15/12/2022 17:02,15/12/2026 17:02,22/10/2026 18:00
 a1bea9c4-3c5f-4f2b-97c8-20a0905e2fd0,communication.boo,premium,129.2,167.7,high,low,13,unstoppable,,,18/10/2026 02:18
-e2722c6e-e7d4-496f-a50b-30281a4e9d7e,network.prof,premium,709.01,709.01,high,medium,7,porkbun,,,22/10/2026 18:00
 7eb54081-dacc-4cac-9c4b-e504b910e84b,telecom.moi,available,25.99,25.99,high,low,7,namesilo,,,30/09/2026 13:03
 a78c2049-e878-4488-88a9-2706dfc39008,communication.boats,available,1.99,17.29,high,low,13,namesilo,,,18/10/2026 02:18
 60c4f0cc-8bba-453e-b1c3-8b215944b1f6,communication.moi,available,27,25.99,high,low,13,unstoppable,,,18/10/2026 02:18
@@ -719,38 +804,33 @@ eb601243-43cb-48fe-a9af-15dd545edb98,telecom.plumbing,available,72.99,72.99,high
 690eba10-fa83-4985-8976-f285df7d2aa4,communication.eco,premium,3850,61.74,high,low,13,dynadot,,,18/10/2026 02:18
 24c9c6f8-882d-4b22-a4a3-e4deccb24593,communication.cc,resell,,,high,low,13,"Global Domains International, Inc. DBA DomainCostClub.com",26/08/2010 16:31,26/08/2027 16:31,18/10/2026 02:18
 55a272f9-884c-48e6-aaaf-963e3d5db462,telecom.lawyer,premium,3900,3900,high,low,7,namecheap,,,30/09/2026 13:03
-868b49c0-557d-4ee3-be2e-ebcfea892ef2,network.eco,premium,3622.7,59.71,high,medium,7,spaceship,,,22/10/2026 18:00
 fbf165ed-f828-486c-9d19-c02fd5864452,communication.fit,resell,,,high,low,13,"Spaceship, Inc.",19/08/2026 00:01,19/08/2027 00:01,18/10/2026 02:18
 f3ef24de-0165-4bc8-876a-a629c6661026,communication.vodka,available,32.49,32.49,high,low,13,namesilo,,,18/10/2026 02:18
-89302d74-d3ed-456d-b1fe-61a7756e6e50,internet.viajes,premium,512,512,high,high,8,namesilo,,,26/10/2026 12:25
-c1f02c64-53c5-4ebc-9cb8-0636068ed5cb,internet.fans,premium,,,high,high,8,Registrar of Domain Names REG.RU LLC,22/03/2026 01:34,22/03/2027 23:59,26/10/2026 12:25
 6b75e234-4ddd-4a2d-b718-c849ee9af1be,telecom.ltda,available,30.18,30.18,high,low,7,dynadot,,,30/09/2026 13:03
 1a74b068-b48c-4547-aa21-a1863e4cd0c5,telecom.place,available,17.8,17.8,high,low,7,spaceship,,,30/09/2026 13:03
 4a1dcb0d-a958-4454-baac-646fa4a62573,communication.skin,available,1.99,17.29,high,low,13,namesilo,,,18/10/2026 02:18
-5814e4b3-4e19-4074-966b-173c5725a4c1,internet.auction,premium,440,440,high,high,8,dynadot,,,26/10/2026 12:25
 3d439d56-0ecc-4eab-a163-646def7aba38,communication.xxx,available,53.72,101.87,high,low,13,dynadot,,,18/10/2026 02:18
 933db2e4-f322-4e48-94a2-d20c2ba5e18c,communication.black,available,27.99,64.99,high,low,13,namesilo,,,18/10/2026 02:18
-c44b4dec-af28-4e5a-9565-84fdc3d97414,network.osaka,available,,,high,medium,7,,,,23/10/2026 09:49
+89302d74-d3ed-456d-b1fe-61a7756e6e50,internet.viajes,premium,512,512,high,high,8,namesilo,,,27/10/2026 22:12
 284bdefa-1958-4962-884f-1cd62464c1db,communication.archi,available,19.99,103.99,high,low,13,namesilo,,,18/10/2026 02:18
 18fd558e-ad85-4b55-81bb-edfd677d1389,communication.bid,premium,3450,116,high,low,13,namesilo,,,18/10/2026 02:18
 0c01c915-11f3-4504-8c18-64687825673e,telecom.gallery,available,28.99,28.99,high,low,7,namesilo,,,30/09/2026 13:03
-789a90b5-9e35-45c9-8f7f-7cfb70713b03,internet.car,available,1999.99,2199,high,high,8,namesilo,,,26/10/2026 12:25
+5814e4b3-4e19-4074-966b-173c5725a4c1,internet.auction,premium,414.2,414.2,high,high,8,spaceship,,,27/10/2026 22:12
 a71d3580-e9a6-417d-bed3-f75344070fe1,telecom.credit,available,80.2,80.2,high,low,7,cloudflare,,,30/09/2026 13:03
 a9120f30-8048-4a1d-96ba-08d0cbbebf77,communication.exposed,available,22.49,22.49,high,low,13,namesilo,,,18/10/2026 02:18
 fb825171-5075-4313-9170-2700d43c3755,communication.audio,available,100.2,100.2,high,low,13,cloudflare,,,18/10/2026 02:18
-21f8c050-b6fe-4952-a832-7710407b56a3,internet.lgbt,premium,3105.2,3105.2,high,high,8,spaceship,,,26/10/2026 12:25
 fda15535-4db1-432d-9929-f66fe3ed9bdf,communication.tech,premium,258.95,1035.2,high,low,13,spaceship,,,18/10/2026 02:18
 afc323c3-b81d-4387-8681-30fe8d42e18f,telecom.mba,available,10.55,31.25,high,low,7,spaceship,,,30/09/2026 13:03
 989bd5dc-11d4-496d-a10c-a83af6627867,communication.marketing,premium,118.8,118.8,high,low,13,namesilo,,,18/10/2026 02:18
 9c82567d-6bfc-4f87-b5ad-2fc831f28141,communication.uno,premium,1107,1107,high,low,13,namesilo,,,18/10/2026 02:18
 834a6ee7-c8b6-4e84-a921-c68d48e08298,telecom.industries,premium,118.8,118.8,high,low,7,namesilo,,,30/09/2026 13:03
+789a90b5-9e35-45c9-8f7f-7cfb70713b03,internet.car,available,1999.99,2199,high,high,8,namesilo,,,27/10/2026 22:12
 2da69bcf-188e-408b-8d52-923fec2ac81c,telecom.biz,resell,,,high,low,7,"GoDaddy.com, LLC",27/03/2002 03:34,26/03/2027 23:59,30/09/2026 13:03
 cf9358e6-4ffc-4025-90bf-66cb8df76200,telecom.shop,premium,3125,,high,low,7,name.com,,,30/09/2026 13:03
 fc5769fb-63be-4dee-827d-b7977ee10601,telecom.florist,available,26.08,26.08,high,low,7,spaceship,,,30/09/2026 13:03
-2f33ed84-1e96-4cde-9dd4-f40075b9b58c,network.nyc,available,,,high,medium,7,,,,23/10/2026 09:49
+21f8c050-b6fe-4952-a832-7710407b56a3,internet.lgbt,premium,4140,4140,high,high,8,namesilo,,,27/10/2026 22:12
 76e4adfb-317f-4ea8-95f9-df42b0c3e7d6,telecom.jetzt,available,23.99,23.99,high,low,7,namesilo,,,30/09/2026 13:03
 70db4878-0a36-42ea-8156-b7f61310effa,communication.rent,available,45.2,45.2,high,low,13,cloudflare,,,18/10/2026 02:18
-c8ea7152-97d0-4bdb-b73d-aead4ddb1412,internet.beauty,premium,2070.2,2070.2,high,high,8,spaceship,,,26/10/2026 12:25
 9e30a54d-8206-4d65-8434-2bc5648faf67,telecom.hamburg,available,69.98,73.98,high,low,7,namecheap,,,30/09/2026 13:03
 e0c7ebd6-1816-44ee-93d2-408912bb5f22,communication.online,premium,258.95,1035.2,high,low,13,spaceship,,,21/10/2026 05:30
 e1020cd9-4c3f-4d76-8eea-479499db7289,telecom.coach,available,10.55,62.3,high,low,7,spaceship,,,30/09/2026 13:03
@@ -759,21 +839,19 @@ dddf3968-88b6-49cc-aea9-7d4281c77195,telecom.immo,available,34.99,34.99,high,low
 1549624a-9732-4225-8e03-e4f7546649ee,telecom.supplies,available,20.55,20.55,high,low,7,dynadot,,,30/09/2026 13:03
 0f8d1962-1bec-446a-bfe8-93fe2010c21f,communication.baby,available,17.99,54.99,high,low,13,namesilo,,,18/10/2026 02:18
 073c8b41-ed85-45a9-baab-245aa46bd87e,communication.accountant,premium,448,53.92,high,low,13,namesilo,,,18/10/2026 02:18
-8461ce5f-8302-4b0a-87b6-b5cd039907f8,internet.maison,premium,118.8,118.8,high,high,8,namesilo,,,26/10/2026 12:25
+c8ea7152-97d0-4bdb-b73d-aead4ddb1412,internet.beauty,premium,2660,2660,high,high,8,namesilo,,,27/10/2026 22:12
 acde1f80-6c6f-4386-b337-18e7dbdba5d1,connectivity.so,available,68.98,,high,low,12,namecheap,,,
 78697b4e-6449-45f8-9a2a-a1c94104cef5,telecom.giving,available,7.48,35.98,high,low,7,namecheap,,,30/09/2026 13:03
 aa254043-849e-4175-9a62-eb5dea73967e,telecom.webcam,available,10.53,10.53,high,low,7,spaceship,,,30/09/2026 13:03
-07d24435-490f-46bc-bfd8-36d243be7eae,network.tube,available,,,high,medium,7,,,,23/10/2026 09:49
 24fe6584-f167-486a-a3a1-00ba2caadb28,telecom.qpon,premium,550,21.94,high,low,7,dynadot,,,30/09/2026 13:03
 78746115-1121-4d17-9907-f174a6b42777,telecom.kids,available,6.79,19.99,high,low,7,namesilo,,,30/09/2026 13:03
 29c83a8c-3590-437b-b2bf-d6a8809c61e1,communication.fun,premium,687.5,2750,high,low,13,dynadot,,,18/10/2026 02:18
 e7ae690a-e644-436f-bd34-20af28365106,communication.coupons,available,5.99,54.99,high,low,13,namesilo,,,18/10/2026 02:18
 03cd5862-6237-4c4e-8750-cf1cd2f822da,telecom.actor,available,16.99,44.49,high,low,7,namesilo,,,30/09/2026 13:03
 ace07ce8-0853-4986-b128-0c6d48f1cfd3,telecom.financial,available,15.73,46.78,high,low,7,spaceship,,,30/09/2026 13:03
-c125b5ff-fd99-4e87-b1c3-57cfd4e9c298,internet.builders,premium,85.8,85.8,high,high,8,namecheap,,,26/10/2026 12:25
+8461ce5f-8302-4b0a-87b6-b5cd039907f8,internet.maison,premium,102.67,102.67,high,high,8,spaceship,,,27/10/2026 22:12
 b9f264b8-24d0-44d1-94b2-9770d6a02d36,telecom.mov,premium,133.72,133.72,high,low,7,spaceship,,,30/09/2026 13:03
 3a821cba-9044-4d20-ac63-39a7e5b5e7f9,communication.rsvp,premium,133.72,133.72,high,low,13,spaceship,,,18/10/2026 02:18
-38ff4ee7-2ea9-4440-a165-7b9aba2918e3,internet.moi,premium,1107,1107,high,high,8,namesilo,,,26/10/2026 12:25
 01002fde-5d4f-40f6-9d11-348e9dfb9181,telecom.cars,available,2070,2950,high,low,7,namecheap,,,30/09/2026 13:03
 c40f7e7b-fe80-4f0c-bd1e-85cf8c362023,telecom.hiv,available,184.9,184.9,high,low,7,spaceship,,,30/09/2026 13:03
 a1587d3c-cef9-495c-81bf-e5116c7ea92b,telecom.memorial,available,40.2,40.2,high,low,7,cloudflare,,,30/09/2026 13:03
@@ -782,9 +860,10 @@ a1587d3c-cef9-495c-81bf-e5116c7ea92b,telecom.memorial,available,40.2,40.2,high,l
 5bf5caa3-cf15-4ca0-8ce1-fd08aef2788b,telecom.cc,resell,,,high,low,7,"GoDaddy.com, LLC",13/06/2002 04:00,13/06/2027 04:00,30/09/2026 13:03
 23ae8d29-e3d2-41c0-8929-5db0a5820d4e,communication.family,premium,118.8,118.8,high,low,13,namesilo,,,18/10/2026 02:18
 dbede6c7-330b-4cd7-a1dd-5c9b556afd93,telecom.download,premium,455,65,high,low,7,namecheap,,,30/09/2026 13:03
+c125b5ff-fd99-4e87-b1c3-57cfd4e9c298,internet.builders,premium,78.54,78.54,high,high,8,namesilo,,,27/10/2026 22:12
+38ff4ee7-2ea9-4440-a165-7b9aba2918e3,internet.moi,premium,1107,1107,high,high,8,namesilo,,,27/10/2026 22:12
 7f5c55b6-414d-466b-aae8-9e703badc27a,telecom.rentals,available,6.41,35.39,high,low,7,spaceship,,,30/09/2026 13:03
 174c2f2b-bb98-400e-8db8-4e0018e64c1e,telecom.maison,available,45.74,45.74,high,low,7,spaceship,,,30/09/2026 13:03
-a249baad-febe-4bc3-8f11-c0c0a0e02076,internet.actor,premium,828.2,828.2,high,high,8,spaceship,,,26/10/2026 12:25
 fcfea595-22f6-4bab-822b-dd3e9b010856,communication.events,available,9.52,36.43,high,low,13,spaceship,,,18/10/2026 02:18
 01114da8-6232-48f1-b0ec-1c499c6ef2f5,telecom.navy,available,41.99,41.99,high,low,7,namesilo,,,30/09/2026 13:03
 f81f9e27-0011-49f4-98c2-067135b4f882,communication.how,premium,39.2,42.9,high,low,13,unstoppable,,,18/10/2026 02:18
@@ -792,8 +871,8 @@ f81f9e27-0011-49f4-98c2-067135b4f882,communication.how,premium,39.2,42.9,high,lo
 13e1fe1a-145b-46e6-810f-4257d48929c5,communication.country,available,2064.2,2064.2,high,low,13,spaceship,,,18/10/2026 02:18
 f21542ba-5688-4562-be59-ffc0f356497f,telecom.plus,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",14/07/2026 15:16,14/07/2027 15:16,30/09/2026 13:03
 c1c8aee1-939f-40cf-aea9-f0939b866e0d,communication.claims,available,17.99,64.99,high,low,13,namesilo,,,18/10/2026 02:18
+a249baad-febe-4bc3-8f11-c0c0a0e02076,internet.actor,premium,828.2,828.2,high,high,8,spaceship,,,27/10/2026 22:12
 0ffd812f-d12c-472f-b1ea-0712bca2d8bc,telecom.car,available,1863.2,2064.2,high,low,7,spaceship,,,30/09/2026 13:03
-1b872485-47df-4600-8fc6-04deb022dd17,telecom.site,premium,1293.95,5175.2,high,low,7,spaceship,,,30/09/2026 13:03
 6464e597-6f80-422b-b16d-d1738954d32e,communication.army,available,18.99,39.99,high,low,13,namesilo,,,18/10/2026 02:18
 3ea30355-9939-4677-832d-7834b9deb8dc,telecom.vin,available,6.69,47.89,high,low,7,porkbun,,,30/09/2026 13:03
 ec56eb84-8855-4d5b-8828-696ee7cfc242,communication.webcam,available,10.53,10.53,high,low,13,spaceship,,,18/10/2026 02:18
@@ -801,14 +880,13 @@ d6ee4731-df53-4963-8aa1-9d6eb6060b6b,telecom.lease,available,56.99,56.99,high,lo
 aab79072-a9bd-44cd-b262-49ab35da2c15,communication.accountants,available,117.99,117.99,high,low,13,namesilo,,,18/10/2026 02:18
 31e949d9-7b16-4807-b273-68799627df05,telecom.vet,premium,123.75,,high,low,7,name.com,,,30/09/2026 13:03
 27d314bd-2fd7-49c2-b3db-02842e8a81d7,telecom.luxe,premium,2500,,high,low,7,name.com,,,30/09/2026 13:03
-affabfb8-bfe3-46cb-b744-c291076b5534,internet.tires,available,5.99,78.99,high,high,8,namesilo,,,26/10/2026 12:25
 217393a6-e53f-4301-9249-844d03a38f4d,communication.markets,available,15.2,15.2,high,low,13,cloudflare,,,18/10/2026 02:18
 99ec6c51-e004-4baf-9123-a83ac5db604f,communication.dad,premium,133.72,133.72,high,low,13,spaceship,,,18/10/2026 02:18
-eb6e5ba9-8eef-49ab-bfb9-3720a488ded9,internet.tienda,premium,242,242,high,high,8,namesilo,,,26/10/2026 12:25
+eb6e5ba9-8eef-49ab-bfb9-3720a488ded9,internet.tienda,premium,242,242,high,high,8,namesilo,,,27/10/2026 22:12
 0b1b4354-24f0-4a73-9c37-904ae1cd8a5a,telecom.prof,premium,164.77,164.77,high,low,7,spaceship,,,30/09/2026 13:03
 161f7ad8-827b-4408-8165-285d658aad88,communication.casino,available,6.41,129.58,high,low,13,spaceship,,,18/10/2026 02:18
 082c4164-d62c-4564-83cd-f5f352109dbd,telecom.hockey,available,46.2,46.2,high,low,7,cloudflare,,,30/09/2026 13:03
-fddedf4a-3019-4f67-aa45-e7ae4babf20c,internet.realty,premium,724.7,1035.2,high,high,8,spaceship,,,26/10/2026 12:25
+affabfb8-bfe3-46cb-b744-c291076b5534,internet.tires,available,72.44,72.44,high,high,8,spaceship,,,27/10/2026 22:12
 039b173d-05c9-4218-b953-8084465686df,telecom.security,available,1863.2,2000.18,high,low,7,spaceship,,,30/09/2026 13:03
 8361e31f-8cba-4e60-811c-387f2f34e7b2,communication.cab,available,32.99,32.99,high,low,13,namesilo,,,18/10/2026 02:18
 1563afd9-8081-499d-89a4-8ef5f5d14dd9,communication.shiksha,available,11.98,69.98,high,low,13,namecheap,,,18/10/2026 02:18
@@ -818,184 +896,106 @@ b4a203f9-d2bd-4049-92c3-b1af12c0551a,telecom.help,premium,83.3,116,high,low,7,na
 92047202-bbb5-4659-852d-d56ef635743a,communication.tv,resell,,,high,low,13,Dynadot Inc,18/03/2010 21:31,18/03/2027 21:31,18/10/2026 02:18
 8328baac-3c16-48c8-baed-49bcdf8c8135,telecom.realty,available,109.99,299,high,low,7,namesilo,,,30/09/2026 13:03
 0e8af42b-f10b-43db-9743-17c8a2b54208,communication.melbourne,available,58,58,high,low,13,namesilo,,,18/10/2026 02:18
-523e3c6c-699c-436e-ba59-a4f6657c22c0,internet.investments,premium,207.2,207.2,high,high,8,spaceship,,,26/10/2026 12:25
+523e3c6c-699c-436e-ba59-a4f6657c22c0,internet.investments,premium,242,242,high,high,8,namesilo,,,27/10/2026 22:12
+fddedf4a-3019-4f67-aa45-e7ae4babf20c,internet.realty,premium,724.7,1035.2,high,high,8,spaceship,,,27/10/2026 22:12
+17a105d1-43c8-4962-9b4b-e360d2dc8768,internet.health,premium,,,high,high,8,Porkbun,23/06/2026 05:06,23/06/2027 05:06,27/10/2026 22:12
 61ce1db0-91fe-44b7-a6e6-15cd24d088bb,telecom.claims,available,50.2,50.2,high,low,7,cloudflare,,,30/09/2026 13:03
-b3d3c8a8-a2f8-4a6e-999a-faf82ed421eb,internet.family,premium,1107,1107,high,high,8,namesilo,,,26/10/2026 12:25
 4704deb0-b07d-441e-a8f6-0146c7b4249a,telecom.gives,available,6.41,22.39,high,low,7,spaceship,,,30/09/2026 13:03
 8c1a3726-f10a-485a-86df-a37c64b94d67,telecom.direct,available,13.14,33.32,high,low,7,spaceship,,,30/09/2026 13:03
 a920b6d6-561f-496e-a45c-0f03c8deb09e,communication.email,resell,,,high,low,13,"DNSPod, Inc.",17/04/2024 15:15,17/04/2027 15:15,18/10/2026 02:18
-63ee2252-5cc6-448e-a115-92fe47af643c,internet.clinic,premium,,,high,high,8,Squarespace Domains II LLC,13/03/2026 16:28,13/03/2027 16:28,26/10/2026 12:25
 5271a2ed-06b2-4aee-bd92-0926a89e446e,telecom.studio,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",01/03/2017 14:02,01/03/2027 14:02,30/09/2026 13:03
 a840a52e-6820-4d09-a877-ae47693f0045,telecom.bargains,available,23.2,23.2,high,low,7,cloudflare,,,30/09/2026 13:03
 a251685a-528b-4dec-918a-4cbb7b9d76cc,telecom.foundation,available,11.99,23.01,high,low,7,dynadot,,,30/09/2026 13:03
 c128e4a5-9306-43a9-8143-65c4b7b240e1,wireless.tel,resell,,,high,medium,8,"Name.com, Inc.",27/10/2016 14:04,26/10/2027 23:59,22/10/2026 18:54
+75398d9b-a1d5-422d-80e3-74f336060e9a,wireless.desi,available,19.98,22.98,high,low,8,namecheap,,,27/09/2026 09:37
 b06008b8-d0bc-4d0e-8d0f-7c0c158b38b6,communication.lgbt,premium,640,640,high,low,13,namesilo,,,18/10/2026 02:18
-181ab14f-6ebc-49ce-81aa-021fa9b0e1ec,internet.industries,premium,,,high,high,8,Dynadot Inc,31/03/2026 09:25,31/03/2027 09:25,26/10/2026 12:25
-96a02f43-82e7-4377-a2bb-f7f58c2df864,internet.pictures,premium,242,242,high,high,8,namesilo,,,26/10/2026 12:25
-e4e36eb9-7685-4ac1-89ea-15576ce65e79,internet.love,premium,2898.2,4140.2,high,high,8,spaceship,,,26/10/2026 12:25
+b3d3c8a8-a2f8-4a6e-999a-faf82ed421eb,internet.family,premium,1107,1107,high,high,8,namesilo,,,27/10/2026 22:12
 99afc6a5-3b84-4fb4-9379-40f787f64071,telecom.garden,available,2.19,32.49,high,low,7,namesilo,,,30/09/2026 13:03
+9fbcfc46-4111-447d-add5-2b2037102db6,wireless.zone,premium,85.8,85.8,high,medium,8,namecheap,,,22/10/2026 18:54
 36b03272-f7fe-4f07-a401-45ffcbf5319d,communication.tennis,available,89.99,89.99,high,low,13,namesilo,,,18/10/2026 02:18
 b82b227c-e4f6-4196-869c-5560fb77b733,telecom.broker,available,28.2,28.2,high,low,7,cloudflare,,,30/09/2026 13:03
 b46f1b69-f0c5-4320-ba33-ea3e29a89069,communication.diy,available,4.99,32.32,high,low,13,dynadot,,,18/10/2026 02:18
+ded27121-1f9d-4127-9f2f-3ca17eb282b3,connect.so,resell,,,high,medium,7,NameCheap,05/07/2021 05:03,05/07/2026 05:03,
+96a02f43-82e7-4377-a2bb-f7f58c2df864,internet.pictures,premium,242,242,high,high,8,namesilo,,,27/10/2026 22:12
+e4e36eb9-7685-4ac1-89ea-15576ce65e79,internet.love,premium,3080,4400,high,high,8,dynadot,,,27/10/2026 22:12
 24e4d40f-e4de-4a63-a00c-58069db12ab4,communication.miami,premium,207.2,18.83,high,low,13,spaceship,,,18/10/2026 02:18
-5a0c6d0d-8f1e-4c7c-934a-fc298428e1e4,internet.sexy,available,2675.22,2675.22,high,high,8,dynadot,,,26/10/2026 12:25
+8c4def76-503e-4162-8bd9-b3dcd3dbfa3a,connectivity.soy,available,24.5,19.05,high,low,12,unstoppable,,,08/10/2026 09:37
 335e9191-bf44-4c0d-9995-c5b2d4140da0,telecom.boo,premium,133.72,133.72,high,low,7,spaceship,,,30/09/2026 13:03
-270eaddf-b33d-45e4-bc63-1444b3e2a9a9,internet.makeup,premium,2660,2660,high,high,8,namesilo,,,26/10/2026 12:25
+044653cf-27c9-4fbe-8475-a63f3565ca38,networks.online,premium,,,high,medium,8,"NameCheap, Inc.",17/09/2024 11:07,17/09/2027 23:59,26/10/2026 06:10
 f2bc1fe0-6baa-4a23-ae61-575ffe911b45,communication.mx,available,39.99,43.99,high,low,13,namesilo,,,18/10/2026 02:18
 1426aa2e-9b55-43b1-9364-979f3a94cc9d,communication.photos,available,7.96,24.01,high,low,13,spaceship,,,18/10/2026 02:18
 b4078dcf-1cec-4592-b248-d17f379f3ff3,communication.builders,available,38.98,48.98,high,low,13,namecheap,,,18/10/2026 02:18
 287add90-7dcf-4d39-941a-172db2d5202e,communication.hospital,available,44.2,44.2,high,low,13,cloudflare,,,18/10/2026 02:18
 96fcb40a-273f-49e0-a14e-5d8a17396e07,communication.space,available,,,high,low,13,,,,18/10/2026 09:05
-6ab71889-6a43-42bf-aacc-9526c8325908,internet.supplies,premium,68.51,68.51,high,high,8,spaceship,,,26/10/2026 12:25
-62dfcfba-bced-43df-87b0-f023d29e24df,internet.dad,premium,648.7,648.7,high,high,8,namecheap,,,26/10/2026 12:25
 d409758b-8370-4bdb-afcb-bd4e583d13a8,communication.feedback,available,9.99,321.22,high,low,13,dynadot,,,18/10/2026 02:18
 fed44bc8-6fa2-448b-8455-aa00a47c6904,telecom.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,30/09/2026 13:03
+5a0c6d0d-8f1e-4c7c-934a-fc298428e1e4,internet.sexy,available,2675.22,2675.22,high,high,8,dynadot,,,27/10/2026 22:12
+24712902-28a9-46fd-8089-97e935c5e313,wireless.bar,premium,326.23,465.95,high,medium,8,spaceship,,,22/10/2026 18:54
+270eaddf-b33d-45e4-bc63-1444b3e2a9a9,internet.makeup,premium,2070.2,2070.2,high,high,8,spaceship,,,27/10/2026 22:12
 0d2d0711-ba75-4f39-b31a-1c64be2c5e1c,communication.food,available,5.49,39.99,high,low,13,namesilo,,,18/10/2026 02:18
+7b576c20-3693-4513-88d0-21f4bd7c785c,wireless.care,resell,29.99,,high,medium,8,Dynadot Inc,07/09/2026 15:38,07/09/2027 15:38,22/10/2026 18:54
 c792cb0f-7093-403c-9620-9bd5d8d959cb,telecom.wine,available,9.99,59.99,high,low,7,namesilo,,,30/09/2026 13:03
 8dcc73a2-b792-4943-b78c-1a22a4fcdfd7,communication.software,premium,512,512,high,low,13,namesilo,,,18/10/2026 02:18
 9c563820-da07-4e83-8ef5-20e945f66cf4,communication.horse,available,32.49,32.49,high,low,13,namesilo,,,18/10/2026 02:18
 eb9c7c56-b754-4934-8164-4baabef36237,telecom.shoes,available,50.2,50.2,high,low,7,cloudflare,,,30/09/2026 13:03
 175a8ac8-ca54-4421-8daa-0dfd3b8bdc17,communication.bz,available,18.88,18.88,high,low,13,dynadot,,,18/10/2026 02:18
-5b77786d-5910-42ba-8489-c5985771715e,internet.bot,premium,5175.2,5175.2,high,high,8,spaceship,,,26/10/2026 12:25
+6ab71889-6a43-42bf-aacc-9526c8325908,internet.supplies,premium,78.54,78.54,high,high,8,namesilo,,,27/10/2026 22:12
+b5ccc92c-6896-4d5c-b5c4-460abc54d938,wireless.news,premium,1000.5,1035.2,high,medium,8,unstoppable,,,22/10/2026 18:54
+83be5b3d-9bc9-407d-9409-0949726b66b4,connectivity.ninja,available,11.98,47.98,high,low,12,namecheap,,,08/10/2026 09:37
 1d8a70ee-8b28-4e5b-afbe-90d0e7f991e2,telecom.srl,available,31.99,31.99,high,low,7,namesilo,,,30/09/2026 13:03
+6d7f30e7-bccb-47ca-af44-208050ccc765,wireless.dog,available,50.2,50.2,high,medium,8,cloudflare,,,22/10/2026 18:54
 059c60ab-205b-4db9-979b-3693068d05e6,telecom.faith,premium,362.45,51.95,high,low,7,spaceship,,,30/09/2026 13:03
 237923cb-9f71-4fd4-a8dc-189fa41cc332,telecom.cafe,available,7.25,51.99,high,low,7,namesilo,,,30/09/2026 13:03
 7653b7b2-2c53-4cfd-ae31-1b3e7972a32a,telecom.earth,available,18.99,18.99,high,low,7,namesilo,,,30/09/2026 13:03
 30f3aa80-30b9-492e-bdaa-2109cae65295,communication.gallery,available,26.97,26.97,high,low,13,dynadot,,,18/10/2026 02:18
 d25595e5-2f45-4fa3-a540-c214273132ef,telecom.blackfriday,available,103.7,103.7,high,low,7,spaceship,,,30/09/2026 13:03
-d48f9e84-88e4-44cc-afb7-70c498d9b541,internet.cars,available,1999.99,2199,high,high,8,namesilo,,,26/10/2026 12:25
 32cbb689-10e8-468e-a576-319218e0f184,communication.news,premium,1107,1107,high,low,13,namesilo,,,18/10/2026 02:18
+4e817d37-32f4-437f-947e-9ba3bc978800,connectivity.link,premium,448,448,high,low,12,namesilo,,,08/10/2026 09:37
 9a3db526-69ef-4333-8f78-c9cb5b7b709b,communication.trade,premium,448,53.92,high,low,13,namesilo,,,18/10/2026 02:18
+9882127d-081d-4394-b20e-8d7c62170303,wireless.protection,available,1999.99,2049.99,high,medium,8,namesilo,,,22/10/2026 18:54
 edaada67-3490-42f7-bb29-2cd212e0117d,telecom.solar,available,67.98,81.98,high,low,7,namecheap,,,30/09/2026 13:03
+60f30540-4cfa-4263-80b5-edb02d7ab685,wireless.green,premium,517.7,517.7,high,medium,8,spaceship,,,22/10/2026 18:54
 47ea6035-34c8-4a4c-b5a6-18c646597775,telecom.holiday,available,64.99,64.99,high,low,7,namesilo,,,30/09/2026 13:03
 596b0727-1cd6-426b-bd0e-28745fd7bd19,communication.esq,premium,159.2,164.77,high,low,13,unstoppable,,,18/10/2026 02:18
+d48f9e84-88e4-44cc-afb7-70c498d9b541,internet.cars,available,1999.99,2199,high,high,8,namesilo,,,27/10/2026 22:12
 035a3969-618d-47fa-8e8e-5834599ecb38,communication.legal,available,71.99,71.99,high,low,13,namesilo,,,18/10/2026 02:18
 faf56587-c002-42a1-ac17-3c30ecc701c2,wireless.ninja,premium,854,854,high,medium,8,namesilo,,,22/10/2026 18:54
 993122a4-b037-43d4-927d-39bc7d057480,communication.moda,available,41.99,41.99,high,low,13,namesilo,,,18/10/2026 02:18
+726cddb4-2fb4-42b6-ace6-a0c7534da2aa,connectivity.ai,resell,,,high,low,12,"NameCheap, Inc.",28/04/2025 07:01,28/04/2027 07:01,08/10/2026 09:37
 4ddc5e5c-33a2-42e5-a899-e617c8f182b1,communication.estate,available,15.99,38.99,high,low,13,namesilo,,,18/10/2026 02:18
-f7e343f5-4d00-4d84-9306-47dc64a3ba7f,internet.store,premium,1375,5500,high,high,8,dynadot,,,26/10/2026 12:25
+6bc43559-c551-48b2-9d72-61342bc010e9,cell.online,premium,2500.2,2750,high,low,4,unstoppable,,,08/10/2026 06:20
+f7e343f5-4d00-4d84-9306-47dc64a3ba7f,internet.store,premium,6900,6900,high,high,8,namesilo,,,27/10/2026 22:12
 6a31fd34-80d0-42d0-b054-36fc998ab581,telecom.poker,available,10.99,67.99,high,low,7,namesilo,,,30/09/2026 13:03
-29b82b02-7b8f-4707-b88a-7e4085c9109e,internet.buzz,premium,2660,384,high,high,8,namesilo,,,26/10/2026 12:25
+b404a1b6-5bab-4dd9-93f8-b3327d428ddb,provider.dev,premium,843.7,843.7,high,medium,8,namecheap,,,22/10/2026 18:32
+09cf7a40-4b10-4cec-ae8d-3e23f436d4e3,signal.space,premium,647.08,2587.7,high,medium,6,spaceship,,,27/09/2026 22:11
 05a37eef-85bb-496d-99ac-fd13fc4f5561,communication.page,premium,133.72,133.72,high,low,13,spaceship,,,18/10/2026 02:18
 7b17a3a7-a145-4525-a447-5783c89792b6,telecom.style,available,16.99,38.99,high,low,7,namesilo,,,30/09/2026 13:03
 8084de72-50b6-40bf-adf1-ce2091df0e0b,telecom.phd,premium,164.77,164.77,high,low,7,spaceship,,,30/09/2026 13:03
 1e747bdd-0041-47fb-991d-6f9e47d95a25,telecom.blue,available,12.87,20.08,high,low,7,porkbun,,,30/09/2026 13:03
 d6eae859-3a7f-4b49-81a2-863ac51c544d,telecom.limo,available,54.99,54.99,high,low,7,namesilo,,,30/09/2026 13:03
-3c48dd7a-8c95-46d5-a4fd-0661ea911cfe,internet.market,premium,854,854,high,high,8,namesilo,,,26/10/2026 12:25
 42f45c77-f796-455e-8099-634c930ca3b7,communication.foo,premium,61.27,61.27,high,low,13,spaceship,,,18/10/2026 02:18
+c765b1a1-0074-4e5e-9024-df3c0b8f54ca,wireless.lifestyle,available,1.24,31.25,high,medium,8,spaceship,,,22/10/2026 18:54
 cd29b2f4-2ade-4ff0-8fc3-71b9a2b9b3fb,telecom.enterprises,available,8.48,28.15,high,low,7,spaceship,,,30/09/2026 13:03
-e506a148-91df-4ea9-8d0b-25c89eb4e516,telecom.energy,available,5.38,93.35,high,low,7,spaceship,,,30/09/2026 13:03
-63dda080-0884-4516-8778-963c64f13191,internet.condos,available,46.78,46.78,high,high,8,spaceship,,,26/10/2026 12:25
+8a0a8857-39dc-4670-ae46-0b7684f56104,wireless.associates,available,17.5,38.99,high,medium,8,unstoppable,,,22/10/2026 18:54
+29b82b02-7b8f-4707-b88a-7e4085c9109e,internet.buzz,premium,2070.2,310.7,high,high,8,spaceship,,,27/10/2026 22:12
+dd46ac6d-20d3-43e0-88ce-397663e5bac1,wireless.dentist,available,71.98,91.98,high,medium,8,namecheap,,,22/10/2026 18:54
+4117d82e-5d07-4245-ad56-bf6c785c3124,connectivity.cloud,resell,,,high,low,12,"Dynadot, LLC",23/08/2026 12:30,23/08/2027 12:30,08/10/2026 09:37
 f1ce86d0-597e-49dd-8f7d-5aa136a5cd65,telecom.accountant,premium,437.5,,high,low,7,name.com,,,30/09/2026 13:03
 72c07ca4-a2f9-4ad7-934e-30472c86f960,communication.football,available,10.92,23.76,high,low,13,dynadot,,,18/10/2026 02:18
+0d346f53-ff1b-4955-ac9c-d44d38d8c360,provider.vet,available,41.99,41.99,high,medium,8,namesilo,,,22/10/2026 18:32
 51c0c163-f260-41f0-a235-0ae86b646c5f,communication.biz,resell,,,high,low,13,"GoDaddy.com, LLC",23/05/2006 17:01,22/05/2027 23:59,18/10/2026 02:18
+2a7f0777-c7f4-49e9-b181-a81fe0044d78,internet.foo,premium,,,high,high,8,"Spaceship, Inc.",28/12/2025 15:23,28/12/2026 15:23,27/10/2026 22:12
 6ad2ce41-226a-4f80-9888-815a3cb1eccf,telecom.restaurant,available,13.06,53.72,high,low,7,dynadot,,,30/09/2026 13:03
-5468caf4-f249-4af8-a8d9-a224cf74049d,internet.phd,premium,671.92,671.92,high,high,8,spaceship,,,26/10/2026 12:25
+35016898-29b4-48c6-8211-56e1d96055f1,provider.supply,available,20.9,20.9,high,medium,8,spaceship,,,22/10/2026 18:32
+ac4681fd-15fa-44ba-9a01-86f5b183f251,wireless.school,resell,,,high,medium,8,"GoDaddy.com, LLC",03/06/2015 18:35,03/06/2027 18:35,22/10/2026 18:54
+91737378-c846-47bb-bbfb-f91b4547a8e4,provider.ngo,premium,550,275,high,medium,8,dynadot,,,22/10/2026 18:32
+3c48dd7a-8c95-46d5-a4fd-0661ea911cfe,internet.market,premium,828.2,828.2,high,high,8,spaceship,,,27/10/2026 22:12
+96124afb-3cd2-45a9-97ec-ca7f998b47b1,wireless.boutique,available,2.98,46.98,high,medium,8,namecheap,,,22/10/2026 18:54
+302e564a-a4c8-4510-91d8-f92d1f10183e,wireless.limo,available,43.67,43.67,high,medium,8,spaceship,,,22/10/2026 18:54
 a7d4db78-abee-4497-8b8a-e6afc3dffae3,communication.jetzt,available,23.99,23.99,high,low,13,namesilo,,,18/10/2026 02:18
+462d45a3-eb57-445d-8a29-9a569f809b5e,wireless.irish,available,17.2,17.2,high,medium,8,cloudflare,,,22/10/2026 18:54
 a0c7f523-11e8-4c81-8082-56c2e7314415,communication.tours,available,5.38,49.88,high,low,13,spaceship,,,18/10/2026 02:18
 b90972c7-a27f-4e1e-b880-989e5a20fa5e,communication.racing,premium,116,116,high,low,13,namesilo,,,18/10/2026 02:18
-e329fa3e-e4d9-4659-be91-07b8d1d4aebc,telecom.party,resell,,,high,low,7,Dynadot Inc,22/07/2016 14:20,21/07/2027 23:59,30/09/2026 13:03
-10187d13-5a30-45ee-9002-fcbe7fea81a3,internet.skin,premium,2600,2600,high,high,8,namecheap,,,26/10/2026 12:25
-d554f69f-6892-49dc-a6b3-a54ca56876f3,communication.dating,available,12.98,97.48,high,low,13,namecheap,,,18/10/2026 02:18
-5feb89a0-62c7-403a-8f88-0d69c25b03d1,internet.bargains,premium,,,high,high,8,Porkbun LLC,21/10/2025 05:49,21/10/2027 05:49,26/10/2026 12:25
-6f127a0d-87fb-4c01-9165-256b978210ab,telecom.voto,available,10.55,55.93,high,low,7,spaceship,,,30/09/2026 13:03
-293f846b-a0a6-488f-ab9f-303ea5fc1030,telecom.dad,premium,167.7,167.7,high,low,7,namecheap,,,30/09/2026 13:03
-27164782-d90f-4bd5-b58d-17ed8f74d3a6,telecom.hot,premium,103.7,103.7,high,low,7,spaceship,,,30/09/2026 13:03
-68d1c089-1da6-4f55-9031-2e1924b43130,telecom.gold,available,9.99,99.99,high,low,7,namesilo,,,30/09/2026 13:03
-d25cbd0e-b7cf-4e3f-a95b-162e5a3edb8e,telecom.tv,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",20/12/2014 11:06,20/12/2026 11:06,30/09/2026 13:03
-21521560-5d20-46a6-8a5d-617099aebe52,internet.sucks,premium,13800,2658.67,high,high,8,namesilo,,,26/10/2026 12:25
-45e8c24f-c43b-45d6-b7f1-3c607b9c39af,provider.autos,available,1.99,14.45,high,medium,8,dynadot,,,22/10/2026 18:32
-f7130e0f-d676-446f-9f8f-66985e2f9107,telecom.xxx,premium,256.88,256.88,high,low,7,spaceship,,,30/09/2026 13:03
-3baa016f-6c17-4549-843c-a54ee7d84b0c,communication.game,available,309.99,429.99,high,low,13,namesilo,,,18/10/2026 02:18
-a69c4742-e014-4100-b749-5c80a60e7084,telecom.pictures,available,12.62,12.62,high,low,7,spaceship,,,30/09/2026 13:03
-51506a25-7f5f-4046-9b24-d6d7d2c4b1c7,provider.supplies,available,24.99,24.99,high,medium,8,namesilo,,,22/10/2026 18:32
-4907be18-9a62-4185-b1fe-079604661f3f,communication.style,premium,66.5,68.51,high,low,13,unstoppable,,,18/10/2026 02:18
-fb8929e6-1b60-40d6-8a79-71e95c3020df,communication.forsale,premium,118.8,118.8,high,low,13,namesilo,,,18/10/2026 02:18
-96dbfa90-56e2-48d6-8bc0-09ae707735ad,communication.us,resell,,,high,low,13,Porkbun,24/04/2002 14:02,23/04/2027 23:59,18/10/2026 02:18
-7c87f2bb-7bc2-47ea-8bc7-5fad78c07631,communication.luxury,available,26,26,high,low,13,spaceship,,,18/10/2026 02:18
-52e9b0b1-2d1d-4ba7-8b21-80e0b321f530,telecom.porn,available,69.98,154.98,high,low,7,namecheap,,,30/09/2026 13:03
-fb8f9925-fb92-429b-a86c-785799f88f2d,telecom.page,premium,133.72,133.72,high,low,7,spaceship,,,30/09/2026 13:03
-9aaf1cba-76b2-46dd-befb-1965f4094e91,internet.theatre,available,500.2,500.2,high,high,8,cloudflare,,,26/10/2026 12:25
-556ef378-9cf5-4594-bbae-0f5fae98c8d8,telecom.news,premium,1107,1107,high,low,7,namesilo,,,30/09/2026 13:03
-9a6b9725-da03-4267-9d58-55f164e51db7,wireless.cfd,premium,59.71,119.23,high,medium,8,spaceship,,,22/10/2026 18:54
-7da96848-373b-4da9-96c2-f6e4a2089a0e,telecom.camera,available,58.99,58.99,high,low,7,namesilo,,,30/09/2026 13:03
-87cd545f-d759-4a42-837f-d7c902ac8ba0,internet.foundation,premium,,,high,high,8,"GoDaddy.com, LLC",01/07/2025 17:07,01/07/2027 17:07,26/10/2026 12:25
-a4c2158f-61af-4a4f-91fe-ca73213ee577,wireless.education,available,28.15,28.15,high,medium,8,spaceship,,,22/10/2026 18:54
-9f6275f5-8b90-4387-a5ed-0a4755d9e4a0,wireless.directory,available,8.5,42.48,high,medium,8,unstoppable,,,22/10/2026 18:54
-cafd2e14-4d94-4e77-bb03-499679ccef01,internet.futbol,premium,207.2,207.2,high,high,8,spaceship,,,26/10/2026 12:25
-e0f441d0-74f6-43c2-9958-5eeefb051b7b,broadband.mobi,available,,,high,low,9,,,,10/10/2026 09:23
-3fdad726-5940-4fba-b45a-e5ba30f780e4,communication.build,premium,275,275,high,low,13,dynadot,,,18/10/2026 02:18
-8371583d-2faa-4994-932d-38384a70e65c,wireless.sbs,premium,59.71,119.23,high,medium,8,spaceship,,,22/10/2026 18:54
-1dcb4ddf-6e60-47af-a445-5dd4b236980b,connectivity.tel,available,10.98,15.98,high,low,12,namecheap,,,08/10/2026 09:37
-404042c4-2adb-4995-9da5-5cd32014c77e,communication.watch,available,2.79,35.39,high,low,13,spaceship,,,18/10/2026 02:18
-5dc04c7a-b291-4c34-bf93-26d0a841b704,telecom.vana,available,2070.2,2070.2,high,low,7,spaceship,,,30/09/2026 13:03
-ddf32aff-5a3f-4442-b72e-fca236bcac05,wireless.video,premium,200.5,242,high,medium,8,unstoppable,,,22/10/2026 18:54
-f5f885c1-3f39-44ba-a1c0-b69327feb49f,communication.shop,premium,2587.7,2587.7,high,low,13,spaceship,,,18/10/2026 02:18
-ca4bb873-64da-473a-a594-18956fb2b281,telecom.travel,available,27.99,149.99,high,low,7,namesilo,,,30/09/2026 13:03
-e60b3873-7626-49e9-af69-37401a037c88,telecom.rodeo,premium,250,,high,low,7,name.com,,,30/09/2026 13:03
-d5dbf14f-d587-44e8-b4a2-3be1b25fad54,telecom.movie,available,47.99,349.99,high,low,7,namesilo,,,30/09/2026 13:03
-f2d70329-c5cf-4849-8fe2-08d81c11f426,provider.cloud,premium,517.7,1035.2,high,medium,8,spaceship,,,22/10/2026 18:32
-b002b10a-ad4b-48f6-af04-48b9c2203d12,telecom.music,premium,75.9,39.81,high,low,7,dynadot,,,30/09/2026 13:03
-4b7ede71-7d21-493c-932a-ff85a9d9fb3f,telecom.clothing,available,26.08,26.08,high,low,7,spaceship,,,30/09/2026 13:03
-1a6b24a7-673e-4198-b127-c49a45185c51,telecom.baby,available,17.99,54.99,high,low,7,namesilo,,,30/09/2026 13:03
-562c4dd1-7cd3-4a14-a3f8-6c637d3626ec,telecom.skin,available,1.24,13.97,high,low,7,spaceship,,,30/09/2026 13:03
-b2c02b48-a3be-46e4-87b4-696628350655,communication.poker,available,5.38,54.02,high,low,13,spaceship,,,18/10/2026 02:18
-643fcbf2-961d-4387-b813-5feee8022e94,wireless.lighting,available,23.99,23.99,high,medium,8,namesilo,,,22/10/2026 18:54
-dd7a3d23-52c8-4913-a06f-308cce64259c,internet.fashion,premium,,,high,high,8,"GoDaddy.com, LLC",05/01/2026 14:40,05/01/2027 14:40,26/10/2026 12:25
-60973b63-2174-47ce-99b1-a72c73e036af,communication.porn,available,95.2,95.2,high,low,13,cloudflare,,,18/10/2026 02:18
-5ae091b1-6943-45a1-80ea-958fcb0378a9,provider.co,resell,,,high,medium,8,"GoDaddy.com, LLC",20/07/2010 18:02,19/07/2027 23:59,22/10/2026 18:32
-37c6b867-b0b0-4832-a9d5-8c05e6319d8c,telecom.sex,available,101.87,101.87,high,low,7,dynadot,,,30/09/2026 13:03
-98140d0b-3860-44b8-8197-5352f5b0737e,wireless.republican,available,7.25,7.25,high,medium,8,namesilo,,,22/10/2026 18:54
-10df06cb-0c2d-498f-ba8d-1f3fc166a988,communication.properties,available,14.17,31.25,high,low,13,spaceship,,,18/10/2026 02:18
-395244b5-daaa-4a2c-a42c-e68356027d60,wireless.vote,available,34.99,90.99,high,medium,8,namesilo,,,22/10/2026 18:54
-9f9e070b-62ed-4b37-af1f-5ce7fe3f2bc8,communication.party,premium,640,77.35,high,low,13,namesilo,,,18/10/2026 02:18
-5eda6a09-7759-492c-a11f-841a0c11f385,communication.vet,available,33.32,33.32,high,low,13,spaceship,,,18/10/2026 02:18
-352d47b7-2db1-4f52-9cc6-e075315f704c,telecom.menu,available,27.99,27.99,high,low,7,namesilo,,,30/09/2026 13:03
-5d9c0c74-d998-49f2-8329-aed83fee0990,wireless.accountants,available,117.99,117.99,high,medium,8,namesilo,,,22/10/2026 18:54
-de54a62c-8609-43c7-91da-d219a75b5d96,internet.auto,available,1999.99,2199,high,high,8,namesilo,,,26/10/2026 12:25
-9e7e98be-8f34-4601-9b77-3845aba806f5,connectivity.global,available,44.5,80.47,high,low,12,unstoppable,,,08/10/2026 09:37
-32b07601-d23a-4d7f-b7a9-2218ca6cdd38,communication.social,premium,72.6,72.6,high,low,13,dynadot,,,18/10/2026 02:18
-e5eac5fe-a483-4aa0-883c-76f151e17c8a,communication.click,resell,,,high,low,13,"Dynadot, LLC",04/08/2020 00:44,04/08/2027 00:44,18/10/2026 02:18
-ac6d0fbc-967e-44bb-a504-7f559fc461d8,communication.town,available,8.99,36.49,high,low,13,namesilo,,,18/10/2026 02:18
-a640452e-fe40-4c8d-8352-bfcf08c2e50b,wireless.finance,available,50.2,50.2,high,medium,8,cloudflare,,,22/10/2026 18:54
-50a18dcc-c5ca-49d7-a413-ba9ce7467eb5,connectivity.one,resell,,,high,low,12,"NameCheap, Inc.",08/11/2024 04:33,08/11/2027 04:33,18/10/2026 06:04
-c6bec3bd-7658-4d1f-9d2b-c8d5452641f6,telecom.vacations,available,38.99,38.99,high,low,7,namesilo,,,30/09/2026 13:03
-14810baa-b44e-454e-adb2-26cfcd7b8d86,telecom.tires,available,72.44,72.44,high,low,7,spaceship,,,30/09/2026 13:03
-3d1891a4-9906-4f22-9c6d-127a6aea079c,internet.film,premium,1300,1300,high,high,8,namecheap,,,26/10/2026 12:25
-2e97558d-d90f-4d78-ad4c-66dab2f012a0,internet.paris,premium,1233.78,1233.78,high,high,8,dynadot,,,26/10/2026 12:25
-40238ca3-7dfb-43e3-afca-b37e6d0030a1,communication.now,resell,,,high,low,13,,,,18/10/2026 02:18
-30e7d289-dd8b-44dd-848e-5ce2d9d23a8d,telecom.buzz,premium,109.69,55.11,high,low,7,porkbun,,,30/09/2026 13:03
-8c54ab4f-c0bc-4995-bd0d-2936d228e6b4,telecom.college,available,10.5,53.72,high,low,7,dynadot,,,30/09/2026 13:03
-05524b1a-6e29-4f30-8b70-eba4ff8cba38,communication.deals,available,39.99,39.99,high,low,13,namesilo,,,18/10/2026 02:18
-76398a7c-726f-4aff-ba1c-720c005d0a85,communication.llc,available,14.99,42.99,high,low,13,namesilo,,,18/10/2026 02:18
-45d483c5-299f-4c08-b6fb-3f5595107272,telecom.photos,available,15.99,29.99,high,low,7,namesilo,,,30/09/2026 13:03
-04ae2ddd-4382-4a66-939e-c290fd169fc0,communication.rodeo,available,12.99,12.99,high,low,13,namesilo,,,18/10/2026 02:18
-64254228-871c-44dc-a6dd-c1117e6d77a1,communication.motorcycles,available,1.99,17.29,high,low,13,namesilo,,,18/10/2026 02:18
-0e179c7b-588d-4fca-bbbb-304ebf393f38,wireless.life,premium,103.7,207.2,high,medium,8,spaceship,,,22/10/2026 18:54
-90d66750-8f86-4aef-8174-2e634a937a28,wireless.social,premium,99.5,118.8,high,medium,8,unstoppable,,,22/10/2026 18:54
-991d4327-234c-4bf8-a4bf-e7fa8378ee13,wireless.pink,premium,68.51,68.51,high,medium,8,spaceship,,,22/10/2026 18:54
-cc08a561-e416-49a5-be44-3f9ee5bdb87d,connectivity.desi,available,19.98,22.98,high,low,12,namecheap,,,01/10/2026 17:34
-e1a5479c-d389-4acb-96ec-e3451458769b,communication.market,premium,207.2,207.2,high,low,13,spaceship,,,18/10/2026 02:18
-c755c1eb-2c44-41aa-9eb2-4465604cfa2a,wireless.cruises,available,8.24,51.58,high,medium,8,dynadot,,,22/10/2026 18:54
-e1e229f1-3240-4eec-a3e0-4fe81ad73e9d,wireless.partners,premium,118.8,118.8,high,medium,8,namesilo,,,22/10/2026 18:54
-10b3d77b-e27c-4f82-9ea0-5928fa2ca19d,communication.soccer,available,10.92,23.76,high,low,13,dynadot,,,18/10/2026 02:18
-788395b4-55fd-4a0b-aa8b-99dea0354228,communication.spot,premium,100.5,103.7,high,low,13,unstoppable,,,18/10/2026 02:18
-493e7ee9-1877-4795-80d3-f484adc59d47,signal.systems,resell,,,high,medium,6,"NameCheap, Inc.",26/02/2025 17:00,26/02/2027 17:00,27/09/2026 22:11
-4e43c671-4e49-43a4-b18f-a56037a86131,telecom.show,available,18.99,44.49,high,low,7,namesilo,,,30/09/2026 13:03
-0ef5350b-219a-4361-898b-eda80425a71a,communication.rocks,available,6.93,17.8,high,low,13,spaceship,,,18/10/2026 02:18
-a1d500f1-60f2-4c6e-88a1-0feea93cab32,communication.tax,available,13.5,62.28,high,low,13,unstoppable,,,18/10/2026 02:18
-0a6df9d8-d662-42c9-8095-1837b0bc09da,communication.christmas,available,1.24,31.16,high,low,13,spaceship,,,18/10/2026 02:18
-805d4317-6027-461c-a029-191decbdd790,communication.show,available,34.2,34.2,high,low,13,cloudflare,,,18/10/2026 02:18
-1bca5d94-a238-4da4-a96d-aaae108471ba,connectivity.bio,available,9.99,69.99,high,low,12,namesilo,,,08/10/2026 09:37
-3dc97eaa-a353-4bc4-afc4-49a86d278355,communication.plumbing,available,58.16,58.16,high,low,13,spaceship,,,18/10/2026 02:18
-718676df-f324-4691-b7f1-5313d50be633,connectivity.webcam,premium,448,53.92,high,low,12,namesilo,,,08/10/2026 09:37
-ef54278c-c7c2-45b1-9562-b8a07eab5824,wireless.tickets,available,326.21,388.33,high,medium,8,spaceship,,,22/10/2026 18:54
-cd7f7107-64d8-4747-83f3-8f805825ce19,communication.creditcard,available,129.2,129.2,high,low,13,spaceship,,,18/10/2026 02:18
-d7e02813-4238-413f-8187-a1ab2e75becd,internet.immo,premium,520,520,high,high,8,namecheap,,,26/10/2026 12:25
-daf343c3-523d-4c62-b062-a2166bcebbcc,telecom.pizza,available,17.99,64.99,high,low,7,namesilo,,,30/09/2026 13:03
-7e739b20-9fc5-4d73-8c16-8138df27cdfb,provider.catering,available,30.2,30.2,high,medium,8,cloudflare,,,22/10/2026 18:32
-7d1a8c1c-fc54-4e48-8215-d1f3f7741a64,internet.partners,premium,118.8,118.8,high,high,8,namesilo,,,26/10/2026 12:25
-f22be3b7-5982-456e-968f-452666d3da15,telecom.build,premium,546.35,546.35,high,low,7,porkbun,,,30/09/2026 13:03
-2eb456a9-c484-486e-b362-0f582313897b,provider.tech,premium,647.08,2587.7,high,medium,8,spaceship,,,22/10/2026 18:32
-a6f91052-7f80-4418-9a8a-a4f9d34c40f5,telecom.photography,available,28.2,28.2,high,low,7,cloudflare,,,30/09/2026 13:03
-3d8b8f30-7995-4cce-a38b-42a1b1c27a1c,communication.win,premium,448,53.92,high,low,13,namesilo,,,18/10/2026 02:18
+ec1bc822-5a25-4336-966d-7920bf40abbb,wireless.flowers,available,100,100,high,medium,8,cloudflare,,,22/10/2026 18:54
+63dda080-0884-4516-8778-963c64f13191,internet.condos,available,45.2,45.2,high,high,8,cloudflare,,,27/10/2026 22:12
+9f7e06d4-184f-45a5-b582-d6e46e5d75f3,wireless.college,premium,650,650,high,medium,8,namecheap,,,22/10/2026 18:54
