@@ -1,10 +1,10 @@
-# One-Word Telecommunications Domains Across 506 TLDs (102,623)
+# One-Word Telecommunications Domains Across 506 TLDs (102,612)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-102%2C623%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-102%2C612%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 83,416 one-word telecommunications domain names across 506 TLDs, with a median asking price near $872. Names skew single-word and industry-adjacent rather than tied to one extension. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **102,623 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **102,612 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 102,623 domains · **Median ask:** $354.01 · **High-demand under $2,500:** 3,612
+**Public extract:** 1,000 rows · **Live catalog:** 102,612 domains · **Median ask:** $354.49 · **High-demand under $2,500:** 3,934
 
-**Last updated:** 2026-10-30
+**Last updated:** 2026-11-01
 **Canonical page:** `https://unique.domains/domains/sector/telecommunications`
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | network.accountants | available | $135.48   | $160.98       | high           | medium | 7      | namecheap                                    |
 | telecom.bio         | resell    | $9.99     | —             | high           | low    | 7      | Sav.com, LLC                                 |
-| network.accountant  | premium   | $116      | $29.50        | high           | medium | 7      | namesilo                                     |
+| signal.pw           | premium   | $640      | $640          | high           | medium | 6      | namesilo                                     |
 | network.airforce    | available | $103.99   | $103.99       | high           | medium | 7      | namesilo                                     |
 | telecom.health      | resell    | $19.99    | —             | high           | low    | 7      | name.com                                     |
-| network.attorney    | premium   | $3,105.20 | $3,105.20     | high           | medium | 7      | spaceship                                    |
+| network.accountant  | premium   | $116      | $29.50        | high           | medium | 7      | namesilo                                     |
 | network.apartments  | available | $67.98    | $81.48        | high           | medium | 7      | namecheap                                    |
 | telecom.love        | resell    | $38.98    | —             | high           | low    | 7      | namecheap                                    |
-| network.auction     | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo                                     |
+| network.attorney    | premium   | $3,105.20 | $3,105.20     | high           | medium | 7      | spaceship                                    |
 | network.archi       | available | $18.50    | $147.98       | high           | medium | 7      | unstoppable                                  |
 | telecom.works       | resell    | $7.99     | —             | high           | low    | 7      | Sav.com, LLC                                 |
-| network.band        | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo                                     |
+| network.auction     | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo                                     |
 | network.auto        | available | $1,863.20 | $2,064.20     | high           | medium | 7      | spaceship                                    |
-| signal.world        | resell    | —         | —             | high           | medium | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| network.bar         | premium   | $652.25   | $931.70       | high           | medium | 7      | spaceship                                    |
+| signal.online       | resell    | —         | —             | high           | medium | 6      | Squarespace Domains II LLC                   |
+| network.band        | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo                                     |
 | network.bargains    | available | $17.99    | $26.49        | high           | medium | 7      | namesilo                                     |
 | network.black       | resell    | —         | —             | high           | medium | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
-| network.beer        | premium   | $41.60    | $26.08        | high           | medium | 7      | spaceship                                    |
+| network.bar         | premium   | $652.25   | $931.70       | high           | medium | 7      | spaceship                                    |
 | network.bingo       | available | $53.99    | $53.99        | high           | medium | 7      | namesilo                                     |
 | network.blue        | resell    | —         | —             | high           | medium | 7      | Focus IP, Inc. dba Tracer                    |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 102,623 live domains                                 |
+| 1,000-row public sample | 102,612 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 3,612 high-demand names under $2,500                 |
+| Basic exported fields   | 3,934 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Telecommunications Domains Across 506 TLDs*. Version 2026-10-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Telecommunications Domains Across 506 TLDs*. Version 2026-11-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
